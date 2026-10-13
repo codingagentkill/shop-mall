@@ -1,7 +1,5 @@
-# Lilishop(PickMall) 开源商城系统
+# Lilishop 开源商城系统
 
-[![GitHub Stars](https://img.shields.io/github/stars/lilishop/lilishop.svg?style=social&logo=github)](https://github.com/lilishop/lilishop)
-[![Gitee Stars](https://gitee.com/beijing_hongye_huicheng/lilishop/badge/star.svg?theme=dark)](https://gitee.com/beijing_hongye_huicheng/lilishop)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](./LICENSE)
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.6-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -42,12 +40,6 @@ LILISHOP 是基于 Spring Boot / Spring Cloud / Vue / Uniapp 开发的 Java 开�
 后端基于 **Spring Boot 4**（Java 21）构建，具备高内聚、低耦合的特性，支持分布式部署。
 前端覆盖PC、H5、小程序和APP，基于 **Vue** 和 **uni-app** 开发。
 
--   **官方网站**: <https://pickmall.cn>
--   **官方文档**: <https://bdwx2tfwwt.feishu.cn/wiki/space/7675179368632617952?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home>
--   **Gitee 仓库**: <https://gitee.com/beijing_hongye_huicheng/lilishop>
--   **GitHub 仓库**: <https://github.com/lilishop/lilishop>
-
-
 ---
 
 ### 2. 核心特性
@@ -61,40 +53,17 @@ LILISHOP 是基于 Spring Boot / Spring Cloud / Vue / Uniapp 开发的 Java 开�
 
 ---
 
-### 3. 在线演示
-
-**注意**: 演示站手机验证码统一为 `111111`。演示环境部署于 `master` 分支。
-
--   **平台管理端**: <https://admin-b2b2c.pickmall.cn>
-    -   账号: `admin`
-    -   密码: `123456`
--   **店铺管理端**: <https://store-b2b2c.pickmall.cn>
-    -   账号: `demo`
-    -   密码: `111111`
--   **商城PC端**: <https://pc-b2b2c.pickmall.cn>
--   **微信小程序**:
-    ![移动端体验二维码](https://static.pickmall.cn/images/h5-qrcode.png)
-
----
-
-### 4. 快速开始
-
-#### 环境准备与部署
-详细的本地部署指南，请参考官方文档：
-[**部署文档 -> 环境准备**](https://docs.pickmall.cn/deply/deply.html)
+### 3. 快速开始
 
 #### 数据库初始化
 -   **推荐方式**: 使用项目提供的 `docker-compose` 配置，可自动完成数据库（MySQL、Redis 等）的部署与初始化。
--   **手动方式**: 如果您选择手动部署，SQL脚本位于以下地址。请确保获取与您代码版本一致的SQL文件。
-    [**数据库脚本 (Gitee)**](https://gitee.com/beijing_hongye_huicheng/docker/tree/master/init/mysql)
+-   **手动方式**: SQL 脚本位于本仓库 `DB/` 目录，请确保获取与代码版本一致的 SQL 文件。
 
 ---
 
-### 5. 架构文档边界
+### 4. 模块说明
 
-本仓库首页不再维护不完整的系统架构图和技术栈表，避免与实际源码、部署形态和分支差异产生偏差。当前仓库主要说明后端源码定位、在线演示、部署入口和验证补充。
-
-完整架构请以官方文档及四个源码仓库为准：
+本仓库主要说明后端源码定位与部署入口。
 
 - 后端源码：`lilishop`
 - PC / 商家端 / 运营端 / IM Web：`lilishop-ui`
@@ -103,35 +72,7 @@ LILISHOP 是基于 Spring Boot / Spring Cloud / Vue / Uniapp 开发的 Java 开�
 
 ---
 
-### 6. 功能列表
-
-[功能清单](https://bdwx2tfwwt.feishu.cn/sheets/FFQKscQKDhUx60to1k9cbMngnYb?from=from_copylink)
-
----
-
-### 7. 开源与授权
-
-1.  **开源协议**: 本项目遵循 `AGPL-3.0` 开源协议。
-2.  **使用范围**: 仅允许用于个人学习、研究和非商业用途。
-3.  **禁止行为**: 禁止将本项目的代码和资源用于任何形式的商业销售。
-4.  **商业授权**: 如需商业使用，必须获得官方授权。授权为一次性永久授权，并提供持续的版本升级服务。详情请联系官网客服。
-5.  **软件著作权**: 本软件受国家计算机软件著作权保护（登记号：2021SR0805085）。
-
----
-
-### 8. 社区与支持
-
-我们欢迎任何形式的交流与贡献。在提问前，请先查阅 [官方文档](https://docs.pickmall.cn/) ，并参考 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) 以便高效沟通。
-
--   **[在线客服](https://work.weixin.qq.com/kfid/kfc4d8dc24a73c15f44)**
--   **微信交流群**:
-    ![微信群](https://lilishop-wechat.oss-cn-beijing.aliyuncs.com/wechat.jpg)
-
----
-
-### 9. 升级计划
-
-以下功能将陆续在后续版本中发布：✅ 已完成 · 🔜 规划中
+### 5. 功能列表
 
 - ✅ 商品定时上下架
 - ✅ 商品分组
@@ -157,3 +98,11 @@ LILISHOP 是基于 Spring Boot / Spring Cloud / Vue / Uniapp 开发的 Java 开�
 - 🔜 财务汇总
 - 🔜 微信小店对接
 - 🔜 抖店对接
+
+---
+
+### 6. 开源与授权
+
+1.  **开源协议**: 本项目遵循 `AGPL-3.0` 开源协议。
+2.  **使用范围**: 仅允许用于个人学习、研究和非商业用途。
+3.  **禁止行为**: 禁止将本项目的代码和资源用于任何形式的商业销售。

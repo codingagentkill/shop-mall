@@ -12,8 +12,8 @@ https://mp.weixin.qq.com/
 ```
 server {
 listen       443 ssl;
-ssl_certificate "/etc/nginx/ssl/pickmall.cn.pem";
-ssl_certificate_key "/etc/nginx/ssl/pickmall.cn.key";
+ssl_certificate "/etc/nginx/ssl/example.com.pem";
+ssl_certificate_key "/etc/nginx/ssl/example.com.key";
 ssl_session_cache shared:SSL:1m;
 ssl_session_timeout  10m;
 ssl_ciphers HIGH:!aNULL:!MD5;
