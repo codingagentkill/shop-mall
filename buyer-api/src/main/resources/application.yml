@@ -1,0 +1,191 @@
+server:
+  port: 8888
+
+  servlet:
+    context-path: /
+
+# actuator 仅暴露健康检查端点。
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health
+spring:
+  application:
+    name: buyer-api
+
+  # 文件大小上传配置
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 20MB
+  cache:
+    type: redis
+  # jackson json 配置
+  jackson:
+    time-zone: GMT+8
+    serialization:
+      # 关闭 jackson 对 json 做解析
+      fail-on-empty-beans: false
+
+  # Redis
+  data:
+    redis:
+      host: 192.168.31.100
+      port: 30379
+      password: lilishop
+      lettuce:
+        pool:
+          # 连接池最大连接数（使用负值表示没有限制）默认 8
+          max-active: 200
+          # 连接池最大阻塞等待时间（使用负值表示没有限制）默认 -1
+          max-wait: 20s
+          # 连接池中的最大空闲连接，默认 8
+          max-idle: 10
+          # 连接池中的最小空闲连接，默认 8
+          min-idle: 8
+  # 数据源配置
+  datasource:
+    url: jdbc:mysql://192.168.31.100:3306/lilishop?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: lilishop
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+
+# 忽略 TOKEN 鉴权的 url
+ignored:
+  urls:
+    - /editor-app/**
+    - /MP_verify_qSyvBPhDsPdxvOhC.txt
+    - /weixin/**
+    - /source/**
+    - /buyer/payment/cashier/**
+    - /buyer/payment/cashierRefund/**
+    - /buyer/other/pageData/**
+    - /buyer/live/room/polling/**
+    - /buyer/other/article/**
+    - /buyer/other/wechat/h5/callback
+    - /buyer/goods/**
+    - /buyer/store/**
+    - /buyer/passport/connect/**
+    - /buyer/members/**
+    # passport/member 只放行登录/注册/找回密码/扫码登录所需的匿名端点，其余（用户信息、改密、注销等）必须登录
+    - /buyer/passport/member/userLogin
+    - /buyer/passport/member/smsLogin
+    - /buyer/passport/member/register
+    - /buyer/passport/member/resetByMobile
+    - /buyer/passport/member/resetPassword
+    - /buyer/passport/member/refresh/**
+    - /buyer/passport/member/pc_session
+    - /buyer/passport/member/session_login/**
+    - /buyer/passport/member/app_scanner
+    - /buyer/passport/member/app_confirm
+    - /buyer/passport/member/bindMobile
+    - /buyer/passport/member/logout
+    - /buyer/promotion/pintuan/**
+    - /buyer/promotion/seckill/**
+    - /buyer/promotion/pointsGoods/**
+    - /buyer/promotion/coupon
+    - /buyer/member/evaluation/*/goodsEvaluation
+    - /buyer/member/evaluation/*/evaluationNumber
+    - /buyer/other/appVersion/**
+    - /buyer/broadcast/studio/**
+    - /buyer/distribution/distribution/recruit/page
+    - /buyer/distribution/distribution/recruit/inviter
+    - /buyer/common/slider/**
+    - /buyer/common/sms/**
+    - /buyer/common/site/**
+    - /buyer/common/region/**
+    - /buyer/common/IM
+    - /druid/**
+    - /swagger-ui.html
+    - /swagger-ui/**
+    - /v3/api-docs
+    - /v3/api-docs/**
+
+# Mybatis-plus
+mybatis-plus:
+  mapper-locations: classpath*:mapper/*.xml
+  configuration:
+    # 缓存开启
+    cache-enabled: true
+    # 日志
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+# 日志
+logging:
+  config: classpath:logback-spring.xml
+  # 输出级别
+  level:
+    root: info
+#    org.springframework: debug
+  file:
+    # 指定路径
+    path: lili-logs
+
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui/index.html
+  packages-to-scan: cn.lili.controller
+  paths-to-match: /buyer/**
+
+lili:
+  runtime:
+    mode: microservice
+  wechat:
+    mp:
+      # URL Link 打开版本：release / trial / develop / auto（依次尝试，适合开发环境）
+      url-link-env-version: auto
+  local-file:
+    path: data/uploads
+    url-prefix: /files
+  verification-code:
+    effectiveTime: 300
+    watermark: LILI-SHOP
+    interfereNum: 0
+    faultTolerant: 3
+    loginBypassEnabled: false
+  system:
+    isDemoSite: true
+  statistics:
+    # 在线人数统计 X 小时。这里设为 48，即统计过去 48 小时每小时在线人数
+    onlineMember: 48
+    # 当前在线人数刷新时间间隔，单位秒，设置为 600，则每 10 分钟刷新一次
+    currentOnlineUpdate: 600
+
+  # jwt 细节设定
+  jwt-setting:
+    # token 过期时间（分钟）
+    tokenExpireTime: 259200
+
+  # 使用 Spring @Cacheable 注解失效时间
+  cache:
+    # 过期时间，单位秒；永久不过期设为 -1
+    timeout: 1500
+  # 多线程配置
+  thread:
+    corePoolSize: 5
+    maxPoolSize: 50
+    queueCapacity: 50
+  data:
+    rocketmq:
+      promotion-topic: lili_promotion_topic
+      promotion-group: lili_promotion_group
+      goods-topic: lili_goods_topic
+      goods-group: lili_goods_group
+      order-topic: lili_order_topic
+      order-group: lili_order_group
+      member-topic: lili_member_topic
+      member-group: lili_member_group
+      store-topic: lili_store_topic
+      store-group: lili_store_group
+      notice-topic: lili_notice_topic
+      notice-group: lili_notice_group
+      notice-send-topic: lili_send_notice_topic
+      notice-send-group: lili_send_notice_group
+      after-sale-topic: lili_after_sale_topic
+      after-sale-group: lili_after_sale_group
+    send-message-timeout: 30000
