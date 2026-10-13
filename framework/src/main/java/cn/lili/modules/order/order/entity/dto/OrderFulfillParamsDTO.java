@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 统一发货请求
  *
- * @author Mike
  * @since 2026-08-13
  */
 @Data

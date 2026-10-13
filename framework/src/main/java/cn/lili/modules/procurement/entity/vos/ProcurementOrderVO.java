@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 采购订单视图对象
  * 携带采购订单基础信息与明细项集合
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

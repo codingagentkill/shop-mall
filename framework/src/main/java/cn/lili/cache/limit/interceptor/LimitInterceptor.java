@@ -20,7 +20,6 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 /**
  * 流量拦截
  *
- * @author Chopper
  */
 @Aspect
 @Configuration

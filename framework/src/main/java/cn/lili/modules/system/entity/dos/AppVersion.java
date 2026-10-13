@@ -18,7 +18,6 @@ import java.util.Date;
 /**
  * app历史版本维护
  *
- * @author zh
  * @since 2020-06-20 09:29:19
  */
 @Data

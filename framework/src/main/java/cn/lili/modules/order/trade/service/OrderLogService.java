@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 订单日志业务层
  *
- * @author Chopper
  * @since 2020-02-25 14:10:16
  */
 public interface OrderLogService extends IService<OrderLog> {

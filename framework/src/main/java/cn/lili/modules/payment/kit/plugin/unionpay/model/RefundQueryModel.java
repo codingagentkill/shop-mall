@@ -9,7 +9,6 @@
  *
  * <p>云闪付-查询退款</p>
  *
- * @author Javen
  */
 package cn.lili.modules.payment.kit.plugin.unionpay.model;
 

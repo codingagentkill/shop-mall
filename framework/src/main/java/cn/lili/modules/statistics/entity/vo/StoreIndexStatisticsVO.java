@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 店铺首页数据
  *
- * @author Chopper
  * @since 2021/3/17 4:04 下午
  */
 @Data

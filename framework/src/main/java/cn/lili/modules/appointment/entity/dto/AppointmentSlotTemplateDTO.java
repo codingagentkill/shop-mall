@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 预约时段模板保存参数
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 @Data

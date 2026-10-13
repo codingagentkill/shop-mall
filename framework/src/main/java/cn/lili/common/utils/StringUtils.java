@@ -17,7 +17,6 @@ import java.util.regex.Pattern;
 /**
  * 字串工具类
  *
- * @author pikachu
  */
 public class StringUtils extends StrUtil {
 

@@ -6,7 +6,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 /**
  * 分销等级数据处理层
  *
- * @author pikachu
  */
 public interface DistributionGradeMapper extends BaseMapper<DistributionGrade> {
 }

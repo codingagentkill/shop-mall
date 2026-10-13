@@ -8,7 +8,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 /**
- * @author paulG
  * @since 2020/12/1
  **/
 @ExtendWith(SpringExtension.class)

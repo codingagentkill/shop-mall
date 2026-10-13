@@ -17,7 +17,6 @@ import java.util.List;
 /**
  * 店员业务层
  *
- * @author wget
  * @title: ClerkService
  * @projectName lilishop
  * @date 2021/12/28 7:42 下午

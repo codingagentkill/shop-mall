@@ -17,7 +17,6 @@ import java.util.concurrent.ConcurrentHashMap;
  *
  * <p>云闪付常用配置 Kit</p>
  *
- * @author Javen
  */
 public class UnionPayApiConfigKit {
     private static final ThreadLocal<String> TL = new ThreadLocal<String>();

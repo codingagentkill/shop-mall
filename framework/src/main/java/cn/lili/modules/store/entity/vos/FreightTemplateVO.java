@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 店铺运费模板
  *
- * @author Bulbasaur
  * @since 2020/11/24 14:29
  */
 @Data

@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 /**
  * 微信小程序直播商品DTO
  *
- * @author Bulbasaur
  * @since 2021/5/17 11:03 上午
  */
 @Data

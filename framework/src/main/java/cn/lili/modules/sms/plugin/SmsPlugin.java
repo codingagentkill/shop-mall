@@ -10,7 +10,6 @@ import java.util.Map;
 /**
  * 短信插件接口
  *
- * @author Bulbasaur
  * @since 2023-02-16
  */
 public interface SmsPlugin {

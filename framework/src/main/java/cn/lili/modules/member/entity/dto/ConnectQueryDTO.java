@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * ConnectQueryDTO
  *
- * @author Chopper
  * @version v1.0
  * 2021-12-01 14:34
  */

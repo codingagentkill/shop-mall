@@ -5,7 +5,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
  * 微信消息 业务层
- * @author Chopper
  */
 public interface WechatMessageService extends IService<WechatMessage> {
 

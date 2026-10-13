@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 客户数据处理层
  *
- * @author Bulbasaur
  * @since 2020-02-25 14:10:16
  */
 public interface MemberMapper extends BaseMapper<Member> {

@@ -19,7 +19,6 @@ import org.springframework.stereotype.Component;
 /**
  * 虚拟商品
  *
- * @author Bulbasaur
  * @since 2021/5/29 9:17 上午
  */
 @Component

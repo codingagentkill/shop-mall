@@ -3,7 +3,6 @@ package cn.lili.modules.promotion.entity.enums;
 /**
  * 礼品卡卡密凭证状态枚举（平台制卡/库存）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 public enum GiftCardCashCredentialStatusEnum {

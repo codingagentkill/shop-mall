@@ -32,7 +32,6 @@ import java.util.Collections;
 /**
  * 管理端,系统设置接口
  *
- * @author Chopper
  * @since 2020/11/26 15:53
  */
 @RestController

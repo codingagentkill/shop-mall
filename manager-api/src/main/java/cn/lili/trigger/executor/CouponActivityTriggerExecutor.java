@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 /**
  * 优惠券活动精准发圈延时触发
  *
- * @author Bulbasaur
  * @since 2021/6/1 5:02 下午
  */
 @Slf4j

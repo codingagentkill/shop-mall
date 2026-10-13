@@ -13,7 +13,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 交易投诉业务层
  *
- * @author paulG
  * @since 2020/12/4
  **/
 public interface OrderComplaintService extends IService<OrderComplaint> {

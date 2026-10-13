@@ -12,7 +12,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 分销商品数据处理层
  *
- * @author pikachu
  * @since 2020-03-24 23:04:56
  */
 public interface DistributionGoodsMapper extends BaseMapper<DistributionGoods> {

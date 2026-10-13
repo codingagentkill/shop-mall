@@ -24,7 +24,6 @@ import java.nio.file.StandardOpenOption;
 /**
  * 管理端,微信消息接口
  *
- * @author Chopper
  * @since 2020/12/2 10:40
  */
 @RestController

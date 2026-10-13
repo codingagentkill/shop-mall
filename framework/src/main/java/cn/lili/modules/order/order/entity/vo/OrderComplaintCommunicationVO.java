@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 /**
  * 投诉通信VO
  *
- * @author paulG
  * @since 2020/12/5
  **/
 @Data

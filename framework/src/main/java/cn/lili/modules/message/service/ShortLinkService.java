@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 短链接 业务层
  *
- * @author Chopper
  */
 public interface ShortLinkService extends IService<ShortLink> {
 

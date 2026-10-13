@@ -18,7 +18,6 @@ import java.util.Date;
 /**
  * 结算单
  *
- * @author Chopper
  * @since 2020/11/17 4:27 下午
  */
 @Data

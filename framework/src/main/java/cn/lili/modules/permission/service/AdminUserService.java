@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * 用户业务层
  *
- * @author Chopper
  * @since 2020/11/17 3:42 下午
  */
 @CacheConfig(cacheNames = "{adminuser}")

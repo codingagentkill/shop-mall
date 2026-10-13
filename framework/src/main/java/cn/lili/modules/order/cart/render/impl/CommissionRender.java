@@ -25,7 +25,6 @@ import java.util.Optional;
 /**
  * 佣金计算
  *
- * @author Chopper
  * @see CartVO
  */
 @Service

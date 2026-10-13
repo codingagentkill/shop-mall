@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 会员绑定礼品卡请求参数（卡号与兑换码）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 验证码资源缓存DTO
  *
- * @author Chopper
  * @since 2020/12/2 17:50
  */
 @Data

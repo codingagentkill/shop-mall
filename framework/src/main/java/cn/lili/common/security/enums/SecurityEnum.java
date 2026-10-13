@@ -3,7 +3,6 @@ package cn.lili.common.security.enums;
 /**
  * 安全相关常量
  *
- * @author Chopper
  */
 public enum SecurityEnum {
 

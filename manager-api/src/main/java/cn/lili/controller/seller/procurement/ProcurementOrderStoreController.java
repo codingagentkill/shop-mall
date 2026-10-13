@@ -20,7 +20,6 @@ import java.util.Map;
 /**
  * 店铺端采购单接口
  * 支持创建、提交、审核、关闭、详情与分页查询
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Tag(name = "店铺端,采购单接口")

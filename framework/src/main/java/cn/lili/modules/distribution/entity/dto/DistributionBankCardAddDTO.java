@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 /**
  * 分销员银行卡添加DTO
  *
- * @author Bulbasaur
  * @since 2026-08-06
  */
 @Data

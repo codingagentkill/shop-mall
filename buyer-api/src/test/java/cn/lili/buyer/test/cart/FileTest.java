@@ -17,7 +17,6 @@ import java.net.URL;
 import java.util.List;
 
 /**
- * @author paulG
  * @since 2020/11/14
  **/
 @Slf4j

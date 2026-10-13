@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 商品参数倒排（搜索用）。纯派生数据，物理删除，不带审计列。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Data

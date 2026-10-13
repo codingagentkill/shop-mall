@@ -39,7 +39,6 @@ import java.util.List;
 /**
  * 砍价业务层实现
  *
- * @author qiuqiu
  * @since 2021/7/1
  */
 @Service

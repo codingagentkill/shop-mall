@@ -27,7 +27,6 @@ import static org.mockito.Mockito.when;
 /**
  * 业绩达标时 refreshGrade 写入等级历史。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class DistributionGradeServiceImplRefreshGradeTest {

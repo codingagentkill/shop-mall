@@ -27,7 +27,6 @@ import java.util.Objects;
 /**
  * 店铺端,物流公司接口
  *
- * @author Bulbasaur
  * @since 2020/11/22 14:23
  */
 @RestController

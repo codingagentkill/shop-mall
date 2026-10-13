@@ -8,7 +8,6 @@ import java.math.BigDecimal;
 /**
  * 分销员订单列表汇总（总数 + 佣金合计）
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 @Data

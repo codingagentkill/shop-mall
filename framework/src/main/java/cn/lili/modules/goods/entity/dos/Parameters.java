@@ -14,7 +14,6 @@ import org.hibernate.validator.constraints.Length;
 /**
  * 商品参数
  *
- * @author pikachu
  * @since 2020-02-23 9:14:33
  */
 @EqualsAndHashCode(callSuper = true)

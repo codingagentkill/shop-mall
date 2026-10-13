@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * 管理端,敏感词管理接口
  *
- * @author Bulbasaur
  * @since 2020-05-06 15:18:56
  */
 @RestController

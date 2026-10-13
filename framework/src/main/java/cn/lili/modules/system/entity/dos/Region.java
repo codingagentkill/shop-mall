@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 行政地区
  *
- * @author Chopper
  * @since 2020-02-25 14:10:16
  */
 @Data

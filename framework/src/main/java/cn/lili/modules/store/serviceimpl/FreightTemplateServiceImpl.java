@@ -30,7 +30,6 @@ import java.util.List;
 /**
  * 店铺运费模板业务层实现
  *
- * @author Bulbasaur
  * @since 2020/11/22 16:00
  */
 @Service

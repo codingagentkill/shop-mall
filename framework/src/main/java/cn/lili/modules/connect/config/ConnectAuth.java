@@ -7,7 +7,6 @@ import cn.lili.modules.connect.exception.AuthException;
 /**
  * OAuth平台的API地址的统一接口
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/12/4 12:17
  */

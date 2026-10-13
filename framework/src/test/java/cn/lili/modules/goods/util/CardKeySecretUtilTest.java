@@ -7,7 +7,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * CardKeySecretUtil 明文读写测试。
  *
- * @author Mike
  * @date 2026-07-31
  */
 class CardKeySecretUtilTest {

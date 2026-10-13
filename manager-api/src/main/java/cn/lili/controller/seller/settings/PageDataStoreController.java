@@ -23,7 +23,6 @@ import java.util.Objects;
 /**
  * 店铺端,页面设置管理接口
  *
- * @author paulGao
  * @since 2020-05-06 15:18:56
  */
 @RestController

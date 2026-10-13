@@ -24,7 +24,6 @@ import java.util.Objects;
 /**
  * 店铺端销售报表
  *
- * @author Bulbasaur
  * @since 2026/07/20
  */
 @Tag(name = "店铺端,销售报表")

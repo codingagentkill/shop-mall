@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 商品参数查询参数
  *
- * @author Bulbasaur
  * @since 2020-02-23 9:14:33
  */
 @Data

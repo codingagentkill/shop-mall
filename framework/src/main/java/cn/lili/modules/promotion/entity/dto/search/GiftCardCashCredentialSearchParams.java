@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 卡密凭证分页查询条件（平台库存）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

@@ -18,7 +18,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 店铺端,商品计量单位接口
  *
- * @author Bulbasaur
  * @since 2020/11/26 16:15
  */
 @RestController

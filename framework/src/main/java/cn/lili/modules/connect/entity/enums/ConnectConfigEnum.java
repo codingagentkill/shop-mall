@@ -3,7 +3,6 @@ package cn.lili.modules.connect.entity.enums;
 /**
  * 联合登录配置
  *
- * @author Chopper
  * @version v1.0
  * 2020-11-25 18:23
  */

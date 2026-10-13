@@ -80,7 +80,6 @@ import java.util.stream.Collectors;
 /**
  * 现金礼品卡服务实现类（活动、制卡、发卡、绑定、抵扣、退款等核心业务）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Slf4j

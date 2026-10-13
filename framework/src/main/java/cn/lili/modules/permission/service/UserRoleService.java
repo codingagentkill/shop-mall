@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 管理员业务层
  *
- * @author Chopper
  * @since 2020/11/17 3:46 下午
  */
 public interface UserRoleService extends IService<UserRole> {

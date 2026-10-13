@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 预约订单扩展，对应 {@code li_appointment_order_ext}
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

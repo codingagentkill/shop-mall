@@ -24,7 +24,6 @@ import java.util.Objects;
 /**
  * 店铺端,商品分类接口
  *
- * @author Chopper
  * @since 2021/2/20 2:26 下午
  */
 @RestController

@@ -24,7 +24,6 @@ import java.util.Map;
 /**
  * 管理端,促销接口
  *
- * @author paulG
  * @since 2021/2/2
  **/
 @RestController

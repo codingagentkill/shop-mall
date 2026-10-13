@@ -15,7 +15,6 @@ import org.springframework.stereotype.Component;
 /**
  * 注册赠券活动
  *
- * @author Bulbasaur
  * @since 2021/5/24 10:48 上午
  */
 @Component

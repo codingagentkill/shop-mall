@@ -22,7 +22,6 @@ import java.util.List;
  * 后台改绑/解绑及关系到期处理。
  * </p>
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionCustomerRelationService extends IService<DistributionCustomerRelation> {

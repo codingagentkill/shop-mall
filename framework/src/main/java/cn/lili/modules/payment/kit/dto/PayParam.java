@@ -8,7 +8,6 @@ import lombok.ToString;
 /**
  * 支付参数
  *
- * @author Chopper
  * @since 2020/12/19 11:46
  */
 @Data

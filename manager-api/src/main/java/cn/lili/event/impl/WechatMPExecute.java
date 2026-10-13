@@ -10,7 +10,6 @@ import org.springframework.stereotype.Service;
 /**
  * 微信小程序执行器
  *
- * @author Chopper
  * @version v1.0 2021-04-19 14:25
  */
 @Slf4j

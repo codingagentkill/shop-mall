@@ -25,8 +25,6 @@ import java.util.Map;
 /**
  * qq登录
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
- * @author yangkai.shen (https://xkcoding.com)
  * @since 1.1.0
  */
 public class BaseAuthQQRequest extends BaseAuthRequest {

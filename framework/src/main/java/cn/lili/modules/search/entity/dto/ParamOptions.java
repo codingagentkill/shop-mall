@@ -7,7 +7,6 @@ import java.util.List;
 /**
  * 参数属性选择器
  *
- * @author paulG
  * @since 2020/10/20
  **/
 @Data

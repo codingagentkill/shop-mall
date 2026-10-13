@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 分销客户关系变更日志VO
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

@@ -20,7 +20,6 @@ import org.springframework.stereotype.Component;
 /**
  * 文件服务抽象工厂 直接返回操作类
  *
- * @author Chopper
  * @version v1.0
  * 2022-06-06 11:35
  */

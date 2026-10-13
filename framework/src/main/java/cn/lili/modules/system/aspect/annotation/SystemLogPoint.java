@@ -5,7 +5,6 @@ import java.lang.annotation.*;
 /**
  * 系统日志AOP注解
  *
- * @author Chopper
  */
 @Target({ElementType.TYPE, ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)

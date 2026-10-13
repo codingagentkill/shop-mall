@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 分销员推广/邀请订单分页结果
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

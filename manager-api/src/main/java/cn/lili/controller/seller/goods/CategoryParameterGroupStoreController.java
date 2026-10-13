@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 店铺端,分类绑定参数管理接口
  *
- * @author pikachu
  * @since 2020-02-18 15:18:56
  */
 @RestController

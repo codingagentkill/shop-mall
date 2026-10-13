@@ -12,7 +12,6 @@ import lombok.EqualsAndHashCode;
 /**
  * MessageQueryParams
  *
- * @author Chopper
  * @version v1.0
  * 2022-01-20 17:16
  */

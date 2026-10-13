@@ -19,7 +19,6 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 管理端发送消息内容业务层实现
  *
- * @author Chopper
  * @since 2020/11/17 3:48 下午
  */
 @Service

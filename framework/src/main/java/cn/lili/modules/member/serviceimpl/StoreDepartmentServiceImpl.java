@@ -26,7 +26,6 @@ import java.util.List;
 /**
  * 店铺部门业务层实现
  *
- * @author Chopper
  * @since 2020/11/17 3:47 下午
  */
 @Slf4j

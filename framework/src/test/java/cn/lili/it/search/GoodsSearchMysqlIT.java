@@ -31,7 +31,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * MySQL 8.0.30 上真实执行 mapper SQL、分页、倒排同步与重建。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Tag("it")

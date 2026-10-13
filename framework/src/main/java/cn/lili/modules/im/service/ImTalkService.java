@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 聊天 业务层
  *
- * @author Chopper
  */
 public interface ImTalkService extends IService<ImTalk> {
 

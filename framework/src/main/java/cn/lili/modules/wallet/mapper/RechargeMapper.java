@@ -11,7 +11,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 预存款充值记录数据处理层
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 public interface RechargeMapper extends BaseMapper<Recharge> {

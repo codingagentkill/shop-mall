@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 邀请列表时间范围解析
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public final class DistributionInviteRangeSupport {

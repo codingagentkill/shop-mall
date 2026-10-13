@@ -4,7 +4,6 @@ package cn.lili.modules.goods.entity.enums;
 /**
  * 直播间状态
  *
- * @author Bulbasaur
  * @since 2021/5/31 10:32 上午
  */
 public enum StudioStatusEnum {

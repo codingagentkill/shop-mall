@@ -6,7 +6,6 @@ import org.jasypt.encryption.pbe.config.SimpleStringPBEConfig;
 
 /**
  * 加密解密
- * @author Chopper
  */
 public class JasyptUtil {
 

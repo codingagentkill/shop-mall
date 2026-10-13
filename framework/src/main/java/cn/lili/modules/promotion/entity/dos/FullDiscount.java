@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 满优惠活动实体类
  *
- * @author Chopper
  * @since 2020-03-19 10:44 上午
  */
 @EqualsAndHashCode(callSuper = true)

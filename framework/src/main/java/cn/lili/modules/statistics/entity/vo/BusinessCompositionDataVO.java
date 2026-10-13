@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 营业构成VO
  *
- * @author Bulbasaur
  * @since 2025/08/25 7:07 下午
  */
 @Data

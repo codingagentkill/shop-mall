@@ -35,7 +35,6 @@ import java.util.Map;
 /**
  * 店铺端预约服务接口
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @RestController

@@ -4,7 +4,6 @@ import cn.lili.cache.limit.annotation.RedisCacheable;
 import cn.lili.modules.live.entity.vos.LivePollingDataVO;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 public interface LivePollingDataCacheService {

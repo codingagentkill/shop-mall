@@ -32,7 +32,6 @@ import java.util.Objects;
 /**
  * 预存款业务层实现
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 @Service

@@ -9,7 +9,6 @@ import tools.jackson.databind.ValueDeserializer;
 /**
  * 兼容 WebSocket 消息中 context 为字符串或 JSON 对象的反序列化。
  *
- * @author liushuai
  */
 public class FlexibleJsonStringDeserializer extends ValueDeserializer<String> {
 

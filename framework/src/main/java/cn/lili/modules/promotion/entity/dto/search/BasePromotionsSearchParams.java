@@ -12,7 +12,6 @@ import java.util.Arrays;
 import java.util.Date;
 
 /**
- * @author paulG
  * @since 2021/11/18
  **/
 @Data

@@ -5,7 +5,6 @@ import lombok.Data;
 /**
  * 客户dto
  *
- * @author Chopper
  * @version v1.0
  * 2021-06-18 11:30
  */

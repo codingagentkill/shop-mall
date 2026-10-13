@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 买家端 - 分销员银行卡管理接口
  *
- * @author Bulbasaur
  * @since 2026-08-06
  */
 @RestController

@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 分销招募申请DTO
  *
- * @author pikachu
  */
 @Data
 public class DistributionRecruitApplyDTO {

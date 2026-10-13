@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 定时执行配置
  *
- * @author Chopper
  * @version v1.0
  * 2021-11-23 16:30
  */

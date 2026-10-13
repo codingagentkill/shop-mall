@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 支持的支付方式表单
  *
- * @author Chopper
  * @version v1.0
  * 2021-01-26 15:52
  */

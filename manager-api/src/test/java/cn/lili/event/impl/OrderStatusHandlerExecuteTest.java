@@ -15,7 +15,6 @@ import static org.mockito.Mockito.verify;
 /**
  * 零元交易自动支付（含促销后 E_COUPON flowPrice=0）。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class OrderStatusHandlerExecuteTest {

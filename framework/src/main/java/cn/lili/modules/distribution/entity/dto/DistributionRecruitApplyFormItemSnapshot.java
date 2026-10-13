@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 招募申请动态填写内容快照（存于申请记录 JSON）
  *
- * @author pikachu
  */
 @Data
 public class DistributionRecruitApplyFormItemSnapshot {

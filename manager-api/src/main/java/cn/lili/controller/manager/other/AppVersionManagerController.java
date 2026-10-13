@@ -19,7 +19,6 @@ import jakarta.validation.Valid;
 /**
  * 管理端,app版本控制器
  *
- * @author Chopper
  * @since 2018-07-04 21:50:52
  */
 @RestController

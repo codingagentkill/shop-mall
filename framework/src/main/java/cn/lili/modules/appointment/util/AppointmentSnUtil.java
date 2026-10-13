@@ -5,7 +5,6 @@ import cn.lili.common.utils.SnowFlake;
 /**
  * 预约业务单号生成
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 public final class AppointmentSnUtil {

@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 钱包变动日志业务层
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 public interface WalletLogService extends IService<WalletLog> {

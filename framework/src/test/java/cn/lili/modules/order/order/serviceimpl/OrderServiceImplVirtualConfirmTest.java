@@ -25,7 +25,6 @@ import static org.mockito.Mockito.verify;
 /**
  * virtualOrderConfirm 仅 VIRTUAL+PAID 写 TAKE；E_COUPON 误入时拒绝。
  *
- * @author Mike
  * @date 2026-07-31
  */
 class OrderServiceImplVirtualConfirmTest {

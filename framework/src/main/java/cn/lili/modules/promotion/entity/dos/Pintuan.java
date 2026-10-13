@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 拼团活动实体类
  *
- * @author Chopper
  * @since 2020-03-19 10:44 上午
  */
 @Data

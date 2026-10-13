@@ -3,7 +3,6 @@ package cn.lili.modules.goods.entity.enums;
 /**
  * 商品审核
  *
- * @author pikachu
  * @since 2020-02-26 23:24:13
  */
 public enum GoodsAuthEnum {

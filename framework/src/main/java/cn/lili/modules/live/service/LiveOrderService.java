@@ -6,7 +6,6 @@ import cn.lili.modules.order.order.entity.vo.OrderSimpleVO;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 public interface LiveOrderService {

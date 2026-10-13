@@ -31,7 +31,6 @@ import java.util.stream.Collectors;
 /**
  * 分销等级变更历史服务实现
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 @Service

@@ -16,7 +16,6 @@ import org.springframework.stereotype.Service;
 /**
  * 积分商品分类业务层实现
  *
- * @author paulG
  * @since 2020/8/21
  **/
 @Service

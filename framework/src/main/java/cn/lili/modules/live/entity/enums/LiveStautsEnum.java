@@ -1,7 +1,6 @@
 package cn.lili.modules.live.entity.enums;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 public enum LiveStautsEnum {

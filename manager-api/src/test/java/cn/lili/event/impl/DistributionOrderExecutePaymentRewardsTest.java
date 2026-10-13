@@ -16,7 +16,6 @@ import static org.mockito.Mockito.when;
 /**
  * 订单状态 MQ 补偿入账：已有奖励则跳过，失败后可补。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class DistributionOrderExecutePaymentRewardsTest {

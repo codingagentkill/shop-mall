@@ -13,7 +13,6 @@ import java.util.Objects;
 /**
  * 分销员商品查询条件
  *
- * @author pikachu
  * @since 2020-03-14 23:04:56
  */
 @EqualsAndHashCode(callSuper = true)

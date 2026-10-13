@@ -11,7 +11,6 @@ package cn.lili.modules.payment.kit.plugin.unionpay.enums;
  *
  * <p>云闪付接口类型枚举</p>
  *
- * @author Javen
  */
 public enum ServiceEnum {
     /**

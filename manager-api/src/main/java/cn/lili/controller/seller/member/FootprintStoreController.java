@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 商家端,浏览历史接口
  *
- * @author chc
  * @since 2022/6/2114:46
  */
 @RestController

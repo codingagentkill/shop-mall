@@ -26,7 +26,6 @@ import jakarta.validation.constraints.NotNull;
 /**
  * 店铺端,商家登录接口
  *
- * @author Chopper
  * @since 2020/12/22 15:02
  */
 

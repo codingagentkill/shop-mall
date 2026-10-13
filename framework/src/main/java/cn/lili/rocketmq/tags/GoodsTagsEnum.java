@@ -1,7 +1,6 @@
 package cn.lili.rocketmq.tags;
 
 /**
- * @author paulG
  * @since 2020/12/9
  **/
 public enum GoodsTagsEnum {

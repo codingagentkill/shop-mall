@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 角色权限绑定关系
  *
- * @author Chopper
  * @since 2020/11/19 12:18
  */
 @Data

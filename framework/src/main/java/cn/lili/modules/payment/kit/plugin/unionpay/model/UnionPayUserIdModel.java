@@ -9,7 +9,6 @@
  *
  * <p>云闪付-银联 JS 支付获取 userId</p>
  *
- * @author Javen
  */
 package cn.lili.modules.payment.kit.plugin.unionpay.model;
 

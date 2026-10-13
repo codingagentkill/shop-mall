@@ -10,7 +10,6 @@ import java.util.Map;
 /**
  * 物流信息
  *
- * @author Chopper
  * @since 2021/1/18 3:28 下午
  */
 @Data

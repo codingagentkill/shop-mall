@@ -145,7 +145,7 @@ Password: 123456
 
 https://store-b2b2c.pickmall.cn
 
-Account: 13011111111  
+Account: demo  
 Password: 111111
 
 ### PC Mall

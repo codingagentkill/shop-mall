@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 在线客户
  *
- * @author Chopper
  * @since 2021-02-21 09:59
  */
 @Data

@@ -12,7 +12,6 @@ import org.springframework.transaction.event.TransactionalEventListener;
 /**
  * 事务提交监听器
  *
- * @author paulG
  * @since 2022/1/19
  **/
 @Component

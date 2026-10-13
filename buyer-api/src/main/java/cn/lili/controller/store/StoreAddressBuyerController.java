@@ -22,7 +22,6 @@ import java.util.Objects;
 /**
  * 买家端,商家地址（自提点）接口
  *
- * @author chc
  * @since 2022/6/2114:46
  */
 @RestController

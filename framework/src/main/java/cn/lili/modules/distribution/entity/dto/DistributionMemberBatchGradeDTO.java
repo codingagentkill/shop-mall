@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 管理端批量设置分销等级参数
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

@@ -13,7 +13,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 管理段发送消息对象
  *
- * @author lili
  */
 
 @Data

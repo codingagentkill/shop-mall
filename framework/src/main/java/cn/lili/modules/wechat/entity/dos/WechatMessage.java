@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 微信消息
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/12/10 17:02
  */

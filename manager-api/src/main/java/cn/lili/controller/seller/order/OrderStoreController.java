@@ -45,7 +45,6 @@ import java.util.Objects;
 /**
  * 店铺端,订单接口
  *
- * @author Chopper
  * @since 2020/11/17 4:35 下午
  **/
 @Slf4j

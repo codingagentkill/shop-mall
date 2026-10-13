@@ -6,7 +6,6 @@ import cn.lili.modules.distribution.entity.vos.DistributionBuyerPerformanceVO;
 /**
  * 买家端业绩统计
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionBuyerPerformanceService {

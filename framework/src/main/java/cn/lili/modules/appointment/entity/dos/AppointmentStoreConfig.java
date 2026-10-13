@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 预约店铺配置，对应 {@code li_appointment_store_config}
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

@@ -6,7 +6,6 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * 高性能的创建UUID的工具类，https://github.com/lets-mica/mica
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @since 1.9.3
  */
 public class UuidUtils {

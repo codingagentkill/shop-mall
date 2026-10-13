@@ -8,7 +8,6 @@ import java.util.Map;
 /**
  * 促销业务层
  *
- * @author Chopper
  * @since 2020/11/18 9:45 上午
  */
 public interface PromotionService {

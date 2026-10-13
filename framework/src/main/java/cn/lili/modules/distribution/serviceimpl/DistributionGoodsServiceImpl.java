@@ -61,7 +61,6 @@ import java.util.stream.Collectors;
 /**
  * 分销商品接口实现
  *
- * @author pikachu
  * @since 2020-03-24 23:04:56
  */
 @Service

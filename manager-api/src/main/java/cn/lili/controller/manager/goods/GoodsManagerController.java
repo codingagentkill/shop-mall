@@ -36,7 +36,6 @@ import java.util.List;
 /**
  * 管理端,商品管理接口
  *
- * @author pikachu
  * @since 2020-02-23 15:18:56
  */
 @RestController

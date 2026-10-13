@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 物流公司设置
  *
- * @author Chopper
  * @since 2020/11/17 8:01 下午
  */
 @Data

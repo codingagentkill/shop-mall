@@ -23,7 +23,6 @@ import java.util.stream.Collectors;
 /**
  * 异常处理
  *
- * @author Chopper
  */
 @RestControllerAdvice
 @Slf4j

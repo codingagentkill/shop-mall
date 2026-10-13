@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 采购入库单实体
  * 记录入库单基础信息、数量统计与操作人信息
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

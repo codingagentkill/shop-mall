@@ -6,7 +6,6 @@ import lombok.experimental.Accessors;
 /**
  * 支付宝支付设置
  *
- * @author Chopper
  * @since 2020-12-02 10:09
  */
 @Data

@@ -45,7 +45,6 @@ import java.util.stream.Collectors;
 /**
  * 秒杀申请业务层实现
  *
- * @author Chopper
  * @since 2020/8/21
  */
 @Service

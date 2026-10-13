@@ -11,7 +11,6 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 @Data

@@ -5,7 +5,6 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author paulG
  * @since 2020/10/20
  **/
 @Data

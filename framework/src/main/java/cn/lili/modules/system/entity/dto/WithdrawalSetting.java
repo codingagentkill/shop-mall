@@ -7,7 +7,6 @@ import java.io.Serializable;
 /**
  * 提现配置
  *
- * @author pikachu
  * @since 2020/11/30 15:23
  */
 @Data

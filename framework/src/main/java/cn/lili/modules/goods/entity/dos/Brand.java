@@ -11,7 +11,6 @@ import org.hibernate.validator.constraints.Length;
 /**
  * 商品品牌
  *
- * @author pikachu
  * @since 2020-02-18 15:18:56
  */
 @Data

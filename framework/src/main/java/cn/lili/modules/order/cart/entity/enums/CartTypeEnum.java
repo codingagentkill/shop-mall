@@ -3,7 +3,6 @@ package cn.lili.modules.order.cart.entity.enums;
 /**
  * 购物车类型
  *
- * @author Chopper
  * @since 2020-03-25 2:30 下午
  */
 public enum CartTypeEnum {

@@ -4,7 +4,6 @@ import cn.lili.modules.live.entity.dos.LiveUser;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 public interface LiveUserMapper extends BaseMapper<LiveUser> {

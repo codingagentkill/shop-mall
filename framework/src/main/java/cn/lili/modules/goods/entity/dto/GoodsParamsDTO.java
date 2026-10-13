@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 商品关联参数
  *
- * @author pikachu
  * @since 2020-02-23 9:14:33
  */
 @Data

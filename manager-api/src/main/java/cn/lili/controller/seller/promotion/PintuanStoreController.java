@@ -33,7 +33,6 @@ import java.util.stream.Collectors;
 /**
  * 店铺端,拼团管理接口
  *
- * @author paulG
  * @since 2020/10/9
  **/
 @RestController

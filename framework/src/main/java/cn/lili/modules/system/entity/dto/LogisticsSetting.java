@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 快递设置
  *
- * @author Chopper
  * @since 2020-03-10 10:04 上午
  */
 @Data

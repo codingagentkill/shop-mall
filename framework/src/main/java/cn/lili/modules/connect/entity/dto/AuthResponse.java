@@ -11,7 +11,6 @@ import java.io.Serializable;
 /**
  * AuthResponse
  *
- * @author Chopper
  * @version v1.0
  * 2020-12-07 14:20
  */

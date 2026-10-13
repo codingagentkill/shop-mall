@@ -19,7 +19,6 @@ import jakarta.validation.constraints.NotNull;
 /**
  * 管理端,自定义分词接口
  *
- * @author paulG
  * @since 2020/10/16
  **/
 @Slf4j

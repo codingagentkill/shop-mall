@@ -17,7 +17,6 @@ import org.springframework.stereotype.Service;
 /**
  * APP版本控制业务层实现
  *
- * @author Chopper
  * @since 2020/11/17 8:02 下午
  */
 @Service

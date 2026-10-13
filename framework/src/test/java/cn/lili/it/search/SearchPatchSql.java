@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 定位并执行倒排表建表脚本：源文件为仓库 {@code DB/li_goods_search_param.sql}。
  *
- * @author Mike
  * @date 2026-09-03
  */
 final class SearchPatchSql {

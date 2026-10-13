@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 买家端,页面接口
  *
- * @author Chopper
  * @since 2020/11/16 10:08 下午
  */
 @RestController

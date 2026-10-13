@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销商品默认排序
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public enum DistributionGoodsDefaultSortEnum {

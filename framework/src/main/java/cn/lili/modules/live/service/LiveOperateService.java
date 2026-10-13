@@ -5,7 +5,6 @@ import cn.lili.modules.live.entity.dos.LiveUser;
 
 /**
  * 直播操作服务层
- * @author chc
  * @since 2022/6/2114:46
  */
 public interface LiveOperateService {

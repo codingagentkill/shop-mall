@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 邮箱设置
  *
- * @author Chopper
  * @since 2020/11/26 15:58
  */
 @Data

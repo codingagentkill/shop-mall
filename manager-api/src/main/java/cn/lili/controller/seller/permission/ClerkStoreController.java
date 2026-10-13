@@ -35,7 +35,6 @@ import java.util.List;
 /**
  * 店员接口
  *
- * @author Chopper
  * @since 2020/11/16 10:57
  */
 @Slf4j

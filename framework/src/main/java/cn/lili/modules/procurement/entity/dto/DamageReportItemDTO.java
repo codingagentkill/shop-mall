@@ -6,7 +6,6 @@ import lombok.Data;
 @Data
 /**
  * 报损单创建的明细项请求对象
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public class DamageReportItemDTO {

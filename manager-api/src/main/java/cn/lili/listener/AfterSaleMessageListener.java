@@ -14,7 +14,6 @@ import java.util.List;
 /**
  * 售后通知
  *
- * @author paulG
  */
 @Slf4j
 @Component

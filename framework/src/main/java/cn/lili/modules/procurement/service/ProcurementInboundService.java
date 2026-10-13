@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 采购入库业务接口
  * 定义入库单创建、分页与详情查询能力
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public interface ProcurementInboundService extends IService<ProcurementInbound> {

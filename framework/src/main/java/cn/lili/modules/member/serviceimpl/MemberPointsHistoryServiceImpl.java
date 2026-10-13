@@ -21,7 +21,6 @@ import org.springframework.stereotype.Service;
 /**
  * 客户积分历史业务层实现
  *
- * @author Bulbasaur
  * @since 2020-02-25 14:10:16
  */
 @Service

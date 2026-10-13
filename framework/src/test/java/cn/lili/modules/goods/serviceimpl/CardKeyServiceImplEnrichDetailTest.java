@@ -34,7 +34,6 @@ import static org.mockito.Mockito.when;
 /**
  * enrichOrderDetail 卡密履约状态与满赠子单聚合测试。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class CardKeyServiceImplEnrichDetailTest {

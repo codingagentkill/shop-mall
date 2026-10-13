@@ -3,7 +3,6 @@ package cn.lili.modules.wallet.entity.enums;
 /**
  * 预存款变动日志业务类型
  *
- * @author Chopper
  * @since 2020/8/20 15:39
  */
 

@@ -20,7 +20,6 @@ import com.alibaba.fastjson2.JSON;
 
 /**
  * HTTP 工具类
- * @author liushuai
  */
 @Slf4j
 public class HttpUtils {

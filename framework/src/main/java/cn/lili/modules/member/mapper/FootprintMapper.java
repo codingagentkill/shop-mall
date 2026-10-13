@@ -7,7 +7,6 @@ import org.apache.ibatis.annotations.Delete;
 /**
  * 浏览历史数据处理层
  *
- * @author Chopper
  * @since 2020-02-25 14:10:16
  */
 public interface FootprintMapper extends BaseMapper<FootPrint> {

@@ -7,7 +7,6 @@ import java.util.List;
 /**
  * ReadMessage
  *
- * @author Chopper
  * @version v1.0
  * 2021-12-31 11:13
  */

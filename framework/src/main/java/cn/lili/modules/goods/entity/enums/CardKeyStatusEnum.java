@@ -3,7 +3,6 @@ package cn.lili.modules.goods.entity.enums;
 /**
  * 卡密池状态
  *
- * @author Mike
  * @date 2026-07-31
  */
 public enum CardKeyStatusEnum {

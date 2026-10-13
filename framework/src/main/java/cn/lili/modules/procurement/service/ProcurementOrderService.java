@@ -13,7 +13,6 @@ import java.util.Map;
 /**
  * 采购单业务接口
  * 定义采购单的生命周期操作与查询
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public interface ProcurementOrderService extends IService<ProcurementOrder> {

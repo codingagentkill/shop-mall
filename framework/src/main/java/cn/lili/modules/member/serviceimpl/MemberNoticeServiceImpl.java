@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 客户站内信业务层实现
  *
- * @author Chopper
  * @since 2020/11/17 3:44 下午
  */
 @Service

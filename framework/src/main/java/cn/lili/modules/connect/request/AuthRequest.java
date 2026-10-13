@@ -11,7 +11,6 @@ import cn.lili.modules.connect.exception.AuthException;
  * JustAuth {@code Request}公共接口，所有平台的{@code Request}都需要实现该接口
  * <p>
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @since 1.8
  */
 public interface AuthRequest {

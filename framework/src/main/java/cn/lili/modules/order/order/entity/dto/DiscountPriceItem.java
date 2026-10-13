@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 优惠信息详情
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @Description:
  * @since 2022/12/23 14:52

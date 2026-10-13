@@ -18,7 +18,6 @@ import java.util.Date;
 /**
  * 买家端业绩统计实现
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Service

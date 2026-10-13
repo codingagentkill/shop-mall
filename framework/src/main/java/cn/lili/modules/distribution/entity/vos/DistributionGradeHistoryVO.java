@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 分销等级变更历史展示对象
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 @Data

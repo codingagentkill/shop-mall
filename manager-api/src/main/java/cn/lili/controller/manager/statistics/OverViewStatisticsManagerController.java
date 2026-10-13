@@ -21,7 +21,6 @@ import java.util.List;
 /**
  * 管理端,营业概览接口
  *
- * @author Bulbasaur
  * @since 2025/08/25 7:31 下午
  */
 @Slf4j

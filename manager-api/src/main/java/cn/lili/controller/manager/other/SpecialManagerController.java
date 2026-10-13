@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * 管理端,专题活动接口
  *
- * @author Bulbasaur
  * @since 2020/12/7 11:33
  */
 @RestController

@@ -10,7 +10,6 @@ import java.io.Serializable;
 /**
  * 联合登陆授权token
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/12/4 23:48
  */

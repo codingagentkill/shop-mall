@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 店铺信息更新
  *
- * @author Chopper
  * @since 2021/3/15 5:30 下午
  */
 @Component

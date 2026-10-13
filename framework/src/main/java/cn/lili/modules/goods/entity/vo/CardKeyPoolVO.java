@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 商家卡池列表项
  *
- * @author Mike
  * @date 2026-07-31
  */
 @Data

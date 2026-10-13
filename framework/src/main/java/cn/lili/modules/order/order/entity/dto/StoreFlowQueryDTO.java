@@ -9,7 +9,6 @@ import lombok.Data;
 /**
  * 店铺流水查询DTO
  *
- * @author Chopper
  * @version v1.0
  * 2021-12-08 10:53
  */

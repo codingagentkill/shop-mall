@@ -13,7 +13,6 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author paulG
  * @since 2022/6/13
  **/
 @Data

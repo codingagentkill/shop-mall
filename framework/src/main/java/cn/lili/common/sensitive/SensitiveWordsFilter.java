@@ -9,7 +9,6 @@ import java.util.NavigableSet;
 /**
  * 敏感词过滤器
  *
- * @author Bulbasaur
  * @version v1.0
  * @since v1.0
  * 2020-02-25 14:10:16

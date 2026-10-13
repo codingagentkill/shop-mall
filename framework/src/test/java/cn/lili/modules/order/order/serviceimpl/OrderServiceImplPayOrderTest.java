@@ -40,7 +40,6 @@ import static org.mockito.Mockito.when;
 /**
  * payOrder 只发布分销入账事件，支付事务内不再同步写分销。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class OrderServiceImplPayOrderTest {

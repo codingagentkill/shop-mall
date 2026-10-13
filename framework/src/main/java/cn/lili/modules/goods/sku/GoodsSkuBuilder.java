@@ -11,7 +11,6 @@ import java.util.*;
 import com.alibaba.fastjson2.JSON;
 
 /**
- * @author paulG
  * @since 2022/5/20
  **/
 @Component

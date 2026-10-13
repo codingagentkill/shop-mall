@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,分销统计V2接口
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @RestController

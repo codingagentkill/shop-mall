@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 店铺业务层
  *
- * @author pikachu
  * @since 2020/11/18 11:45 上午
  */
 public interface StoreService extends IService<Store> {

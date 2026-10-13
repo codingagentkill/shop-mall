@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 定时器任务（由 {@link cn.lili.timetask.config.TimedTaskScheduler} 调度）
  *
- * @author Chopper
  */
 @Slf4j
 @Component

@@ -10,7 +10,6 @@ import lombok.Data;
 /**
  * 客户发票查询VO
  *
- * @author Chopper
  * @since 2021-03-29 14:10:16
  */
 @Data

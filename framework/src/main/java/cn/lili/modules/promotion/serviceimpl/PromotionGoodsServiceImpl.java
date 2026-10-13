@@ -40,7 +40,6 @@ import java.util.stream.Collectors;
 /**
  * 促销商品业务层实现
  *
- * @author Chopper
  * @since 2021/3/18 9:22 上午
  */
 @Service

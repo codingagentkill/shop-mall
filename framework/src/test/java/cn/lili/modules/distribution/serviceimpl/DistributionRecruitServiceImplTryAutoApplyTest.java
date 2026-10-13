@@ -41,7 +41,6 @@ import static org.mockito.Mockito.when;
 /**
  * 招募自动申请：前置过滤、协议自动同意、幂等与预期失败不外抛。
  *
- * @author Mike
  * @date 2026-09-18
  */
 class DistributionRecruitServiceImplTryAutoApplyTest {

@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 阿里oss 文件操作
  *
- * @author Chopper
  */
 
 @Slf4j

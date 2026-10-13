@@ -3,7 +3,6 @@ package cn.lili.modules.member.entity.enums;
 /**
  * 发送类型
  *
- * @author Chopper
  * @since 2020-03-10 11:35 上午
  */
 public enum SendTypeEnum {

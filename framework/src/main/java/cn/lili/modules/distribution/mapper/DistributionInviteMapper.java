@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 分销员邀请下级查询
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 public interface DistributionInviteMapper {

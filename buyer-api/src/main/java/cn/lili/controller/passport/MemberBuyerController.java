@@ -37,7 +37,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * 买家端,客户接口
  *
- * @author Chopper
  * @since 2020/11/16 10:07 下午
  */
 @Slf4j

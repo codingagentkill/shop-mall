@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 砍价活动商品实体类
  *
- * @author qiuqiu
  * @date 2020-7-1 10:44 上午
  */
 @Data

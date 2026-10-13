@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,客户积分历史接口
  *
- * @author Bulbasaur
  * @since 2020-02-25 14:10:16
  */
 @RestController

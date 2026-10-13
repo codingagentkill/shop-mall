@@ -10,7 +10,6 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 分销员批量导入
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionMemberImportService {

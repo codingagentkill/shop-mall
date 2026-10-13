@@ -6,7 +6,6 @@ import cn.lili.modules.connect.entity.enums.AuthResponseStatus;
 /**
  * JustAuth通用异常类
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @since 1.8
  */
 public class AuthException extends RuntimeException {

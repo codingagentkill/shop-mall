@@ -85,7 +85,6 @@ import java.util.stream.Collectors;
 /**
  * 预约服务商品核心服务实现
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Slf4j

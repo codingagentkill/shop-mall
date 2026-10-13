@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 店铺自提点
  *
- * @author Bulbasaur
  * @since 2020/12/7 15:09
  */
 @Data

@@ -11,7 +11,6 @@ import java.sql.Statement;
 /**
  * 单例 MySQL 8.0.30，对齐 docker-compose。供 mapper / 倒排 / 分页 IT 共用，避免每用例拉镜像。
  *
- * @author Mike
  * @date 2026-09-03
  */
 final class MysqlITSupport {

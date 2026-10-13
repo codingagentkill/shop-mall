@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销钱包流水类型
  *
- * @author pikachu
  */
 public enum DistributionWalletLogTypeEnum {
 

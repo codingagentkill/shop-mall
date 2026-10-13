@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 客户余额变动模型
  *
- * @author Chopper
  * @version v1.0
  * 2021-12-01 09:35
  */

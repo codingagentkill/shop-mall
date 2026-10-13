@@ -10,7 +10,6 @@ import jakarta.validation.constraints.Size;
 /**
  * 添加客户DTO
  *
- * @author Bulbasaur
  * @since 2020/12/14 16:31
  */
 @Data

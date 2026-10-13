@@ -15,7 +15,6 @@ import static org.mockito.Mockito.when;
 /**
  * 未配置招募方案时进度不应视为已达标。
  *
- * @author Mike
  * @date 2026-09-18
  */
 class DistributionRecruitServiceImplConditionProgressTest {

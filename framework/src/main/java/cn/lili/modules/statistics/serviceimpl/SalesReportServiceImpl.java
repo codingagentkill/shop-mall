@@ -38,7 +38,6 @@ import java.util.stream.Collectors;
 /**
  * 销售报表服务实现
  *
- * @author Bulbasaur
  * @since 2026/07/20
  */
 @Service

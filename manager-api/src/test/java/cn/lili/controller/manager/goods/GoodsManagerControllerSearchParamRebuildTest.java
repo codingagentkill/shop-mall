@@ -23,7 +23,6 @@ import static org.mockito.Mockito.when;
 /**
  * 运营端参数倒排重建接口契约。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @ExtendWith(MockitoExtension.class)

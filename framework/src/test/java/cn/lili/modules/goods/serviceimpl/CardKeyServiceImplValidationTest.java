@@ -36,7 +36,6 @@ import static org.mockito.Mockito.when;
 /**
  * E_COUPON 下单/结算规则校验单元测试（混单、卡池库存、促销允许等）。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class CardKeyServiceImplValidationTest {

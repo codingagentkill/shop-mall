@@ -35,7 +35,6 @@ import java.util.List;
 /**
  * 流量统计
  *
- * @author Chopper
  * @version v1.0
  * @since v7.0
  * 2021/1/18 12:07

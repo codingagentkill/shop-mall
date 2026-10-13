@@ -27,7 +27,6 @@ import java.util.List;
 /**
  * 管理端,客户站内信管理接口
  *
- * @author Chopper
  * @since 2020/11/17 4:31 下午
  */
 @Slf4j

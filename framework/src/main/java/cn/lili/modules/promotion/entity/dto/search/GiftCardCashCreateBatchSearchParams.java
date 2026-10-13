@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 制卡批次分页查询条件
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

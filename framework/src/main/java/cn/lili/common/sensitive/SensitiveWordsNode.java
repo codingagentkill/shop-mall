@@ -5,7 +5,6 @@ import java.util.TreeSet;
 
 /**
  * @Description: 敏感词节点，每个节点包含了以相同的2个字符开头的所有词
- * @author Bulbasaur
  * @version v1.0
  * @since v1.0
  * 2020-02-25 14:10:16

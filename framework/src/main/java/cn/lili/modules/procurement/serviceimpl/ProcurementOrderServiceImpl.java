@@ -38,7 +38,6 @@ import java.util.stream.Collectors;
 /**
  * 采购单业务实现
  * 实现采购单的创建、提交、审核、关闭、详情与分页查询
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Service

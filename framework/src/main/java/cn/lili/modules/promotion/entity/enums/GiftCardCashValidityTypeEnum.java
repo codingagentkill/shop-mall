@@ -3,7 +3,6 @@ package cn.lili.modules.promotion.entity.enums;
 /**
  * 礼品卡有效期类型枚举
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 public enum GiftCardCashValidityTypeEnum {

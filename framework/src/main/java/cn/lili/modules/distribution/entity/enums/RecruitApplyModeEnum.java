@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销招募申请方式
  *
- * @author pikachu
  */
 public enum RecruitApplyModeEnum {
 

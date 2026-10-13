@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 优惠券领取标记业务层
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @Description:
  * @since 2023/1/3 18:12

@@ -18,7 +18,6 @@ import java.util.*;
 /**
  * 历史热词
  *
- * @author paulG
  * @since 2020/10/15
  **/
 @Service

@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 客户消息
  *
- * @author paulG
  * @since 2020/12/9
  **/
 @Component

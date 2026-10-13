@@ -14,7 +14,6 @@ import java.util.concurrent.TimeUnit;
 /**
  * 仅实现重建进度用到的 get/put；倒排 IT 不启动 Redis。
  *
- * @author Mike
  * @date 2026-09-03
  */
 final class ITCache implements Cache<RebuildStatus> {

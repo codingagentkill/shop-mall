@@ -25,7 +25,6 @@ import static org.mockito.Mockito.verify;
 /**
  * TS-32 / SVC-05：SKU 删除时软删 UNUSED/VOIDED 卡池并 syncSkuStock。
  *
- * @author Mike
  * @date 2026-08-03
  */
 class CardKeyServiceImplSoftDeletePoolTest {

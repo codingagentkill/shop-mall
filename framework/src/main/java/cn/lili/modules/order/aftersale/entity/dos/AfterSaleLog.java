@@ -19,7 +19,6 @@ import java.util.Date;
 /**
  * 售后日志
  *
- * @author Bulbasaur
  * @since 2020-03-25 2:30 下午
  */
 @Data

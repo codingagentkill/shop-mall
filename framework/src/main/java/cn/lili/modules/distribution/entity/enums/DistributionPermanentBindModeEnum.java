@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 永久锁客生效方式
  *
- * @author pikachu
  */
 public enum DistributionPermanentBindModeEnum {
 

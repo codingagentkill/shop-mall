@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 商品库存DTO
  *
- * @author paulG
  * @since 2020/12/23
  **/
 @Data

@@ -47,7 +47,6 @@ import java.util.stream.Collectors;
 /**
  * 商品有效性校验
  *
- * @author Chopper
  * @since 2020-07-02 14:47
  */
 @Service

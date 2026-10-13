@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 预约商品扩展视图
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

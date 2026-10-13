@@ -17,7 +17,6 @@ import java.util.List;
 /**
  * 店铺端,部门角色接口
  *
- * @author Chopper
  * @since 2020/11/22 14:05
  */
 @RestController

@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 系统设置
  *
- * @author Chopper
  */
 @Data
 @Configuration

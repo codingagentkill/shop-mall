@@ -5,7 +5,6 @@ import cn.lili.trigger.model.TimeTriggerMsg;
 /**
  * 延时执行接口
  *
- * @author Chopper
  */
 public interface TimeTrigger {
 

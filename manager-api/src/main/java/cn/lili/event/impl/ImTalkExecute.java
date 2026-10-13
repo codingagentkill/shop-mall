@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * Im对话消息
  *
- * @author chc
  * @since 2022/6/2114:46
  */
 @Service

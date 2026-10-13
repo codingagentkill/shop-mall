@@ -12,7 +12,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 现金礼品卡发卡批次数据访问接口（含分页联表查询）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 public interface GiftCardCashIssueBatchMapper extends BaseMapper<GiftCardCashIssueBatch> {

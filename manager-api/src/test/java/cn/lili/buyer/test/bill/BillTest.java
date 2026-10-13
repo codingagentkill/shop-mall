@@ -15,7 +15,6 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import java.util.List;
 
 /**
- * @author paulG
  * @since 2022/1/10
  **/
 @ExtendWith(SpringExtension.class)

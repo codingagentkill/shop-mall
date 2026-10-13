@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 滑块验证码接口
  *
- * @author Chopper
  * @since 2020/11/26 15:41
  */
 @Slf4j

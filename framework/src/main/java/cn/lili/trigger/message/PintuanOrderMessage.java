@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 /**
  * 拼团订单延时任务信息
  *
- * @author paulG
  * @since 2021/5/7
  **/
 @Data

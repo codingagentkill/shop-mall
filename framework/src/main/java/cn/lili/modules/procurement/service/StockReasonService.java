@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 出入库原因业务接口
  * 定义分页查询等业务能力
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public interface StockReasonService extends IService<StockReason> {

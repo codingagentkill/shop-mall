@@ -3,7 +3,6 @@ package cn.lili.modules.live.config;
 /**
  * MQTT消息工具配置
  *
- * @author chc
  * @since 2022/6/2114:46
  */
 public class MqttConfig {

@@ -20,7 +20,6 @@ import java.util.Date;
 /**
  * 分销商品分享行为记录服务实现
  *
- * @author pikachu
  */
 @Service
 public class DistributionShareEventServiceImpl extends ServiceImpl<DistributionShareEventMapper, DistributionShareEvent>

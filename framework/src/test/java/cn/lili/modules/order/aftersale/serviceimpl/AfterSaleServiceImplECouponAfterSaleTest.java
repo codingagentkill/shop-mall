@@ -28,7 +28,6 @@ import static org.mockito.Mockito.when;
 /**
  * E_COUPON 订单售后 API 须返回 CARD_KEY_E_COUPON_NO_AFTER_SALE，优先于 afterSaleStatus 校验。
  *
- * @author Mike
  * @date 2026-07-31
  */
 class AfterSaleServiceImplECouponAfterSaleTest {

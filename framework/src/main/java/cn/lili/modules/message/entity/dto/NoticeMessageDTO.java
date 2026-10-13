@@ -9,7 +9,6 @@ import java.util.Map;
 /**
  * 站内信消息
  *
- * @author Chopper
  * @since 2020/12/8 9:46
  */
 @Data

@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 /**
  * 拼图客户视图对象
  *
- * @author paulG
  * @since 2021/3/3
  **/
 @Data

@@ -3,7 +3,6 @@ package cn.lili.modules.goods.entity.enums;
 /**
  * 商品关键字类型
  *
- * @author paulG
  * @since 2020/10/15
  **/
 public enum GoodsWordsTypeEnum {

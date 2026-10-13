@@ -27,7 +27,6 @@ import java.util.Map;
 /**
  * 通知类消息实现
  *
- * @author Chopper
  * @since 2020-07-03 11:20
  **/
 @Service

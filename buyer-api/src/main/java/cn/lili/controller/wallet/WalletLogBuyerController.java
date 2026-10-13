@@ -19,7 +19,6 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 /**
  * 买家端,预存款变动日志记录接口
  *
- * @author pikachu
  * @since 2020/11/16 10:07 下午
  */
 @RestController

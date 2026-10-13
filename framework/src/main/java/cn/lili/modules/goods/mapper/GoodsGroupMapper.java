@@ -13,7 +13,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 继承 {@link BaseMapper}，提供 {@link GoodsGroup} 的基础增删改查能力。
  * </p>
  *
- * @author mike
  * @date 2026-03-30
  */
 public interface GoodsGroupMapper extends BaseMapper<GoodsGroup> {

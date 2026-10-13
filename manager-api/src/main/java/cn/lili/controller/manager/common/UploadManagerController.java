@@ -29,7 +29,6 @@ import java.util.Objects;
 /**
  * 文件上传接口
  *
- * @author Chopper
  * @since 2020/11/26 15:41
  */
 @Slf4j

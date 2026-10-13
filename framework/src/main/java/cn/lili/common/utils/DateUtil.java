@@ -7,7 +7,6 @@ import java.util.*;
 /**
  * 日期相关的操作
  *
- * @author Chopper
  */
 public class DateUtil {
 

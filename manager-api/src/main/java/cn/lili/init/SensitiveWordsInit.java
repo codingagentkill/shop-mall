@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
 /**
  * SensitiveWordsInit
  *
- * @author Chopper
  * @version v1.0
  * 2021-11-29 11:38
  */

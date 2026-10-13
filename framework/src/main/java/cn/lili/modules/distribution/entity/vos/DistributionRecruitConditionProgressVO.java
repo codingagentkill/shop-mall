@@ -8,7 +8,6 @@ import java.math.BigDecimal;
 /**
  * 分销招募条件进度VO
  *
- * @author pikachu
  */
 @Data
 public class DistributionRecruitConditionProgressVO {

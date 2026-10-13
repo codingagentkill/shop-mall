@@ -22,7 +22,6 @@ import java.io.PrintWriter;
 /**
  * 支付宝支付
  *
- * @author Chopper
  * @since 2020/12/15 19:26
  */
 @Slf4j

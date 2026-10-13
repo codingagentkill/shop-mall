@@ -12,7 +12,6 @@ import jakarta.servlet.http.HttpServletResponse;
 /**
  * 销售报表服务
  *
- * @author Bulbasaur
  * @since 2026/07/20
  */
 public interface SalesReportService {

@@ -13,7 +13,6 @@ import java.lang.annotation.Target;
 /**
  * 敏感注解
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @Description:
  * @since 2021/9/10 16:45

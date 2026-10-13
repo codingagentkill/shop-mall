@@ -14,7 +14,6 @@ import java.util.stream.Collectors;
 /**
  * 勾选商品过滤
  *
- * @author Chopper
  * @see CartVO
  */
 @Service

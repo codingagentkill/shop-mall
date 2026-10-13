@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 /**
  * 事件触发消费者
  *
- * @author paulG
  * @since 2020/11/17 7:19 下午
  */
 @Component

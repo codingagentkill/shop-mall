@@ -48,7 +48,6 @@ import java.util.Date;
 /**
  * 客户余额业务层实现
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 @Slf4j

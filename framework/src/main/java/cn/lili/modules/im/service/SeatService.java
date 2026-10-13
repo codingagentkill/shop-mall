@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 坐席业务
  *
- * @author pikachu
  * @since 2020-02-18 16:18:56
  */
 public interface SeatService extends IService<Seat> {

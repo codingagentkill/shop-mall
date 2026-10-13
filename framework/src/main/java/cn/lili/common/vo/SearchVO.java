@@ -14,7 +14,6 @@ import java.util.Date;
 /**
  * 日期搜索参数
  *
- * @author Chopper
  */
 @Data
 @AllArgsConstructor

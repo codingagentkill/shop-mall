@@ -9,7 +9,6 @@ import java.io.Serializable;
 /**
  * 按核销码核销
  *
- * @author Bulbasaur
  * @since 2026-09-23
  */
 @Data

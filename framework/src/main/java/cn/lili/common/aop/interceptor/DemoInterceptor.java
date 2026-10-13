@@ -13,7 +13,6 @@ import org.springframework.stereotype.Component;
  * 演示站点拦截
  * DemoInterceptor
  *
- * @author Chopper
  * @version v1.0
  * 2021-05-12 17:55
  */

@@ -15,7 +15,6 @@ import java.util.stream.Collectors;
 /**
  * 敏感词业务层实现
  *
- * @author Bulbasaur
  * @since 2020/11/17 8:02 下午
  */
 @Service

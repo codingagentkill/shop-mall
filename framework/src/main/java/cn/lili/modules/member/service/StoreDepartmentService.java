@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 店铺部门业务层
  *
- * @author Chopper
  * @since 2020/11/17 3:43 下午
  */
 public interface StoreDepartmentService extends IService<StoreDepartment> {

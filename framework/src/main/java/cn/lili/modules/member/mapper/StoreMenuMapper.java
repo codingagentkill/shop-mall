@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 菜单数据处理层
  *
- * @author Chopper
  * @since 2020-11-22 09:17
  */
 public interface StoreMenuMapper extends BaseMapper<StoreMenu> {

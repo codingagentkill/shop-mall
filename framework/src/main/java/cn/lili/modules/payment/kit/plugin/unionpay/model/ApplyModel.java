@@ -9,7 +9,6 @@
  *
  * <p>云闪付-商户进件</p>
  *
- * @author Javen
  */
 package cn.lili.modules.payment.kit.plugin.unionpay.model;
 

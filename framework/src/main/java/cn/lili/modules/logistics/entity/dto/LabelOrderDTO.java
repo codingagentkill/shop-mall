@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 电子面单DTO
  *
- * @author Bulbasaur
  * @since 2023-02-16
  */
 @Data

@@ -21,7 +21,6 @@ import java.util.stream.Collectors;
 /**
  * MINIO文件插件
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @Description:
  * @since 2022/6/6 17:45

@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 站内信消息DTO
  *
- * @author Chopper
  * @since 2020/12/8 9:46
  */
 @Data

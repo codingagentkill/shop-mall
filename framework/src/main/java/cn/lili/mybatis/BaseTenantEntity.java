@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 租户超级类
  *
- * @author Chopper
  * @version v1.0
  * @since 2020/8/20 14:34
  */

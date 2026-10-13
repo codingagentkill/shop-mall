@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 按核销码查询的预约订单信息
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

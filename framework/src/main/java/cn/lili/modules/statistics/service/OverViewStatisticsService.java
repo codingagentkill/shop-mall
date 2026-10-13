@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 营业概览统计
  *
- * @author Bulbasaur
  * @since 2025/08/25 7:31 下午
  */
 public interface OverViewStatisticsService {

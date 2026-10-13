@@ -8,7 +8,6 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 分销招募自动申请门面：在独立事务中执行，与支付事务解耦。
  *
- * @author Mike
  * @date 2026-09-18
  */
 @Service

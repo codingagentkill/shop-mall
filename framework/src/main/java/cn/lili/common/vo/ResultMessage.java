@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 前后端交互VO
  *
- * @author Chopper
  */
 @Data
 public class ResultMessage<T> implements Serializable {

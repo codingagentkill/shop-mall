@@ -5,7 +5,6 @@ import cn.hutool.core.text.CharSequenceUtil;
 /**
  * 文件媒体分类
  *
- * @author lilishop
  */
 public enum FileCategoryEnum {
 

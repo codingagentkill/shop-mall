@@ -15,7 +15,6 @@ import java.util.Date;
  * 预约核销码，对应 {@code li_appointment_verification_code}。
  * 一单按购买数量生成 N 条，店内按码核销。
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

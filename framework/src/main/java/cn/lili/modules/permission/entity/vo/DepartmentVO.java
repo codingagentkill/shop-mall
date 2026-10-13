@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 部门VO
  *
- * @author Chopper
  * @since 2020-11-23 18:48
  */
 @Data

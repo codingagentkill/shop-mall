@@ -14,7 +14,6 @@ import java.util.Date;
 /**
  * 分销分享链接访问记录
  *
- * @author pikachu
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

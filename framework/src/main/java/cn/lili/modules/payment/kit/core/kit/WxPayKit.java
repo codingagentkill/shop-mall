@@ -25,7 +25,6 @@ import java.util.Map;
 /**
  * <p>微信支付工具类</p>
  *
- * @author
  */
 public class WxPayKit {
     private static final String FIELD_SIGN = "sign";

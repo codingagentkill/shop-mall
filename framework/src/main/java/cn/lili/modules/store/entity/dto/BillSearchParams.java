@@ -14,7 +14,6 @@ import java.util.Date;
 /**
  * 结算单搜索参数
  *
- * @author Chopper
  * @since 2021/3/17 6:08 下午
  */
 @Data

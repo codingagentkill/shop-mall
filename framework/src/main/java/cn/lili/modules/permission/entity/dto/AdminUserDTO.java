@@ -9,7 +9,6 @@ import org.hibernate.validator.constraints.Length;
 /**
  * 管理员入库dto
  *
- * @author Chopper
  * @since 2020/11/16 19:55
  */
 @Data

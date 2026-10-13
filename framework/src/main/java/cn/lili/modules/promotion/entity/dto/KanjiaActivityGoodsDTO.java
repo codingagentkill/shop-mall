@@ -12,7 +12,6 @@ import java.io.Serializable;
 /**
  * 砍价活动商品DTO
  *
- * @author qiuqiu
  * @since 2020/8/21
  **/
 @EqualsAndHashCode(callSuper = true)

@@ -26,7 +26,6 @@ import java.util.Date;
 /**
  * 店铺详细
  *
- * @author pikachu
  * @since 2020-02-18 15:18:56
  */
 @Data

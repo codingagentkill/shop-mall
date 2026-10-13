@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 参数关联分类 业务层
  *
- * @author Bulbasaur
  * @since 2025-12-21
  */
 public interface CategoryParameterService extends IService<CategoryParameter> {

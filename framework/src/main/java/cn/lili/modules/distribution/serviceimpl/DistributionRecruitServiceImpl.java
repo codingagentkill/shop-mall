@@ -55,7 +55,6 @@ import java.util.stream.Collectors;
 /**
  * 分销招募服务实现
  *
- * @author pikachu
  */
 @Slf4j
 @Service

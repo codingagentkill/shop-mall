@@ -47,7 +47,6 @@ import static org.mockito.Mockito.when;
 /**
  * E_COUPON 专用完成/取消 CAS 单元测试。
  *
- * @author Mike
  * @date 2026-08-03
  */
 class OrderServiceImplECouponCasTest {

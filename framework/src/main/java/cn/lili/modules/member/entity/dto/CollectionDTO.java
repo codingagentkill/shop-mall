@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 收藏数量变化DTO
  *
- * @author Chopper
  * @version v1.0
  * 2021-11-30 10:14
  */

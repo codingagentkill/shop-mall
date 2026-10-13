@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 分销平台海报设置
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

@@ -15,7 +15,6 @@ import java.util.List;
  * 用于维护“某分组下包含哪些商品”的关系。
  * </p>
  *
- * @author mike
  * @date 2026-03-30
  */
 public interface GoodsGroupGoodsService extends IService<GoodsGroupGoods> {

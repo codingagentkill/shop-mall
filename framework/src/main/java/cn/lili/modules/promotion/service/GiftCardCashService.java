@@ -38,7 +38,6 @@ import org.springframework.web.multipart.MultipartFile;
  *   <li>发送记录用于追踪每次导入发卡批次。</li>
  * </ul>
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 public interface GiftCardCashService {

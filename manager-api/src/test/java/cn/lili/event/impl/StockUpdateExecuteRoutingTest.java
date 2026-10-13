@@ -37,7 +37,6 @@ import static org.mockito.Mockito.when;
 /**
  * StockUpdateExecute PAID 路由：E_COUPON 仅扣促销库存后 afterOrderConfirm。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class StockUpdateExecuteRoutingTest {

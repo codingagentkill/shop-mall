@@ -22,7 +22,6 @@ import java.util.List;
 /**
  * 店铺端盘点单接口
  * 支持新建盘点、列表、查看及下载明细
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @RestController

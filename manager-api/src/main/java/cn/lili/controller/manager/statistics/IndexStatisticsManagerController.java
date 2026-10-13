@@ -26,7 +26,6 @@ import java.util.List;
 /**
  * 管理端,首页统计数据接口
  *
- * @author Bulbasaur
  * @since 2020/12/15 17:53
  */
 @Slf4j

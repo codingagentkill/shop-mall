@@ -13,7 +13,6 @@ import com.baomidou.mybatisplus.core.metadata.IPage;
  * 提供分销概览、行为数据及商品数据等多维度统计查询。
  * </p>
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionStatisticsV2Service {

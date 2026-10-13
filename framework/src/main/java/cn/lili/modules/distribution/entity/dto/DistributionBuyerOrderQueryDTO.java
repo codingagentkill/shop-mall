@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 分销员推广/邀请订单查询参数
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

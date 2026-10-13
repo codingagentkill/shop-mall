@@ -4,7 +4,6 @@ package cn.lili.modules.connect.config;
 /**
  * 用户信息 枚举
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/12/4 14:10
  */

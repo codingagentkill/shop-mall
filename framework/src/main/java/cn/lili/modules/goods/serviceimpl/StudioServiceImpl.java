@@ -47,7 +47,6 @@ import java.util.Objects;
 /**
  * 小程序直播间业务层实现
  *
- * @author Bulbasaur
  * @since 2021/5/17 10:04 上午
  */
 @Service

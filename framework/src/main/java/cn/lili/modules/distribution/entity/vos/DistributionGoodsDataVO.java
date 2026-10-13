@@ -8,7 +8,6 @@ import java.math.BigDecimal;
 /**
  * 分销商品数据VO
  *
- * @author pikachu
  */
 @Data
 public class DistributionGoodsDataVO {

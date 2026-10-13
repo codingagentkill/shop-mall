@@ -6,7 +6,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 /**
  * 客户等级数据层
  *
- * @author Bulbasaur
  * @since 2021/5/14 5:57 下午
  */
 public interface MemberGradeMapper extends BaseMapper<MemberGrade> {

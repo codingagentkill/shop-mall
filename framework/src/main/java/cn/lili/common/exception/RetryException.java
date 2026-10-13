@@ -6,7 +6,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 如需异常重试，则抛出此异常
  *
- * @author paulG
  * @since 2022/4/26
  **/
 @EqualsAndHashCode(callSuper = true)

@@ -29,7 +29,6 @@ import static org.mockito.Mockito.when;
 /**
  * GoodsServiceImpl.checkGoods：E_COUPON 强制 templateId=0；实物需运费模板。
  *
- * @author Mike
  * @date 2026-08-03
  */
 class GoodsServiceImplCheckGoodsTest {

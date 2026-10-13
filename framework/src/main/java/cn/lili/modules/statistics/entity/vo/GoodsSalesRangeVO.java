@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 商品区间销售聚合(同比环比中间结果)
  *
- * @author Bulbasaur
  * @since 2026/07/20
  */
 @Data

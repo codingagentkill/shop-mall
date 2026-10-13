@@ -18,7 +18,6 @@ import java.util.Map;
 /**
  * 商品操作DTO
  *
- * @author pikachu
  * @since 2020-02-24 19:27:20
  */
 @Data

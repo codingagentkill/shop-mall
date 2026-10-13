@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 买家端分销等级列表（附带是否展示各等级规则与权益）。
  * 
- * @author Mike
  * @date 2026-09-11
  */
 @Data

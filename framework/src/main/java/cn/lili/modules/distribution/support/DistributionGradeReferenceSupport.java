@@ -17,7 +17,6 @@ import java.util.Objects;
  * 供 MemberSupport 与 GradeService 复用，避免 Service 与 Support 互相注入。
  * </p>
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Component

@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 分销招募设置
  *
- * @author pikachu
  */
 @Data
 public class DistributionRecruitSetting implements Serializable {

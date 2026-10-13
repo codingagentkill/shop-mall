@@ -18,7 +18,6 @@ import jakarta.servlet.http.HttpServletRequest;
 /**
  * 用户上下文
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/11/14 20:27
  */

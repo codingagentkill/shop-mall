@@ -43,7 +43,6 @@ import java.util.stream.Collectors;
 /**
  * 店铺端,商品接口
  *
- * @author pikachu
  * @since 2020-02-23 15:18:56
  */
 @RestController

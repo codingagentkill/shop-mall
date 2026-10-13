@@ -14,7 +14,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 店员数据处理层
  *
- * @author wget
  * @title: ClerkMapper
  * @projectName lilishop
  * @date 2021/12/28 7:39 下午

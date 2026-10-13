@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 坐席设置
  *
- * @author Chopper
  * @version v1.0
  * 2022-02-09 17:55
  */

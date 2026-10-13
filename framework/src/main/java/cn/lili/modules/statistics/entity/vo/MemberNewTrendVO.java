@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 会员新增人数趋势数据
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Data

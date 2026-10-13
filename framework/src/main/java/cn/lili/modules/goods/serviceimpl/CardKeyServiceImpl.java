@@ -85,7 +85,6 @@ import java.util.stream.Collectors;
  * 卡密库内明文存储。支付履约由 {@link #fulfillAfterPayment} 统一入口，
  * 勿与 VIRTUAL 核销链（TAKE）混用。
  *
- * @author Mike
  * @date 2026-07-31
  */
 @Slf4j

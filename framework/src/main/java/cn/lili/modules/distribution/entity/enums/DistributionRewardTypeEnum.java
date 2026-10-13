@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销奖励类型
  *
- * @author pikachu
  */
 public enum DistributionRewardTypeEnum {
 

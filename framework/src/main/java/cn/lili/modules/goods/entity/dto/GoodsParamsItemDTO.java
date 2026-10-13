@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 商品参数项
  *
- * @author Chopper
  * @version v1.0
  * 2021-06-24 15:41
  */

@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 问题答案
  *
- * @author Chopper
  * @version v1.0
  * 2022-02-09 17:59
  */

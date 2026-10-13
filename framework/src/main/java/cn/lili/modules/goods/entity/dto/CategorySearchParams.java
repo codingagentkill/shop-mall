@@ -9,7 +9,6 @@ import java.math.BigDecimal;
 /**
  * 分类查询参数
  *
- * @author paulG
  * @since 2020/12/1
  **/
 @Data

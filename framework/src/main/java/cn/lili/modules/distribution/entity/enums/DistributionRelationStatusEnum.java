@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销客户关系状态
  *
- * @author pikachu
  */
 public enum DistributionRelationStatusEnum {
 

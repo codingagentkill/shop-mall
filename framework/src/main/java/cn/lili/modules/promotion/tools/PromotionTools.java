@@ -22,7 +22,6 @@ import java.util.stream.Collectors;
 /**
  * 优惠活动通用验证类
  *
- * @author paulG
  * @since 2020/8/18
  **/
 @Slf4j

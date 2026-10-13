@@ -22,7 +22,6 @@ import java.util.List;
 /**
  * 店铺端采购入库接口
  * 支持创建入库单、分页与详情查询
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Tag(name = "店铺端,采购入库接口")

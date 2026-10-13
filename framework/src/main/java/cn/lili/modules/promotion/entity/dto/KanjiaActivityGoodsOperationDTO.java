@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 砍价活动商品操作DTO
  *
- * @author qiuqiu
  * @date 2020/8/21
  **/
 @Data

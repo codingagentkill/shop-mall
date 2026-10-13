@@ -24,7 +24,6 @@ import java.util.Objects;
 /**
  * 店铺端,秒杀活动接口
  *
- * @author paulG
  * @since 2020/8/26
  **/
 @RestController

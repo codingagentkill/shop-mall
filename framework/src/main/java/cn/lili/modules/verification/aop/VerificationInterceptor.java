@@ -18,7 +18,6 @@ import java.lang.reflect.Method;
 /**
  * 验证码验证拦截
  *
- * @author Chopper
  */
 @Aspect
 @Configuration

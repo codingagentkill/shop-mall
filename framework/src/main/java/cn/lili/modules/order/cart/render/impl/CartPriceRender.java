@@ -14,7 +14,6 @@ import java.util.stream.Collectors;
 /**
  * 购物车渲染，将购物车中的各个商品，拆分到每个商家，形成购物车VO
  *
- * @author Chopper
  * @see CartVO
  */
 @Service

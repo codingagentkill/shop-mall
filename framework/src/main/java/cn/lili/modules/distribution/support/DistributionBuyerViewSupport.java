@@ -12,7 +12,6 @@ import java.math.BigDecimal;
  * 清退记录必须返回对象供入口按状态路由；金额与业绩只在拷贝上脱敏，不写库。
  * </p>
  *
- * @author Mike
  * @date 2026-09-09
  */
 public final class DistributionBuyerViewSupport {

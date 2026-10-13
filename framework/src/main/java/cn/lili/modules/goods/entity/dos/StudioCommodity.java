@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 /**
  * 直播间商品
  *
- * @author Bulbasaur
  * @since 2021/5/18 5:42 下午
  */
 @Data

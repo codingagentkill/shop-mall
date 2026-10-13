@@ -12,7 +12,6 @@ import java.util.Date;
 
 /**
  * 盘点单实体，记录店铺在某一时刻的库存快照
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

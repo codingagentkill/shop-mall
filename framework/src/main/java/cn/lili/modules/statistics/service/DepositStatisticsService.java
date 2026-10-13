@@ -7,7 +7,6 @@ import java.util.List;
 /**
  * 储值分析统计业务层
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 public interface DepositStatisticsService {

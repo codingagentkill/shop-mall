@@ -6,7 +6,6 @@ import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
 /**
- * @author Chopper
  */
 @Component
 public class SpringContextUtil implements ApplicationContextAware {

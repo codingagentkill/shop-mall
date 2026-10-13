@@ -10,7 +10,6 @@ import jakarta.validation.constraints.*;
 /**
  * 后台添加店铺信息DTO
  *
- * @author Bulbasaur
  * @since 2020/12/12 11:35
  */
 @Data

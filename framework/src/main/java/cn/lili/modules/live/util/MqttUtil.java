@@ -13,7 +13,6 @@ import org.springframework.stereotype.Component;
 /**
  * MQTT消息工具类 (重构后版本)
  *
- * @author chc
  * @since 2022/6/21
  */
 @Component

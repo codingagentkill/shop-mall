@@ -7,7 +7,6 @@ import java.util.List;
 /**
  * 短信接口
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/11/30 15:44
  */

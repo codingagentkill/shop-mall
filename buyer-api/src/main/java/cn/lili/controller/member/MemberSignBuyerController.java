@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * 客户签到控制器
  *
- * @author pikachu
  * @since 2020/11/16 10:07 下午
  */
 @RestController

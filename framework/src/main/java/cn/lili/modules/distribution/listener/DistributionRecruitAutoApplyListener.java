@@ -16,7 +16,6 @@ import org.springframework.transaction.event.TransactionalEventListener;
  * {@link DistributionRecruitAutoApplyFacade} 上以 {@code REQUIRES_NEW} 开启。
  * </p>
  *
- * @author Mike
  * @date 2026-09-18
  */
 @Slf4j

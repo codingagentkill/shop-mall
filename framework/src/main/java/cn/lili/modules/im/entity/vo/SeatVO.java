@@ -7,7 +7,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 客服VO
  *
- * @author Chopper
  * @version v1.0
  * 2022-02-10 15:02
  */

@@ -3,7 +3,6 @@ package cn.lili.rocketmq.tags;
 /**
  * 客户操作枚举
  *
- * @author paulG
  * @since 2020/12/9
  **/
 public enum MemberTagsEnum {

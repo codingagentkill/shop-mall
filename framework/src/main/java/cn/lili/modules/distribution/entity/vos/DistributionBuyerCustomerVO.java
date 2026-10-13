@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 分销员端客户列表项
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

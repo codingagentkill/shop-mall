@@ -31,7 +31,6 @@ import static org.mockito.Mockito.when;
 /**
  * 后台等级历史分页能读出 refreshGrade 写入的快照。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class DistributionGradeHistoryServiceImplHistoryPageTest {

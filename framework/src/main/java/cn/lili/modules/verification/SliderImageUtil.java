@@ -19,7 +19,6 @@ import java.util.Random;
 /**
  * 验证码工具
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/11/17 14:34
  */

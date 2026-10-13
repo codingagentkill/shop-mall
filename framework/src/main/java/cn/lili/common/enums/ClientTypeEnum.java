@@ -4,7 +4,6 @@ package cn.lili.common.enums;
 /**
  * 客户端类型
  *
- * @author Chopper
  * @since 2020/12/8 9:46
  */
 

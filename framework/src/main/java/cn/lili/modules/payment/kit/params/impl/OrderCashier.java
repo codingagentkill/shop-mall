@@ -26,7 +26,6 @@ import java.util.List;
 /**
  * 订单支付信息获取
  *
- * @author Chopper
  * @since 2021-01-25 20:00
  */
 @Slf4j

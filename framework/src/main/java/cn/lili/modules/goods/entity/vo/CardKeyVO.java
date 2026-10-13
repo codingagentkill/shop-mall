@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 卡密展示 VO（订单详情）
  *
- * @author Mike
  * @date 2026-07-31
  */
 @Data

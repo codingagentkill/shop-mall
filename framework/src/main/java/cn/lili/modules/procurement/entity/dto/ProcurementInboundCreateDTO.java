@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 采购入库创建请求对象
  * 承载入库单创建时的关联采购单与入库明细
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

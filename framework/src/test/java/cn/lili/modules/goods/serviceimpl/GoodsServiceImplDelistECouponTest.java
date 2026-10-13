@@ -38,7 +38,6 @@ import static org.mockito.Mockito.when;
 /**
  * TS-25 / S-05：E_COUPON 下架保留卡池；删除才软删（与 TS-32 边界对照）。
  *
- * @author Mike
  * @date 2026-08-03
  */
 class GoodsServiceImplDelistECouponTest {

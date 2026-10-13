@@ -12,7 +12,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 客户优惠券数据处理层
  *
- * @author Chopper
  * @since 2020/8/21
  */
 public interface MemberCouponMapper extends BaseMapper<MemberCoupon> {

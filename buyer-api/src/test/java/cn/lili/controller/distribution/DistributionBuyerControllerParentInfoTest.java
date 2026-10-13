@@ -21,7 +21,6 @@ import static org.mockito.Mockito.when;
 /**
  * GET /parent 返回包装 VO：开关与上级资料分离，关闭时仍回上级字段。
  *
- * @author Mike
  * @date 2026-09-11
  */
 @ExtendWith(MockitoExtension.class)

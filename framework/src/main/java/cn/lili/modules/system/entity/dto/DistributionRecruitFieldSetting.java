@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 分销招募申请动态字段配置
  *
- * @author pikachu
  */
 @Data
 public class DistributionRecruitFieldSetting implements Serializable {

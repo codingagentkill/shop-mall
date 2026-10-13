@@ -20,7 +20,6 @@ import java.util.*;
 /**
  * 全局的工具类
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @since 1.0.0
  */
 public class GlobalAuthUtils {

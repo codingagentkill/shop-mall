@@ -20,7 +20,6 @@ import static org.mockito.Mockito.when;
 /**
  * 分销总闸 isOpen：与通道 22009/22010 分开，只断言 22000。
  * 
- * @author Mike
  * @date 2026-09-13
  */
 class DistributionRecruitServiceImplOpenGateTest {

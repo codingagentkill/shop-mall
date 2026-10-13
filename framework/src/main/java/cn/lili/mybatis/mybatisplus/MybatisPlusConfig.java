@@ -8,7 +8,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Chopper
  */
 @Configuration
 @MapperScan({"cn.lili.modules.*.*.mapper", "cn.lili.modules.*.mapper"})

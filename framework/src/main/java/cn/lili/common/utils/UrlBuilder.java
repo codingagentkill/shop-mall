@@ -12,7 +12,6 @@ import java.util.Map;
  * 构造URL
  * </p>
  *
- * @author yangkai.shen (https://xkcoding.com)
  * @since 1.9.0
  */
 @Setter

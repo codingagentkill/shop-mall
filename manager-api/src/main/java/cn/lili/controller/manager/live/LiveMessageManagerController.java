@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 直播消息接口
  * 
- * @author chc
  * @since 2022/6/21 14:46
  */
 @Slf4j

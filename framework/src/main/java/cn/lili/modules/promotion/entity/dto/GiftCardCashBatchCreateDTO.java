@@ -10,7 +10,6 @@ import lombok.Data;
 /**
  * 在活动下批量制卡请求参数（面额与规则以活动为准）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

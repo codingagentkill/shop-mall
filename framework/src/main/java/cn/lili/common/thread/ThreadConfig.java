@@ -11,7 +11,6 @@ import java.util.concurrent.Executor;
 /**
  * 多线程配置
  *
- * @author Chopper
  * @version v1.0
  * @since
  * 2020-03-12 10:50 上午

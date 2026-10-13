@@ -6,7 +6,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import java.util.List;
 
 /**
- * @author paulG
  * @since 2022/5/24
  **/
 public interface WholesaleService extends IService<Wholesale> {

@@ -11,7 +11,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * E_COUPON 订单操作权限：无物流/核销/改价。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class AllowOperationECouponTest {

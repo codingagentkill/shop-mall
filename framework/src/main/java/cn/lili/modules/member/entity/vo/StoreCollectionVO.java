@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 客户店铺收藏VO
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 @Data

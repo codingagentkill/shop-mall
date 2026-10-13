@@ -3,7 +3,6 @@ package cn.lili.modules.goods.entity.dos;
 /**
  * 商品分组实体（DO）
  *
- * @author mike
  * @date 2026-03-30
  */
 import cn.lili.mybatis.BaseEntity;

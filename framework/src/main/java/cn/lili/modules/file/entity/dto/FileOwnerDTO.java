@@ -15,7 +15,6 @@ import java.util.Date;
 /**
  * 文件查询所属者参数对象
  *
- * @author Chopper
  * @since 2021-02-22 17:20
  */
 @Data

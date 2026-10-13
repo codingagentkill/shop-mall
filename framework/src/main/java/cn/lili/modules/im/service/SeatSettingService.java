@@ -6,7 +6,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 坐席设置业务
  *
- * @author pikachu
  * @since 2020-02-18 16:18:56
  */
 public interface SeatSettingService extends IService<SeatSetting> {

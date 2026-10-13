@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,订单日志管理接口
  *
- * @author Chopper
  * @since 2020/11/17 4:34 下午
  */
 @RestController

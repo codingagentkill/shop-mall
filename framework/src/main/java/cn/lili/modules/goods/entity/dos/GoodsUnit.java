@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 商品计量单位
  *
- * @author Bulbasaur
  * @since 2020/11/26 16:08
  */
 @Data

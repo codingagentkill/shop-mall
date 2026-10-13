@@ -24,7 +24,6 @@ import java.util.List;
 /**
  * 分销招募设置读写（li_setting）
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Component

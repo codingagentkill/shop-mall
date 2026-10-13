@@ -7,7 +7,6 @@ import lombok.EqualsAndHashCode;
 /**
  * RoleMenuVO
  *
- * @author Chopper
  * @since 2020-11-24 11:45
  */
 @Data

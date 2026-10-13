@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销招募申请字段类型
  *
- * @author pikachu
  */
 public enum DistributionRecruitFieldTypeEnum {
 

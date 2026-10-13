@@ -14,7 +14,6 @@ import java.util.Date;
 /**
  * 优惠券状态监测
  *
- * @author Bulbasaur
  * @since 2021/5/24 10:08 上午
  */
 @Component

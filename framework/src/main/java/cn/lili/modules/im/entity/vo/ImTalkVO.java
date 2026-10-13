@@ -11,7 +11,6 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 /**
- * @author Chopper
  */
 @Data
 @Schema(description = "聊天")

@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 服务月历当日明细
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

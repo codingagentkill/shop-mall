@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 采购单明细业务接口
  * 定义采购明细批量保存等能力
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public interface ProcurementOrderItemService extends IService<ProcurementOrderItem> {

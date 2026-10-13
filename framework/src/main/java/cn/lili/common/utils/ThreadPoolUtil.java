@@ -3,7 +3,6 @@ package cn.lili.common.utils;
 import java.util.concurrent.*;
 
 /**
- * @author Chopper
  */
 public class ThreadPoolUtil {
 

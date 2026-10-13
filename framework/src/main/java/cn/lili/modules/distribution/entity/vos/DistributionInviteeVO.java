@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 我邀请的下级分销员
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

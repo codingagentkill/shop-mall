@@ -12,7 +12,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 订单礼品卡使用流水数据访问接口（含使用记录分页联表查询）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 public interface OrderGiftCardRecordMapper extends BaseMapper<OrderGiftCardRecord> {

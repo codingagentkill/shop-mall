@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 商家开票参数
  *
- * @author Mike
  */
 @Data
 public class ReceiptInvoicingDTO {

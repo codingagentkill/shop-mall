@@ -14,7 +14,6 @@ import java.util.Date;
 /**
  * 客户信息修改DTO
  *
- * @author Bulbasaur
  * @since 2020/12/11 14:39
  */
 @Data

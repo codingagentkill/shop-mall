@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 分销商品分享上下文
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

@@ -13,7 +13,6 @@ import java.util.Date;
 /**
  * 分销客户关系查询参数
  *
- * @author pikachu
  */
 @Data
 public class DistributionCustomerRelationSearchParams {

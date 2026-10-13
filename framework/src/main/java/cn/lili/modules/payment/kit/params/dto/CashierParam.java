@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 支付参数
  *
- * @author Chopper
  * @since 2021-01-25 19:09
  */
 @Data

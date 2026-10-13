@@ -10,7 +10,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 客户积分历史业务层
  *
- * @author Bulbasaur
  * @since 2020-02-25 14:10:16
  */
 public interface MemberPointsHistoryService extends IService<MemberPointsHistory> {

@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 系统日志业务层
  *
- * @author Chopper
  * @since 2020/11/17 3:45 下午
  */
 public interface SystemLogService {

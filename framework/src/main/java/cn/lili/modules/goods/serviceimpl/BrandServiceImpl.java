@@ -30,7 +30,6 @@ import java.util.stream.Collectors;
 /**
  * 商品品牌业务层实现
  *
- * @author pikachu
  * @since 2020-02-18 16:18:56
  */
 @Service

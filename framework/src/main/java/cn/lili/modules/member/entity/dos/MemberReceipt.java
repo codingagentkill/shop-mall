@@ -16,7 +16,6 @@ import java.util.Date;
 /**
  * 客户发票
  *
- * @author Chopper
  * @since 2021-03-29 14:10:16
  */
 @Data

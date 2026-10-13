@@ -25,7 +25,6 @@ import static org.mockito.Mockito.when;
 /**
  * 访问记录幂等键由服务端拼接，sku 不进入 eventId。
  *
- * @author Mike
  * @date 2026-09-11
  */
 class DistributionShareEventServiceImplRecordGoodsVisitTest {

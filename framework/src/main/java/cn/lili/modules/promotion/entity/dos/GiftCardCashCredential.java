@@ -15,7 +15,6 @@ import java.util.Date;
 /**
  * 礼品卡卡密凭证实体类（平台制卡产物：卡号/卡密/库存，未与会员绑定时无余额消费）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

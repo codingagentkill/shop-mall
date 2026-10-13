@@ -38,7 +38,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author paulG
  * @since 2021/3/11
  **/
 @Slf4j

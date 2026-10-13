@@ -5,7 +5,6 @@ import lombok.experimental.Accessors;
 /**
  * 银联-云闪付支付设置
  *
- * @author Bulbasaur
  * @since 2023-02-17
  */
 @Data

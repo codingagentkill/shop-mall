@@ -2,7 +2,6 @@ package cn.lili.common.enums;
 
 /**
  * 开关枚举
- * @author Chopper
  */
 public enum SwitchEnum {
 

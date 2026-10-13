@@ -52,7 +52,6 @@ import static org.mockito.Mockito.when;
 /**
  * 有佣金分销单入账：冻结余额、流水类型、佣金公式与双路径幂等。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class DistributionRewardServiceImplPaymentRewardsTest {

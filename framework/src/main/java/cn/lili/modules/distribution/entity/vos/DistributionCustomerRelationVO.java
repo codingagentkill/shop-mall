@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 分销客户关系VO
  *
- * @author pikachu
  */
 @Data
 public class DistributionCustomerRelationVO {

@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 入库单查询参数
  * 支持按入库单号与采购订单ID过滤
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

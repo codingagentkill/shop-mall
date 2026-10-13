@@ -17,7 +17,6 @@ import jakarta.servlet.http.HttpServletResponse;
  * 并与分销员钱包冻结/解冻逻辑联动。
  * </p>
  *
- * @author pikachu
  * @since 2020-03-14
  */
 public interface DistributionCashService extends IService<DistributionCash> {

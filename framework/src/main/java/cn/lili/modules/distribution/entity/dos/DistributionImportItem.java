@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 分销员批量导入明细
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

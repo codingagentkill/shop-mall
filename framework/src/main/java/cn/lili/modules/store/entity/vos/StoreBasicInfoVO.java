@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 店铺基本信息DTO
  *
- * @author Bulbasaur
  * @since 2020/12/7 14:43
  */
 @Data

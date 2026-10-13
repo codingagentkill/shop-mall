@@ -21,7 +21,6 @@ import java.util.Objects;
 /**
  * 店铺端,日志管理接口
  *
- * @author Chopper
  * @since 2020/11/22 14:23
  */
 @RestController

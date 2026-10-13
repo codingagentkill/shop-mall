@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 /**
  * 商品关键字业务层实现
  *
- * @author paulG
  * @since 2020/10/15
  **/
 @Service

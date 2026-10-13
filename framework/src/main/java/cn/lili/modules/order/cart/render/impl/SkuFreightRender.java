@@ -26,7 +26,6 @@ import java.util.stream.Collectors;
 /**
  * sku 运费计算
  *
- * @author Chopper
  * @since 2020-07-02 14:47
  */
 @Service

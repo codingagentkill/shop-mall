@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 分销员端推广/邀请订单查询
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionBuyerOrderMapper {

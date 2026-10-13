@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * JustAuth配置类
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @since 1.8
  */
 @Getter

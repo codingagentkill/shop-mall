@@ -28,7 +28,6 @@ import static org.mockito.Mockito.verify;
 /**
  * 发卡失败系统退款后，已写 ALLOCATED 的卡须 VOIDED（不回收到 UNUSED）。
  *
- * @author Mike
  * @date 2026-07-31
  */
 class CardKeyServiceImplVoidOnSystemFailureTest {

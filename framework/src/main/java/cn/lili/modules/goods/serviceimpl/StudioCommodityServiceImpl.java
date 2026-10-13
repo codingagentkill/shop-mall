@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 /**
  * 直播间-商品关联业务层实现
  *
- * @author Bulbasaur
  * @since 2021/5/17 3:20 下午
  */
 @Service

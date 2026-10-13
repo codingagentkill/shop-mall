@@ -42,7 +42,6 @@ import java.util.stream.Collectors;
 /**
  * 交易业务层实现
  *
- * @author Chopper
  * @since 2020/11/17 7:39 下午
  */
 @Service

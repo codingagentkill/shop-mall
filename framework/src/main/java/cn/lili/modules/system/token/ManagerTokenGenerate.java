@@ -23,7 +23,6 @@ import java.util.Map;
 /**
  * 管理员token生成
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/11/16 10:51
  */

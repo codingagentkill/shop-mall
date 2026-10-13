@@ -13,7 +13,6 @@ import java.util.Map;
 /**
  * response 输出响应工具
  *
- * @author Chopper
  */
 public class ResponseUtil {
 

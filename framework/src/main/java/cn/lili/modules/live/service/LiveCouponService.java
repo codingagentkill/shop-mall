@@ -6,7 +6,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import java.util.List;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 public interface LiveCouponService extends IService<LiveCoupon> {

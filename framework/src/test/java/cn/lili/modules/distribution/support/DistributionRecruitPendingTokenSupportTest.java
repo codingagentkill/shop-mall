@@ -16,7 +16,6 @@ import static org.mockito.Mockito.when;
 /**
  * 招募 pending token 缓存读写。
  *
- * @author Mike
  * @date 2026-09-18
  */
 class DistributionRecruitPendingTokenSupportTest {

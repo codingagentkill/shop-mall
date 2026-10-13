@@ -32,7 +32,6 @@ import java.util.List;
 /**
  * 商品参数业务层实现
  *
- * @author pikachu
  * @since 2020-03-02 16:18:56
  */
 @Service

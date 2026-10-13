@@ -10,7 +10,6 @@ import org.springframework.context.ApplicationEvent;
  * 避免分销写库失败把支付事务标成 rollback-only。
  * </p>
  *
- * @author Mike
  * @date 2026-09-07
  */
 public class DistributionPaymentRewardsEvent extends ApplicationEvent {

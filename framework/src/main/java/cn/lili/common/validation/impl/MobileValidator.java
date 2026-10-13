@@ -11,7 +11,6 @@ import java.util.regex.Pattern;
  * 电话校验
  * 支持手机号+电话同时校验
  *
- * @author Bulbasaur
  * @since 2021/7/9 1:41 上午
  */
 public class MobileValidator implements ConstraintValidator<Mobile, String> {

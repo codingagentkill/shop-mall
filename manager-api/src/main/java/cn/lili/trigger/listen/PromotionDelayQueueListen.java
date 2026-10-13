@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 /**
  * PromotionTimeTriggerListen
  *
- * @author Chopper
  * @version v1.0
  * 2021-06-11 10:47
  */

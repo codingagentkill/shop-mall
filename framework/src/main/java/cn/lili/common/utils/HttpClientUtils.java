@@ -34,7 +34,6 @@ import java.util.Map;
 /**
  * HttpClientUtils
  *
- * @author Bulbasaur
  * @since 2021/7/9 1:40 上午
  */
 @Slf4j

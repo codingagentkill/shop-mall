@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 核销前预览，供二次确认
  *
- * @author Bulbasaur
  * @since 2026-09-23
  */
 @Data

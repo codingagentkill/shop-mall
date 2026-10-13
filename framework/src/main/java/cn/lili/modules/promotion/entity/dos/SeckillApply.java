@@ -13,7 +13,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 秒杀活动申请实体类
  *
- * @author Chopper
  * @since 2020-03-19 10:44 上午
  */
 @Data

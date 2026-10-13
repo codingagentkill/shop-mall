@@ -71,7 +71,7 @@ swagger:
   contact:
     name: lili
     url: https://pickmall.cn
-    email: admin@pickmall.com
+    email: admin@example.com
 
 # Mybatis-plus
 mybatis-plus:

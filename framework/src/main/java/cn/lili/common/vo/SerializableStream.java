@@ -9,7 +9,6 @@ import java.io.InputStream;
 /**
  * 序列化的input stream
  *
- * @author Chopper
  */
 @Data
 @NoArgsConstructor

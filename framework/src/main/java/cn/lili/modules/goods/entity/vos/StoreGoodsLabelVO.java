@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 店铺商品分类VO
  *
- * @author Bulbasaur
  * @since 2020/12/11 16:18
  */
 @Data

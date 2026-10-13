@@ -13,7 +13,6 @@ import java.util.Date;
 /**
  * 分销员实体读写辅助，仅依赖 Mapper 与同层 ReferenceSupport，不注入 Service。
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Component

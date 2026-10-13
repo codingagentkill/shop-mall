@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 分销招募页VO
  *
- * @author pikachu
  */
 @Data
 public class DistributionRecruitPageVO {

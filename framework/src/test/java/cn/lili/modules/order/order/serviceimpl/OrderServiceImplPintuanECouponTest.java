@@ -24,7 +24,6 @@ import static org.mockito.Mockito.when;
 /**
  * 拼团 E_COUPON 成团/失败编排（TS-41 / TS-42）。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class OrderServiceImplPintuanECouponTest {

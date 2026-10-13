@@ -6,7 +6,6 @@ import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 
 /**
- * @author paulG
  * @since 2020/12/7
  **/
 @EqualsAndHashCode(callSuper = true)

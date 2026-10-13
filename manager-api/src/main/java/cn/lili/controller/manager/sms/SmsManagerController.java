@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 管理端,短信接口
  *
- * @author Bulbasaur
  * @since 2021/1/30 4:09 下午
  */
 @RestController

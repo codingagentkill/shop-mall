@@ -13,7 +13,6 @@ import jakarta.validation.constraints.Size;
 /**
  * 店铺修改DTO
  *
- * @author pikachu
  * @since 2020-08-22 15:10:51
  */
 @Data

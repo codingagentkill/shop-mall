@@ -17,7 +17,6 @@ import org.springframework.stereotype.Component;
 /**
  * 未实际支付插件（礼品卡/优惠券等抵扣后应付现金为 0，无需走第三方支付通道）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Slf4j

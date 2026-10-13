@@ -9,7 +9,6 @@ import java.util.Date;
 /**
  * 分销员端业绩统计查询
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionBuyerPerformanceMapper {

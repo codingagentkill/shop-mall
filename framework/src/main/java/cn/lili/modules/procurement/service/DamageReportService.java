@@ -12,7 +12,6 @@ import java.util.Map;
 /**
  * 报损单业务接口
  * 定义报损单的生命周期操作
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public interface DamageReportService extends IService<DamageReport> {

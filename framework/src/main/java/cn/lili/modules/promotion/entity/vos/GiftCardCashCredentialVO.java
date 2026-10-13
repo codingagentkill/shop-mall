@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 卡密凭证分页展示对象（已绑定时带会员摘要信息）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

@@ -10,7 +10,6 @@ import java.util.Map;
 /**
  * 分销统计查询参数
  *
- * @author pikachu
  */
 @Data
 public class DistributionStatisticsQueryParams {

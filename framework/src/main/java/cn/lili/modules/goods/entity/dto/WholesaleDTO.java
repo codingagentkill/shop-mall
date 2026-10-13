@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 import org.springframework.beans.BeanUtils;
 
 /**
- * @author paulG
  * @since 2022/5/25
  **/
 @Data

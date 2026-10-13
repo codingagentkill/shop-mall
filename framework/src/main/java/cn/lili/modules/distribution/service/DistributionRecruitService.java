@@ -10,7 +10,6 @@ import cn.lili.modules.system.entity.dto.DistributionRecruitSetting;
 /**
  * 分销招募服务。
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionRecruitService {

@@ -22,7 +22,6 @@ import jakarta.servlet.http.HttpServletResponse;
  * 负责分销员申请、审核、清退/恢复、佣金账户变动及管理端列表查询。
  * </p>
  *
- * @author pikachu
  * @since 2020-03-14
  */
 public interface DistributionService extends IService<Distribution> {

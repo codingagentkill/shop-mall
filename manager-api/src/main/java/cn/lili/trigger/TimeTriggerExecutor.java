@@ -3,7 +3,6 @@ package cn.lili.trigger;
 /**
  * 延时任务执行器接口
  *
- * @author Chopper
  */
 public interface TimeTriggerExecutor {
 

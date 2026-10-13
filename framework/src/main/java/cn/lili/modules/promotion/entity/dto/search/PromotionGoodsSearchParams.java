@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 促销商品查询通用类
  *
- * @author paulG
  * @since 2021/2/21
  **/
 @EqualsAndHashCode(callSuper = true)

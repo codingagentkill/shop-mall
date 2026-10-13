@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * IM 控制器
  *
- * @author Chopper
  * @version v1.0
  * 2021-09-16 15:32
  */

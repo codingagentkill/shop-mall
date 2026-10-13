@@ -28,7 +28,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 买家端,砍价活动商品
  *
- * @author qiuqiu
  * @date 2021/7/12
  **/
 @RestController

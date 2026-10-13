@@ -24,7 +24,6 @@ import java.util.List;
 /**
  * 购物车礼品卡抵扣渲染步骤（试算抵扣并将优惠分摊到SKU价格明细）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Service

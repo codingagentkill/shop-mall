@@ -5,7 +5,6 @@ import cn.lili.modules.order.cart.entity.enums.RenderStepEnums;
 /**
  * 价格渲染 步骤声明
  *
- * @author Chopper
  * @version v1.0
  * 2021-08-13 16:15
  */

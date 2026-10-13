@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 会员礼品卡分页展示对象（含活动名称与可用状态）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

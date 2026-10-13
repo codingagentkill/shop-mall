@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 订单发票
  *
- * @author lili
  * @since 2020/11/28 11:38
  */
 @Data

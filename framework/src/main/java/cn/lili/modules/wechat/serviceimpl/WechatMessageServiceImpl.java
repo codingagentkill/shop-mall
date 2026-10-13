@@ -31,7 +31,6 @@ import java.util.Map;
 /**
  * 微信模版消息（公众号） 业务实现
  *
- * @author Chopper
  */
 @Service
 @Slf4j

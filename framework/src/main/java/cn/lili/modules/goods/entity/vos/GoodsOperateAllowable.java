@@ -10,7 +10,6 @@ import java.io.Serializable;
 /**
  * 商品操作允许的范围
  *
- * @author Bulbasaur
  * @since 2020-02-26 23:24:13
  */
 @Data

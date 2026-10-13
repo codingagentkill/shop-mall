@@ -3,7 +3,6 @@ package cn.lili.modules.order.order.entity.enums;
 /**
  * 订单元Key枚举
  *
- * @author Chopper
  * @since 2020/11/17 7:26 下午
  */
 public enum OrderMetaKeyEnum {

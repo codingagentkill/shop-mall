@@ -19,7 +19,6 @@ import org.springframework.stereotype.Service;
 /**
  * 支付
  *
- * @author Chopper
  * @since 2021-03-13 16:58
  */
 @Slf4j

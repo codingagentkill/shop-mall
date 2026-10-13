@@ -9,7 +9,6 @@ import jakarta.validation.constraints.NotEmpty;
 /**
  * 客户评价DTO
  *
- * @author Chopper
  * @since 2020/11/29 11:13 下午
  */
 @Data

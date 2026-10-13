@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销员上级归属模式
  *
- * @author pikachu
  */
 public enum DistributionParentAttributionModeEnum {
 

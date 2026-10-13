@@ -17,7 +17,6 @@ import java.util.Date;
 /**
  * 客户商品收藏
  *
- * @author Chopper
  * @since 2020/11/18 3:31 下午
  */
 @Data

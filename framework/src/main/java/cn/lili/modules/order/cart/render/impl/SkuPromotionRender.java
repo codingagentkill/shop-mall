@@ -37,7 +37,6 @@ import java.util.Objects;
 /**
  * 购物促销信息渲染实现
  *
- * @author Chopper
  * @since 2020-07-02 14:47
  */
 @Service

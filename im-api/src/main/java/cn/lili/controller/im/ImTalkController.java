@@ -19,7 +19,6 @@ import java.util.List;
 
 
 /**
- * @author Chopper
  */
 @RestController
 @Tag(name = "聊天接口")

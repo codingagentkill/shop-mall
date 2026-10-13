@@ -19,7 +19,6 @@ import jakarta.validation.Valid;
 /**
  * 买家端,发票接口
  *
- * @author paulG
  * @since 2021/1/12
  **/
 @RestController

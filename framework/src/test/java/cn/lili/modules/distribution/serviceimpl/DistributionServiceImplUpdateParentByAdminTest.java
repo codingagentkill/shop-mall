@@ -31,7 +31,6 @@ import static org.mockito.Mockito.when;
 /**
  * 管理端清除/改绑上级：Wrapper 写 null，并兜底同步内存对象。
  *
- * @author Mike
  * @date 2026-09-10
  */
 class DistributionServiceImplUpdateParentByAdminTest {

@@ -14,7 +14,6 @@ import java.io.Serializable;
 /**
  * 砍价活动商品查询通用类
  *
- * @author qiuqiu
  * @date 2020/8/21
  **/
 @EqualsAndHashCode(callSuper = true)

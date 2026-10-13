@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 商家订单流水业务层
  *
- * @author Chopper
  * @since 2020/11/17 7:37 下午
  */
 public interface StoreFlowService extends IService<StoreFlow> {

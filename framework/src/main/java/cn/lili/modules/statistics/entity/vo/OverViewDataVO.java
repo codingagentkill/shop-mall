@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 营业概况数据（含环比）
  *
- * @author Bulbasaur
  * @since 2025/08/25 7:07 下午
  */
 @Data

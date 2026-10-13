@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 角色
  *
- * @author Chopper
  * @since 2020/11/19 11:57
  */
 @EqualsAndHashCode(callSuper = true)

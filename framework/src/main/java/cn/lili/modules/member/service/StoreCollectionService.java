@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 店铺收藏业务层
  *
- * @author Chopper
  * @since 2020/11/18 2:52 下午
  */
 public interface StoreCollectionService extends IService<StoreCollection> {

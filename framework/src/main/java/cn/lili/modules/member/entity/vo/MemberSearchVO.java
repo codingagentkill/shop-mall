@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 客户搜索VO
  *
- * @author Bulbasaur
  * @since 2020/12/15 10:48
  */
 @Data

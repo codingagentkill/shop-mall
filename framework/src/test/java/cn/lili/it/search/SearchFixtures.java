@@ -12,7 +12,6 @@ import java.time.LocalDateTime;
 /**
  * 搜索 IT 的商品 / SKU / 品牌夹具。ID 用小整数，便于排序与翻页断言。
  *
- * @author Mike
  * @date 2026-09-03
  */
 final class SearchFixtures {

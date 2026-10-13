@@ -36,7 +36,6 @@ import com.alibaba.fastjson2.JSON;
 /**
  * 直播商品业务层实现
  *
- * @author Bulbasaur
  * @since 2021/5/17 11:16 上午
  */
 @Service

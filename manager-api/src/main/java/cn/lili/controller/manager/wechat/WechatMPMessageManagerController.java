@@ -22,7 +22,6 @@ import java.nio.file.StandardOpenOption;
 
 
 /**
- * @author Chopper
  */
 @RestController
 @Tag(name = "微信小程序消息订阅接口")

@@ -18,7 +18,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,发票记录接口
  *
- * @author paulG
  * @since 2020/11/17 4:34 下午
  **/
 @RestController

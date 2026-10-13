@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 满赠电子卡券赠品子单摘要（挂载于主单 {@link OrderDetailVO}）。
  *
- * @author Mike
  * @date 2026-08-02
  */
 @Data

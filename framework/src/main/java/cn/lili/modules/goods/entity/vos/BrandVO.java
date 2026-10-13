@@ -7,7 +7,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 品牌VO
  *
- * @author pikachu
  * @since 2020-02-26 23:24:13
  */
 @Data

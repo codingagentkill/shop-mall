@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 间隔更新敏感词
  *
- * @author Chopper
  * @version v1.0
  * 2021-11-23 16:31
  */

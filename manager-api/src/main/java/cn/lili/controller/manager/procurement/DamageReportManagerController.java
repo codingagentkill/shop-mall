@@ -27,7 +27,6 @@ import java.util.List;
  * 管理端,报损单接口
  * 提供报损单分页、详情与明细查询
  *
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Tag(name = "管理端,报损单接口")

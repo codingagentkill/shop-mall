@@ -14,7 +14,6 @@ import org.springframework.stereotype.Service;
 /**
  * 分销钱包流水服务实现
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Service

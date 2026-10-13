@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 店铺菜单权限业务层
  *
- * @author Chopper
  * @since 2020/11/17 3:45 下午
  */
 @CacheConfig(cacheNames = "{store_menu}")

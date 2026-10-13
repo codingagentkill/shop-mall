@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 店铺端,角色菜单接口
  *
- * @author Chopper
  * @since 2020/11/22 11:40
  */
 @RestController

@@ -35,7 +35,6 @@ import java.util.stream.Collectors;
  * 提供分组的增删改查，以及对分组与商品关联关系的维护与查询。
  * </p>
  *
- * @author mike
  * @date 2026-03-30
  */
 @RestController

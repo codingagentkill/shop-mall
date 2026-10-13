@@ -14,7 +14,6 @@ import org.springframework.stereotype.Component;
 /**
  * 分销商品设置读取辅助
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Component

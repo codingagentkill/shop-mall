@@ -3,7 +3,6 @@ package cn.lili.modules.promotion.entity.enums;
 /**
  * 促销适用范围类型枚举
  *
- * @author Chopper
  * @since 2020-03-19 9:36 上午
  */
 public enum PromotionsScopeTypeEnum {

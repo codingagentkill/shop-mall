@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
 /**
  * 小程序直播状态获取
  *
- * @author Bulbasaur
  * @since 2021/5/20 2:52 下午
  */
 @Component

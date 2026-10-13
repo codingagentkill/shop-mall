@@ -26,7 +26,6 @@ import static org.mockito.Mockito.when;
 /**
  * 清退后提交招募申请：独立错误码，不复用已申请文案。
  *
- * @author Mike
  * @date 2026-09-09
  */
 class DistributionRecruitServiceImplSubmitApplicationTest {

@@ -14,7 +14,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 客户等级
  *
- * @author Bulbasaur
  * @since 2021/5/14 5:43 下午
  */
 @Data

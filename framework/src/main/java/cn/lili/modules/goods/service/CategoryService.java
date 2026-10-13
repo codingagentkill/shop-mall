@@ -12,7 +12,6 @@ import java.util.Map;
 /**
  * 商品分类业务层
  *
- * @author pikachu
  * @since 2020-03-02 16:44:56
  */
 public interface CategoryService extends IService<Category> {

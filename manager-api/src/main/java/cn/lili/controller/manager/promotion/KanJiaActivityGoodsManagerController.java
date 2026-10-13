@@ -24,7 +24,6 @@ import java.util.Arrays;
 /**
  * 管理端,促销接口
  *
- * @author qiuqiu
  * @since 2021/7/2
  **/
 @RestController

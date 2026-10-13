@@ -11,7 +11,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * 买家 GET /distribution 清退脱敏：返回拷贝、不改原对象。
  *
- * @author Mike
  * @date 2026-09-09
  */
 class DistributionBuyerViewSupportTest {

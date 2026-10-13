@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 /**
  * 客户token生成
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/11/16 10:50
  */

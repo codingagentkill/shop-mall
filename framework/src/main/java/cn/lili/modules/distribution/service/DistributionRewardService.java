@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.service;
 /**
  * 分销佣金奖励服务（支付冻结、完成结算、退款冲回）。
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionRewardService {

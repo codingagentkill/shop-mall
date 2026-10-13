@@ -11,7 +11,6 @@ import java.io.Serializable;
 /**
  * 平台预约退款参数
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 @Data

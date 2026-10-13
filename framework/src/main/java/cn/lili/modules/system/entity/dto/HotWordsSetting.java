@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 搜索热词
  *
- * @author Bulbasaur
  * @since 2021/5/16 11:10 下午
  */
 @Data

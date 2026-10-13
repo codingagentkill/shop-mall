@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 客户关系变更类型
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public enum DistributionCustomerRelationChangeTypeEnum {

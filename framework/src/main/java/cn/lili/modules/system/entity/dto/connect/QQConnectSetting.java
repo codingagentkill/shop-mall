@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * QQ联合登录设置
  *
- * @author Chopper
  * @since 2020/11/17 7:59 下午
  */
 @Data

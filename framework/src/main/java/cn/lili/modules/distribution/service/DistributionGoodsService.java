@@ -18,7 +18,6 @@ import java.util.List;
  * 负责商家选品加入分销池、平台审核、佣金设置及分销员选品查询等能力。
  * </p>
  *
- * @author pikachu
  * @since 2020-03-24
  */
 public interface DistributionGoodsService extends IService<DistributionGoods> {

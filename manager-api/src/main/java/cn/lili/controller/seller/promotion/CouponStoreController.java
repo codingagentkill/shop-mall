@@ -30,7 +30,6 @@ import java.util.Objects;
 /**
  * 店铺端,优惠券接口
  *
- * @author paulG
  * @since 2020/8/28
  **/
 @RestController

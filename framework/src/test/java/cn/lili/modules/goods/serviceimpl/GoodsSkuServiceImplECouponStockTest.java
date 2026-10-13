@@ -31,7 +31,6 @@ import static org.mockito.Mockito.verify;
 /**
  * E_COUPON SKU quantity 读写规则：普通库存入口禁止手工修改。
  *
- * @author Mike
  * @date 2026-08-02
  */
 @ExtendWith(MockitoExtension.class)

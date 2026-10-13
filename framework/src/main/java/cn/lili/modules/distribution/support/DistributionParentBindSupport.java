@@ -15,7 +15,6 @@ import java.util.Set;
 /**
  * 分销员上级归属绑定辅助，避免 RecruitService 与 DistributionService 循环依赖。
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 @Component

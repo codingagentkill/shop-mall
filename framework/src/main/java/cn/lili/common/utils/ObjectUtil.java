@@ -9,7 +9,6 @@ import java.util.Map;
 
 /**
  * 对象转换工具
- * @author Chopper
  */
 public class ObjectUtil {
 

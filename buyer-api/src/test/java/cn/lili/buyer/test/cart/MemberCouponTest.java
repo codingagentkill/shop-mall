@@ -10,7 +10,6 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 /**
- * @author paulG
  * @since 2020/11/27
  **/
 @ExtendWith(SpringExtension.class)

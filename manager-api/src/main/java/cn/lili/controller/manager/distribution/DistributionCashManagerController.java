@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 管理端,分销佣金管理接口
  *
- * @author pikachu
  * @since 2020-03-14 23:04:56
  */
 @RestController

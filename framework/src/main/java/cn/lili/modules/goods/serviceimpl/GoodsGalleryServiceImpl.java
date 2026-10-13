@@ -21,7 +21,6 @@ import java.util.List;
 /**
  * 商品相册接口实现
  *
- * @author pikachu
  * @version v1.0
  * @since v1.0
  * 2020-02-23 15:18:56

@@ -32,7 +32,6 @@ import java.util.Map;
 /**
  * 银联云闪付 支付
  *
- * @author Bulbasaur
  * @since 2023/02/14 17:44
  */
 @Slf4j

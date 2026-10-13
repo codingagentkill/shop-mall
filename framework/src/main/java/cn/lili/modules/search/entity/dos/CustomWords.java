@@ -13,7 +13,6 @@ import org.hibernate.validator.constraints.Length;
 /**
  * 自定义分词
  *
- * @author paulG
  * @since 2020/10/15
  **/
 @Data

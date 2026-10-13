@@ -3,7 +3,6 @@ package cn.lili.modules.payment.entity.enums;
 /**
  * 支付方式枚举
  *
- * @author Chopper
  * @since 2020/12/18 18:08
  */
 public enum PaymentClientEnum {

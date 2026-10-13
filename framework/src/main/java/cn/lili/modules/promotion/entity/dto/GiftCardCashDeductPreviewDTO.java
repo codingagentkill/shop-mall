@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 礼品卡抵扣试算请求参数
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

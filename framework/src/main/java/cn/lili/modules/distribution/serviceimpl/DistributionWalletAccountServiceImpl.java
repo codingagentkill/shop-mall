@@ -20,7 +20,6 @@ import java.math.BigDecimal;
 /**
  * 分销钱包账户服务实现
  *
- * @author pikachu
  */
 @Slf4j
 @Service

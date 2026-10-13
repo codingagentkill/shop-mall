@@ -3,7 +3,6 @@ package cn.lili.modules.order.order.entity.enums;
 /**
  * 交易状态枚举
  *
- * @author Chopper
  * @since 2020/11/17 7:27 下午
  */
 public enum TradeStatusEnum {

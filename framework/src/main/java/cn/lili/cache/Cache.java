@@ -12,7 +12,6 @@ import java.util.concurrent.TimeUnit;
 /**
  * 缓存接口
  *
- * @author Chopper
  */
 public interface Cache<T> {
 

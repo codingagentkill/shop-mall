@@ -9,7 +9,6 @@ import java.util.EnumSet;
 /**
  * 促销分类枚举
  *
- * @author Chopper
  * @since 2021/2/1 19:32
  */
 public enum PromotionTypeEnum {

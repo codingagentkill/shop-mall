@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 现金礼品卡发卡/发送记录实体类
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

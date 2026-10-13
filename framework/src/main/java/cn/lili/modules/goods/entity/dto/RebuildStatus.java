@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 商品参数倒排全量重建进度（存 Redis，跨实例一致）。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Data

@@ -11,7 +11,6 @@ import java.nio.charset.StandardCharsets;
 /**
  * 要实现对象的缓存，定义自己的序列化和反序列化器。使用阿里的fastjson来实现的比较多
  *
- * @author Bulbasaur
  */
 public class FastJsonRedisSerializer<T> implements RedisSerializer<T> {
     static final Filter autoTypeFilter = JSONReader.autoTypeFilter(

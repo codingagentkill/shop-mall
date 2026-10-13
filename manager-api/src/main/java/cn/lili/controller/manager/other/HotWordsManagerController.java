@@ -24,7 +24,6 @@ import java.util.List;
 /**
  * 管理端,热词管理
  *
- * @author Chopper
  * @since 2018-07-04 21:50:52
  */
 @RestController

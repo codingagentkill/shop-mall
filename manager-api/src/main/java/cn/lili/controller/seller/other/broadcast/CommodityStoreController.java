@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 店铺端,直播商品接口
  *
- * @author Bulbasaur
  * @since 2021/5/17 2:05 下午
  */
 @RestController

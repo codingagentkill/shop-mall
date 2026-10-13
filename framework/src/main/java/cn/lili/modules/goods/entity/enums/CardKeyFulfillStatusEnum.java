@@ -3,7 +3,6 @@ package cn.lili.modules.goods.entity.enums;
 /**
  * 电子卡券订单项卡密履约状态（订单详情扩展字段，非卡池 status）。
  *
- * @author Mike
  * @date 2026-08-02
  */
 public enum CardKeyFulfillStatusEnum {

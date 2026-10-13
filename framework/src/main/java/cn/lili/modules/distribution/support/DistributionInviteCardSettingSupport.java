@@ -14,7 +14,6 @@ import org.springframework.stereotype.Component;
 /**
  * 分销邀请卡设置
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Component

@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 统计查询参数
  *
- * @author Bulbasaur
  * @since 2020/12/9 14:20
  */
 @Data

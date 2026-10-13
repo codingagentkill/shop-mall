@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 分销等级变更历史服务
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 public interface DistributionGradeHistoryService extends IService<DistributionGradeHistory> {

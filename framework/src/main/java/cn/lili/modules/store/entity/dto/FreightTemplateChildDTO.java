@@ -13,7 +13,6 @@ import org.springframework.beans.BeanUtils;
 /**
  * 模版详细配置
  *
- * @author pikachu
  * @since 2018-08-22 15:10:51
  */
 @Data

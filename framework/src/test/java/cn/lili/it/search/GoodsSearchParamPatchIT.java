@@ -12,7 +12,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * 倒排表建表脚本在 MySQL 8 与 MariaDB 上均可执行，且 goods_id 排序规则与 SKU 对齐。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Tag("it")

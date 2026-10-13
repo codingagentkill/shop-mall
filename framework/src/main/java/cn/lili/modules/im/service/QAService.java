@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 问答
  *
- * @author pikachu
  * @since 2020-02-18 16:18:56
  */
 public interface QAService extends IService<QA> {

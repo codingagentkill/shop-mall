@@ -10,7 +10,6 @@ import jakarta.servlet.http.HttpServletResponse;
 /**
  * CookieUtil
  *
- * @author Chopper
  * @version v1.0
  * 2020-12-14 09:32
  */

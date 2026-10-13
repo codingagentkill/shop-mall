@@ -12,7 +12,6 @@ import java.util.Map;
 /**
  * <p>Http 工具类</p>
  *
- * @author
  */
 @Slf4j
 public class HttpKit {
@@ -76,7 +75,6 @@ public class HttpKit {
 /**
  * 使用 huTool 实现的 Http 工具类
  *
- * @author
  */
 class DefaultHttpKit extends AbstractHttpDelegate {
 }

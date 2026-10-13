@@ -8,7 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * 延时队列工厂
  *
- * @author paulG
  * @since 2020/11/7
  **/
 @Slf4j

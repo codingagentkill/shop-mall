@@ -30,7 +30,6 @@ import org.springframework.web.multipart.MultipartFile;
  * <p>
  * Base Path: {@code /store/goods/card-key}。卡密明文仅在本端授权上下文返回，禁止写入日志。
  *
- * @author Mike
  * @date 2026-07-31
  */
 @RestController

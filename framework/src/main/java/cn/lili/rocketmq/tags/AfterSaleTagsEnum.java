@@ -3,7 +3,6 @@ package cn.lili.rocketmq.tags;
 /**
  * 售后标签枚举
  *
- * @author paulG
  * @since 2020/12/9
  **/
 public enum AfterSaleTagsEnum {

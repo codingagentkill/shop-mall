@@ -14,7 +14,6 @@ import jakarta.servlet.http.HttpServletResponse;
 /**
  * 自定义 拒绝访问响应
  *
- * @author Chopper
  */
 @Component
 public class CustomAccessDeniedHandler implements AccessDeniedHandler {

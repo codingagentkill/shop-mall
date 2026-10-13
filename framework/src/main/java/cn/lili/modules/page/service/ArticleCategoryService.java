@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 文章分类业务层
  *
- * @author Bulbasaur
  * @since 2020/11/24 17:07
  */
 public interface ArticleCategoryService extends IService<ArticleCategory> {

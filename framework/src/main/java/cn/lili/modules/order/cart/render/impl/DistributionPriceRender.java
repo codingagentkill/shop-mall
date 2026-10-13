@@ -21,7 +21,6 @@ import java.util.stream.Collectors;
 /**
  * 分销佣金计算
  *
- * @author Chopper
  * @since 2020-07-02 14:47
  */
 @Service

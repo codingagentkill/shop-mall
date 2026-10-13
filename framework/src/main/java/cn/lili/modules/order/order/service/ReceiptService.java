@@ -11,7 +11,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 发票业务层
  *
- * @author Bulbasaur
  * @since 2020/11/17 7:37 下午
  */
 public interface ReceiptService extends IService<Receipt> {

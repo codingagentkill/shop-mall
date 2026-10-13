@@ -12,7 +12,6 @@ import org.springframework.data.annotation.CreatedBy;
 /**
  * 商品相册
  *
- * @author pikachu
  * @since 2020-02-23 9:14:33
  */
 @Data

@@ -12,7 +12,6 @@ import java.math.BigDecimal;
 /**
  * 分销钱包流水
  *
- * @author pikachu
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -25,7 +25,6 @@ import java.util.List;
 /**
  * 买家端,拼团接口
  *
- * @author paulG
  * @since 2021/2/20
  **/
 @Tag(name = "买家端,拼团接口")

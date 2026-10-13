@@ -5,7 +5,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
  * 报损单明细数据访问
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public interface DamageReportItemMapper extends BaseMapper<DamageReportItem> {

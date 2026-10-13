@@ -8,7 +8,6 @@ import lombok.Data;
 /**
  * MessageVO
  *
- * @author Chopper
  * @version v1.0
  * 2021-12-30 15:51
  */

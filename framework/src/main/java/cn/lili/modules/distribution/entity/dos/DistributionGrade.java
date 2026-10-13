@@ -16,7 +16,6 @@ import java.math.BigDecimal;
  * 升级规则：对某一等级已启用的销售额、收益额、邀请人数条件须<strong>全部</strong>达标方可升级。
  * </p>
  *
- * @author pikachu
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

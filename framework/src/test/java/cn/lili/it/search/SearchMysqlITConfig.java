@@ -50,7 +50,6 @@ import static org.mockito.Mockito.when;
 /**
  * 搜索 IT 最小 Spring 上下文：真实 MyBatis-Plus + MySQL，Redis 用内存替身。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Configuration

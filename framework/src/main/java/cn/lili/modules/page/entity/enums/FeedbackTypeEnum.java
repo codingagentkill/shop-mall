@@ -3,7 +3,6 @@ package cn.lili.modules.page.entity.enums;
 /**
  * 功能反馈枚举
  *
- * @author Bulbasaur
  * @since 2020/12/7 10:50
  */
 public enum FeedbackTypeEnum {

@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 买家端,客户站内消息接口
  *
- * @author Bulbasaur
  * @since 2020/11/16 10:07 下午
  */
 @RestController

@@ -36,7 +36,6 @@ import java.util.Map;
 /**
  * 预约服务商品核心业务层
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 public interface AppointmentService {

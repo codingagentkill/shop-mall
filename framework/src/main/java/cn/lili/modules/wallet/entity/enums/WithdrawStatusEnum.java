@@ -3,7 +3,6 @@ package cn.lili.modules.wallet.entity.enums;
 /**
  * 提现申请状态枚举类
  *
- * @author pikachu
  * @since 2020-11-06
  */
 public enum WithdrawStatusEnum {

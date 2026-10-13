@@ -3,7 +3,6 @@ package cn.lili.trigger.enums;
 /**
  * 队列枚举
  *
- * @author Bulbasaur
  */
 public enum DelayQueueEnums {
 

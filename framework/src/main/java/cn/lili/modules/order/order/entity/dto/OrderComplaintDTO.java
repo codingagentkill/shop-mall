@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 交易投诉DTO
  *
- * @author Bulbasaur
  * @since 2021/1/7 19:39
  */
 @Data

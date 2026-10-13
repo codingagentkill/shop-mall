@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 分销员银行卡业务层实现
  *
- * @author Bulbasaur
  * @since 2026-08-06
  */
 @Service

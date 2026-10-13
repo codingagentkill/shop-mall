@@ -6,7 +6,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 /**
  * 分销员银行卡数据层
  *
- * @author Bulbasaur
  * @since 2026-08-06
  */
 public interface DistributionBankCardMapper extends BaseMapper<DistributionBankCard> {

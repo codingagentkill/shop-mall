@@ -9,7 +9,6 @@ import lombok.Data;
 import tools.jackson.databind.annotation.JsonDeserialize;
 
 /**
- * @author liushuai
  */
 @Data
 public class MessageOperation {

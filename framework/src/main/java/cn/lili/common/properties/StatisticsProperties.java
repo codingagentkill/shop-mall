@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 在线人数统计
  *
- * @author Chopper
  * @version v4.0
  * @since 2021/2/21 10:19
  */

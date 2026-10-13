@@ -26,7 +26,6 @@ import java.util.Objects;
 /**
  * 客户浏览历史业务层实现
  *
- * @author Chopper
  * @since 2020/11/18 10:46 上午
  */
 @Service

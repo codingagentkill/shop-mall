@@ -69,7 +69,6 @@ import java.util.LinkedHashSet;
 /**
  * 购物车业务层实现
  *
- * @author Chopper
  * @since 2020-03-23 12:29 下午
  */
 @Slf4j

@@ -24,7 +24,6 @@ import jakarta.validation.constraints.NotNull;
 /**
  * 买家端,客户商品评价接口
  *
- * @author Bulbasaur
  * @since 2020/11/16 10:08 下午
  */
 @RestController

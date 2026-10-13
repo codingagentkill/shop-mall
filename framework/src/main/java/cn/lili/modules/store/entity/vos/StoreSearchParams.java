@@ -14,7 +14,6 @@ import java.io.Serializable;
 /**
  * 店铺搜索参数VO
  *
- * @author pikachu
  * @since 2020-03-07 17:02:05
  */
 @Data

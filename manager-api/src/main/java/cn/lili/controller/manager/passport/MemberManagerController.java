@@ -28,7 +28,6 @@ import java.util.List;
 /**
  * 管理端,客户接口
  *
- * @author Bulbasaur
  * @since 2020-02-25 14:10:16
  */
 @RestController

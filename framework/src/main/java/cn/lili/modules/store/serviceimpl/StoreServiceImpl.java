@@ -55,7 +55,6 @@ import java.util.Objects;
 /**
  * 店铺业务层实现
  *
- * @author pikachu
  * @since 2020-03-07 16:18:56
  */
 @Service

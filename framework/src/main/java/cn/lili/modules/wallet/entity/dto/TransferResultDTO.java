@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 转账结果
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @Description:
  * @since 2023/5/6 16:10

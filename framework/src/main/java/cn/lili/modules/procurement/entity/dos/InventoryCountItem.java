@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 盘点单明细实体，记录SKU在盘点时刻的库存与基本信息
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

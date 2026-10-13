@@ -4,7 +4,6 @@ package cn.lili.common.enums;
  * 返回状态码
  * 第一位 1:商品；2:用户；3:交易,4:促销,5:店铺,6:页面,7:设置,8:其他
  *
- * @author Chopper
  * @since 2020/4/8 1:36 下午
  */
 public enum ResultCode {

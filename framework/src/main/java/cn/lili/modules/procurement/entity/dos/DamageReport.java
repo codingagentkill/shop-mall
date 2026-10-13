@@ -15,7 +15,6 @@ import java.util.Date;
 @TableName("li_damage_report")
 /**
  * 报损单实体，记录店铺报损的基础信息与汇总数据
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public class DamageReport extends BaseEntity {

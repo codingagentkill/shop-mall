@@ -5,7 +5,6 @@ import java.lang.annotation.*;
 /**
  * 异常重试注解
  *
- * @author paulG
  * @since 2022/4/26
  **/
 @Target(ElementType.METHOD)

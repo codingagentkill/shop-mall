@@ -18,7 +18,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author ftyy
  * @description: 店铺名称修改同步对应场景
  * @date 2023/4/24
  */

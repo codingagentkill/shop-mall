@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.RestController;
  * 管理端,采购单接口
  * 提供采购单分页与详情查询
  *
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Tag(name = "管理端,采购单接口")

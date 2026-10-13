@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 管理端,部门管理接口
  *
- * @author Chopper
  * @since 2020/11/22 12:06
  */
 @RestController

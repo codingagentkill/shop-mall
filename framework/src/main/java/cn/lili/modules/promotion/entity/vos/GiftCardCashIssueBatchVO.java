@@ -13,7 +13,6 @@ import java.util.Date;
 /**
  * 现金礼品卡发卡批次展示对象（含卡号范围、面额、过期时间等扩展字段）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 /**
  * 促销商品数据传输对象
  *
- * @author paulG
  * @since 2020/10/9
  **/
 @EqualsAndHashCode(callSuper = true)

@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 自定义分词业务层
  *
- * @author paulG
  * @since 2020/10/15
  **/
 public interface CustomWordsService extends IService<CustomWords> {

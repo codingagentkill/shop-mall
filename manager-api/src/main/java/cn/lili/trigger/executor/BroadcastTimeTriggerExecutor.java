@@ -12,7 +12,6 @@ import org.springframework.stereotype.Component;
 /**
  * 直播间事件触发
  *
- * @author Bulbasaur
  * @since 2021/6/1 5:02 下午
  */
 @Slf4j

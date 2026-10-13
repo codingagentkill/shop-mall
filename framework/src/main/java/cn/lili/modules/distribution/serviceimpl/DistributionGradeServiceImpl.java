@@ -25,7 +25,6 @@ import java.util.Objects;
 /**
  * 分销等级服务实现
  *
- * @author pikachu
  */
 @Service
 public class DistributionGradeServiceImpl extends ServiceImpl<DistributionGradeMapper, DistributionGrade>

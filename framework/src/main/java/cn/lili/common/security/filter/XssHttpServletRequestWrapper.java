@@ -23,7 +23,6 @@ import java.util.Map;
 /**
  * 防止Xss
  *
- * @author Chopper
  * @version v1.0
  * 2021-06-04 10:39
  */

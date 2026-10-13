@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 上级分销员信息VO（附带是否展示上级）。
  *
- * @author pikachu
  */
 @Data
 public class DistributionParentInfoVO {

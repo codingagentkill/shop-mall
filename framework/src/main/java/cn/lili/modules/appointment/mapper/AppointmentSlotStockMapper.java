@@ -9,7 +9,6 @@ import org.apache.ibatis.annotations.Update;
 /**
  * 预约时段库存数据处理层
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 public interface AppointmentSlotStockMapper extends BaseMapper<AppointmentSlotStock> {

@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 客户优惠券业务层
  *
- * @author Chopper
  * @since 2020/11/18 9:45 上午
  */
 public interface MemberCouponService extends IService<MemberCoupon> {

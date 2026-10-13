@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * token过期配置
  *
- * @author Chopper
  */
 @Data
 @Configuration

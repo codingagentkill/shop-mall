@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 结算单VO
  *
- * @author pikachu
  * @since 2020年3月07日 上午11:04:25
  */
 @Data

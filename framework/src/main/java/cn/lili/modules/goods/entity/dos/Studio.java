@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 小程序直播间
  *
- * @author Bulbasaur
  * @since 2021/5/17 9:47 上午
  */
 @Data

@@ -11,7 +11,6 @@ import java.util.List;
 @Data
 /**
  * 报损单创建请求对象，用于店铺端提交新建报损单
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public class DamageReportCreateDTO {

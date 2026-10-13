@@ -27,7 +27,6 @@ import static org.mockito.Mockito.when;
 /**
  * 关店仅下架商品，不软删卡池。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class StoreServiceImplDisableTest {

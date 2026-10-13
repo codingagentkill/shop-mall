@@ -8,7 +8,6 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 预约结算上下文暂存（创单链路 memberId → checkout 参数）
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 public final class AppointmentCheckoutContextHolder {

@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 文件插件接口
  *
- * @author Chopper
  */
 public interface FilePlugin {
 

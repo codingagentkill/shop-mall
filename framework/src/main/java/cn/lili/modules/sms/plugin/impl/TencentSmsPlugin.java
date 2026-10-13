@@ -20,7 +20,6 @@ import java.util.Map;
 /**
  * 腾讯云短信插件
  *
- * @author Bulbasaur
  * @since 2023-02-16
  */
 @Slf4j
@@ -70,7 +69,7 @@ public class TencentSmsPlugin implements SmsPlugin {
             req.setTemplateParamSet(param.values().toArray(new String[0]));
 
             /* 下发手机号码，采用 E.164 标准，+[国家或地区码][手机号]
-             * 示例如：+8613711112222， 其中前面有一个+号 ，86为国家码，13711112222为手机号，最多不要超过200个手机号 */
+             * 示例如：+8613XXXXXXXXX， 其中前面有一个+号 ，86为国家码，13XXXXXXXXX为手机号，最多不要超过200个手机号 */
             String[] phoneNumberSet = {"+86" + mobile};
             req.setPhoneNumberSet(phoneNumberSet);
 
@@ -141,7 +140,7 @@ public class TencentSmsPlugin implements SmsPlugin {
             req.setTemplateParamSet(null);
 
             /* 下发手机号码，采用 E.164 标准，+[国家或地区码][手机号]
-             * 示例如：+8613711112222， 其中前面有一个+号 ，86为国家码，13711112222为手机号，最多不要超过200个手机号 */
+             * 示例如：+8613XXXXXXXXX， 其中前面有一个+号 ，86为国家码，13XXXXXXXXX为手机号，最多不要超过200个手机号 */
             req.setPhoneNumberSet(Convert.toStrArray(mobile));
 
             /* 用户的 session 内容（无需要可忽略）: 可以携带用户侧 ID 等上下文信息，server 会原样返回 */

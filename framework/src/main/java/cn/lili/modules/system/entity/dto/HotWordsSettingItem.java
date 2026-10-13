@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 积分签到设置
  *
- * @author Chopper
  * @since 2021-02-26 11:48
  */
 @Data

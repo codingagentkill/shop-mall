@@ -61,7 +61,6 @@ import java.util.stream.Collectors;
 /**
  * 售后业务层实现
  *
- * @author Chopper
  * @since 2020/11/17 7:38 下午
  */
 @Service
@@ -525,7 +524,6 @@ public class AfterSaleServiceImpl extends ServiceImpl<AfterSaleMapper, AfterSale
     /**
      * 修改OrderItem订单中正在售后的商品数量及OrderItem订单状态
      *
-     * @author ftyy
      */
     private void updateOrderItemAfterSaleStatus(AfterSale afterSale) {
 
@@ -733,7 +731,6 @@ public class AfterSaleServiceImpl extends ServiceImpl<AfterSaleMapper, AfterSale
      * 功能描述: 获取售后商品数量及已完成售后商品数量修改orderItem订单
      *
      * @param orderItem,afterSaleList
-     * @author ftyy
      **/
     private void updateOrderItemGoodsNumber(OrderItem orderItem, List<AfterSale> afterSaleList) {
         //根据售后状态获取不是已结束的售后记录
@@ -767,7 +764,6 @@ public class AfterSaleServiceImpl extends ServiceImpl<AfterSaleMapper, AfterSale
      *
      * @param orderItem
      * @return void
-     * @author ftyy
      **/
     private void updateOrderItem(OrderItem orderItem, AfterSale afterSale) {
         //订单状态不能为新订单,已失效订单或未申请订单才可以去修改订单信息

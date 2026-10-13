@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 验证码资源维护
- * @author Chopper
  * @since 2021/1/30 4:13 下午
  */
 @Data

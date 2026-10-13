@@ -8,7 +8,6 @@ import jakarta.validation.ConstraintValidatorContext;
 /**
  * 枚举之校验
  *
- * @author Bulbasaur
  * @since 2021/7/9 1:41 上午
  */
 public class EnumValuesValidator implements ConstraintValidator<EnumValue, Object> {

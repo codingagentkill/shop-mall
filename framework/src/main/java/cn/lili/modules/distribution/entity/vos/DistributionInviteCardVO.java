@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 分销邀请卡（招募下级分销员）
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

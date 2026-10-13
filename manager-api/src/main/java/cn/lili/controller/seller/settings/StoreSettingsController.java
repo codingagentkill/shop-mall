@@ -29,7 +29,6 @@ import jakarta.validation.Valid;
 /**
  * 店铺端,店铺设置接口
  *
- * @author Bulbasaur
  * @since 2020/11/22 14:23
  */
 @RestController

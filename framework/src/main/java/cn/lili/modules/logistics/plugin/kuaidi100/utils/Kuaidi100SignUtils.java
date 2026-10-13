@@ -38,7 +38,6 @@ public class Kuaidi100SignUtils {
      * @param key
      * @param secret
      * @return: java.lang.String
-     * @author: api.kuaidi100.com
      * @time: 2020/12/3 9:23
      */
     public static String printSign(String param, String t, String key, String secret) {
@@ -51,7 +50,6 @@ public class Kuaidi100SignUtils {
      * @param key
      * @param secret
      * @return: java.lang.String
-     * @author: api.kuaidi100.com
      * @time: 2020/12/3 9:23
      */
     public static String cloudSign(String key, String secret) {
@@ -64,7 +62,6 @@ public class Kuaidi100SignUtils {
      * @param key
      * @param userId
      * @return: java.lang.String
-     * @author: api.kuaidi100.com
      * @time: 2020/12/3 9:32
      */
     public static String smsSign(String key, String userId) {

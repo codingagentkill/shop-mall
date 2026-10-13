@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 店铺店员角色业务层
  *
- * @author Chopper
  * @since 2020/11/17 3:46 下午
  */
 public interface StoreClerkRoleService extends IService<StoreClerkRole> {

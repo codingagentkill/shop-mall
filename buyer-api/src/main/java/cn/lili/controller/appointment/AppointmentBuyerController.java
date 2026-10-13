@@ -24,7 +24,6 @@ import java.util.List;
 /**
  * 买家端预约结算辅助接口（移动端）
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @RestController

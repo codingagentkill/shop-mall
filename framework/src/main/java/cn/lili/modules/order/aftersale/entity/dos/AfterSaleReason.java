@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 售后原因
  *
- * @author Bulbasaur
  * @since 2021/7/9 1:39 上午
  */
 @Data

@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 商品概况统计业务层
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 public interface GoodsOverviewStatisticsService {

@@ -24,7 +24,6 @@ import java.util.List;
  * 分组按店铺维度隔离：ownerId 使用 storeId，而非店员 memberId，
  * 保证同店不同店员共享同一套素材分组。
  *
- * @author Chopper
  * @since 2020/11/26 15:41
  */
 @RestController

@@ -15,7 +15,6 @@ import java.util.List;
 
 /**
  * 店铺消息
- * @author chc
  * @since 2022/6/2114:46
  */
 @Component

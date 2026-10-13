@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 管理端,流量统计接口
  *
- * @author Chopper
  * @since 2021/2/9 11:19
  */
 @Tag(name = "管理端,流量统计接口")

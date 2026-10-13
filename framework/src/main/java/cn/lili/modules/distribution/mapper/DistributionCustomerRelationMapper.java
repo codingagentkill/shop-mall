@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 分销客户当前关系数据处理层
  *
- * @author pikachu
  */
 public interface DistributionCustomerRelationMapper extends BaseMapper<DistributionCustomerRelation> {
 

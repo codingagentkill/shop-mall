@@ -18,7 +18,6 @@ import jakarta.validation.Valid;
 /**
  * 买家端,意见反馈接口
  *
- * @author Bulbasaur
  * @since 2020-05-5 15:10:16
  */
 @RestController

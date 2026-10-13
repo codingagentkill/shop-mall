@@ -3,7 +3,6 @@ package cn.lili.modules.procurement.entity.enums;
 /**
  * 采购单状态枚举
  * 定义采购单在提交、入库、完成等生命周期阶段
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public enum ProcurementStatusEnum {

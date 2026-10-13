@@ -7,7 +7,6 @@ import java.io.IOException;
 /**
  * ImageUtil
  *
- * @author Chopper
  * @version v1.0
  * 2020-11-17 14:50
  */

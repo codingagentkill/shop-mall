@@ -41,7 +41,6 @@ import java.util.regex.Pattern;
 /**
  * 联合登陆工具类
  *
- * @author Chopper
  * @version v1.0
  * 2020-11-25 21:16
  */

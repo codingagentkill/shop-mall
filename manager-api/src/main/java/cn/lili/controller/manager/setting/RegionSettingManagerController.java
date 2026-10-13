@@ -17,7 +17,6 @@ import java.util.List;
 /**
  * 管理端,行政地区管理接口
  *
- * @author Chopper
  * @since 2020/12/2 10:40
  */
 @RestController

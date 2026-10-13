@@ -23,7 +23,6 @@ import java.util.Objects;
 /**
  * 店铺端,直播间接口
  *
- * @author Bulbasaur
  * @since 2021/5/17 2:05 下午
  */
 @RestController

@@ -29,7 +29,6 @@ import org.springframework.stereotype.Service;
 /**
  * 砍价活动日志业务层实现
  *
- * @author qiuqiu
  * @date 2021/7/1
  */
 @Service

@@ -11,7 +11,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * 双形态解析器：parseAll 保真，parseIndexed 过滤/trim/去重/长度守卫。
  *
- * @author Mike
  * @date 2026-09-03
  */
 class GoodsSearchParamParserTest {

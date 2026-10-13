@@ -13,7 +13,6 @@ import java.util.Date;
 /**
  * 预约结算辅助参数
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 @Data

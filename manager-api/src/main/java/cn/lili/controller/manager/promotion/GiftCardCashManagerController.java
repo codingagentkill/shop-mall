@@ -30,7 +30,6 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 管理端现金礼品卡接口（活动、制卡、发卡、凭证查询与导出）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @RestController

@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * 商品规格业务层实现
  *
- * @author pikachu
  * @since 2020-02-18 16:18:56
  */
 @Service

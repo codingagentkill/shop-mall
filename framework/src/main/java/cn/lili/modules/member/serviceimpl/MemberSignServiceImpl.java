@@ -36,7 +36,6 @@ import java.util.List;
 /**
  * 客户签到业务层实现
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 @Service

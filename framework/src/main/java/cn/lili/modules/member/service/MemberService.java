@@ -22,7 +22,6 @@ import java.util.Map;
 /**
  * 客户业务层
  *
- * @author Bulbasaur
  * @since 2020-02-25 14:10:16
  */
 public interface MemberService extends IService<Member> {

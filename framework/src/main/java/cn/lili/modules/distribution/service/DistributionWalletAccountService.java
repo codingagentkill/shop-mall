@@ -9,7 +9,6 @@ import java.math.BigDecimal;
  * 所有操作均支持幂等键防重复。
  * </p>
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionWalletAccountService {

@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 订单详情VO
  *
- * @author Chopper
  * @since 2020/11/17 7:29 下午
  */
 @Data

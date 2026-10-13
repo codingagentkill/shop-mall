@@ -41,7 +41,6 @@ import java.util.*;
 /**
  * 店铺详细业务层实现
  *
- * @author pikachu
  * @since 2020-03-07 16:18:56
  */
 @Service

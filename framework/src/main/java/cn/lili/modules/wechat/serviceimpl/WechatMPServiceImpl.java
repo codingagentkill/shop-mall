@@ -42,7 +42,6 @@ import java.util.Map;
 /**
  * 微信小程序 业务实现
  *
- * @author Bulbasaur
  */
 @Service
 @Slf4j

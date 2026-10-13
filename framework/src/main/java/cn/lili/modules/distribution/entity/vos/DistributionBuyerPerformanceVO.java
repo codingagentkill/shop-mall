@@ -8,7 +8,6 @@ import java.math.BigDecimal;
 /**
  * 买家端业绩统计
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

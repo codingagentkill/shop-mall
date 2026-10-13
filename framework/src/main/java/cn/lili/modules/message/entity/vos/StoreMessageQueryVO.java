@@ -8,7 +8,6 @@ import lombok.Data;
 /**
  * 店铺消息查询
  *
- * @author Chopper
  * @since 2020/12/2 17:50
  */
 @Data

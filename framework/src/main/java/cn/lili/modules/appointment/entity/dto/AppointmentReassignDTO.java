@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 预约改派服务人员参数
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

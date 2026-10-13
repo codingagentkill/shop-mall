@@ -44,7 +44,6 @@ import static org.mockito.Mockito.when;
 /**
  * 部分取卡失败时整单失败，触发 voidOnSystemFailure，无部分交付。
  *
- * @author Mike
  * @date 2026-07-31
  */
 class CardKeyServiceImplAllocateByOrderTest {

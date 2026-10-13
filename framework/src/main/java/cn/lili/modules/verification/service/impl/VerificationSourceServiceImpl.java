@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 验证码资源维护 业务层实现
  *
- * @author Chopper
  * @since 2020/11/17 3:48 下午
  */
 @Service

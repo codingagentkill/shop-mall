@@ -15,7 +15,6 @@ import java.util.Map;
  * 当前 MySQL 搜索未实现：nameIds、currentGoodsId、promotionType、promotionsId。
  * pageSize 上限为 100，超出被静默压到 100。
  *
- * @author paulG
  * @since 2020/10/15
  **/
 @Data

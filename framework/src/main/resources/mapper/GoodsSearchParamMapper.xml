@@ -3,7 +3,6 @@
 <mapper namespace="cn.lili.modules.goods.mapper.GoodsSearchParamMapper">
 
     <!--
-      @author Mike
       @date 2026-09-03
       参数筛选项聚合：
       - 内层先用与列表相同的 WHERE 得到候选 goods_id（IN 子查询）

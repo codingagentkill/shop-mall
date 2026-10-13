@@ -39,7 +39,6 @@ import static org.mockito.Mockito.verify;
 /**
  * 作废 UNUSED 卡密并同步库存。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class CardKeyServiceImplVoidCardTest {

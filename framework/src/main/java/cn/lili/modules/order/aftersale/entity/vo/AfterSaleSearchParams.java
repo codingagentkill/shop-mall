@@ -15,7 +15,6 @@ import java.util.Date;
 /**
  * 售后搜索参数
  *
- * @author paulG
  * @since 2020/12/4
  **/
 @EqualsAndHashCode(callSuper = true)

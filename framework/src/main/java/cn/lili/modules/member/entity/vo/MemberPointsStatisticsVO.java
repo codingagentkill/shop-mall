@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 客户积分统计VO
  *
- * @author Chopper
  * @since 2021/2/25 9:52 上午
  */
 @Data

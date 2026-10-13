@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * IM设置
  *
- * @author Bulbasaur
  * @since 2021/5/16 11:10 下午
  */
 @Data

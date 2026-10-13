@@ -3,7 +3,6 @@ package cn.lili.modules.payment.kit.plugin.wechat.enums;
 /**
  * 微信支付域名
  *
- * @author Chopper
  * @since 2020/12/17 17:44
  */
 public enum WechatDomain {

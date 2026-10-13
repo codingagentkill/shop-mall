@@ -15,7 +15,6 @@ import java.io.Serializable;
 /**
  * AuthUser
  *
- * @author Chopper
  * @version v1.0
  * 2020-12-07 14:18
  */

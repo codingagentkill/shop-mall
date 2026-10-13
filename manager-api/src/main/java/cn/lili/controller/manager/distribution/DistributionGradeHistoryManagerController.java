@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端，分销等级变更历史接口
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 @RestController

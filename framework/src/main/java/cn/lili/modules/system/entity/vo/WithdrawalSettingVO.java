@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 用户提现设置VO
  *
- * @author Bulbasaur
  * @since 2023/3/1
  */
 @Data

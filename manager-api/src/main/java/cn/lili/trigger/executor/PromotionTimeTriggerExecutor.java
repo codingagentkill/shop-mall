@@ -14,7 +14,6 @@ import org.springframework.stereotype.Component;
 /**
  * 促销事件触发
  *
- * @author Chopper
  * @version v4.1
  * @since 2020/11/17 7:20 下午
  */

@@ -21,7 +21,6 @@ import java.util.List;
 
 /**
  * 自定义分词业务层实现
- * @author paulG
  * @since 2020/10/15
  **/
 @Service

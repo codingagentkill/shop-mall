@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
 /**
  * 站内信通知
  *
- * @author paulG
  * @since 2020/12/9
  */
 @Component

@@ -22,7 +22,6 @@ import java.util.List;
 /**
  * 华为obs 文件操作
  *
- * @author Bulbasaur
  */
 
 @Slf4j

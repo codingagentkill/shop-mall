@@ -10,7 +10,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @author paulG
  * @since 2023/2/6
  **/
 @Data

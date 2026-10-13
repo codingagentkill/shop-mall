@@ -7,7 +7,6 @@ import lombok.Data;
 /**
  * 楼层装修数据VO
  *
- * @author Bulbasaur
  * @since 2020/12/10 17:42
  */
 @Data

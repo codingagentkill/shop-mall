@@ -9,7 +9,6 @@
  *
  * <p>Model 公用方法</p>
  *
- * @author Javen
  */
 package cn.lili.modules.payment.kit.plugin.unionpay.model;
 

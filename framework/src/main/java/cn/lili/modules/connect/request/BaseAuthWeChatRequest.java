@@ -21,7 +21,6 @@ import com.alibaba.fastjson2.JSONObject;
 /**
  * 微信开放平台登录
  *
- * @author yangkai.shen (https://xkcoding.com)
  * @since 1.1.0
  */
 public class BaseAuthWeChatRequest extends BaseAuthRequest {

@@ -7,7 +7,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 商品参数倒排（搜索用）
  *
- * @author Mike
  * @date 2026-09-03
  */
 public interface GoodsSearchParamService extends IService<GoodsSearchParam> {

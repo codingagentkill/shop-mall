@@ -10,7 +10,6 @@ import java.math.BigDecimal;
 /**
  * 礼品卡使用记录展示对象（含会员、活动、余额等扩展字段）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

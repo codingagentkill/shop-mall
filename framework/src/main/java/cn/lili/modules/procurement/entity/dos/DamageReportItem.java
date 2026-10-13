@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 @TableName("li_damage_report_item")
 /**
  * 报损单明细实体，记录商品的报损数量与金额
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public class DamageReportItem extends BaseEntity {

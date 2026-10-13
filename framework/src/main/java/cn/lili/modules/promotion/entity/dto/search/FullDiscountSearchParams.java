@@ -11,7 +11,6 @@ import java.io.Serializable;
 /**
  * 满优惠查询通用类
  *
- * @author paulG
  * @since 2020/8/21
  **/
 @EqualsAndHashCode(callSuper = true)

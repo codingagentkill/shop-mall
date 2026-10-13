@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 搜索热词历史记录数据处理层
  *
- * @author paulG
  * @since 2020/10/15
  **/
 public interface HotWordsHistoryMapper extends BaseMapper<HotWordsHistory> {

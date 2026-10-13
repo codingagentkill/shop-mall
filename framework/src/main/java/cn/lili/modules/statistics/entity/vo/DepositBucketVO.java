@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 储值分析区间分布数据
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Data

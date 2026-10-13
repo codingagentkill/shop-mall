@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 分销商品海报上下文
  *
- * @author Bulbasaur
  * @since 2026-08-05
  */
 @Data

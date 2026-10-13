@@ -9,7 +9,6 @@ import java.io.Serializable;
 /**
  * 分销配置
  *
- * @author Chopper
  * @since 2020/12/23 18:35
  */
 @Data

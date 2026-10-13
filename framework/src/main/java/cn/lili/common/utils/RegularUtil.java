@@ -6,7 +6,6 @@ import java.util.regex.Pattern;
 /**
  * 用户名验证工具类
  *
- * @author Chopper
  */
 public class RegularUtil {
 

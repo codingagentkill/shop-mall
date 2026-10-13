@@ -12,7 +12,6 @@ import java.math.BigDecimal;
 /**
  * 订单礼品卡使用流水实体类（记录抵扣、退款、取消、激活等余额变动）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

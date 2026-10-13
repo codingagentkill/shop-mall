@@ -14,7 +14,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 客户地址
  *
- * @author Chopper
  * @since 2020-02-25 14:10:16
  */
 @Data

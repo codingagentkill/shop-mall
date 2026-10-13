@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 文章VO
  *
- * @author Chopper
  * @since 2021-03-26 11:32
  */
 @Data

@@ -13,7 +13,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 楼层装修设置数据处理层
  *
- * @author paulGao
  * @since 2020/12/7 11:26
  */
 public interface PageDataMapper extends BaseMapper<PageData> {

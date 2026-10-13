@@ -9,7 +9,6 @@ import lombok.Data;
 /**
  * 砍价活动参与实体类
  *
- * @author qiuqiu
  * @date 2020-7-1 10:44 上午
  */
 @Data

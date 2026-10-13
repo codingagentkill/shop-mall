@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 客户分布VO
  *
- * @author Chopper
  * @since 2021-02-26 17:25
  */
 @Data

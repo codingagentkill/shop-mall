@@ -40,7 +40,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author Chopper
  */
 @Slf4j
 public class StoreAuthenticationFilter extends BasicAuthenticationFilter {

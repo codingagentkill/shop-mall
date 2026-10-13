@@ -32,7 +32,6 @@ import static org.mockito.Mockito.when;
 /**
  * 满赠 E_COUPON 赠品子单创建与落库归一化。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class FullDiscountExecuteGiftOrderTest {
@@ -122,7 +121,7 @@ class FullDiscountExecuteGiftOrderTest {
         order.setClientType("H5");
         order.setDeliveryMethod(DeliveryMethodEnum.LOGISTICS.name());
         order.setConsigneeName("张三");
-        order.setConsigneeMobile("13800000000");
+        order.setConsigneeMobile("");
         order.setConsigneeDetail("测试地址");
         order.setFreightPrice(10D);
         return order;

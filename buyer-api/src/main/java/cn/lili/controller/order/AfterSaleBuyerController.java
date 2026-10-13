@@ -30,7 +30,6 @@ import java.util.List;
 /**
  * 买家端,售后管理接口
  *
- * @author Chopper
  * @since 2020/11/16 10:02 下午
  */
 @RestController

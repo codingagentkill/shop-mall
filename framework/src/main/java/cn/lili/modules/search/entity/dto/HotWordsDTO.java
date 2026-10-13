@@ -7,7 +7,6 @@ import jakarta.validation.constraints.*;
 /**
  * 搜索热词
  *
- * @author Chopper
  * @version v1.0
  * 2021-07-26 15:46
  */

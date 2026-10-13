@@ -6,7 +6,6 @@ import cn.lili.modules.order.cart.entity.enums.RenderStepEnums;
 /**
  * 购物车渲染
  *
- * @author Chopper
  * @since 2020-04-01 10:27 上午
  */
 public interface CartRenderStep {

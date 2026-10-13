@@ -20,7 +20,6 @@ import static org.mockito.Mockito.verify;
 /**
  * syncByGoodsId：先 DELETE 再 INSERT；解析为空时只 DELETE。
  *
- * @author Mike
  * @date 2026-09-03
  */
 class GoodsSearchParamSyncTest {

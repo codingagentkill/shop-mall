@@ -43,7 +43,6 @@ import java.util.Map;
 /**
  * 快递100插件
  *
- * @author Bulbasaur
  */
 @Slf4j
 public class Kuaidi100Plugin implements LogisticsPlugin {

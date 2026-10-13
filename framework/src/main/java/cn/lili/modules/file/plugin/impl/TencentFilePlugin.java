@@ -25,7 +25,6 @@ import java.util.List;
 /**
  * 腾讯cos 文件操作
  *
- * @author Bulbasaur
  */
 
 @Slf4j

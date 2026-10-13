@@ -3,7 +3,6 @@ package cn.lili.modules.order.order.entity.enums;
 /**
  * 退款状态枚举
  *
- * @author Lele
  * @since 2024-1-5 10:59:22
  */
 public enum RefundStatusEnum {

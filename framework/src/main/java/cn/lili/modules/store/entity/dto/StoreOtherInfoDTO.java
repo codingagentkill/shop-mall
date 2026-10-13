@@ -10,7 +10,6 @@ import jakarta.validation.constraints.Size;
 /**
  * 店铺入驻其他信息
  *
- * @author Bulbasaur
  * @since 2020/12/7 16:16
  */
 @Data

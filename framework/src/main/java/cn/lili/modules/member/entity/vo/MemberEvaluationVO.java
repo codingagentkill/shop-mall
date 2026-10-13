@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 客户评价VO
  *
- * @author Bulbasaur
  * @since 2020/11/30 15:00
  */
 @Data

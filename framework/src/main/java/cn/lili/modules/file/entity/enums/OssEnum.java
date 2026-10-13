@@ -3,7 +3,6 @@ package cn.lili.modules.file.entity.enums;
 /**
  * OssEnum
  *
- * @author Chopper
  * @version v1.0
  * 2022-06-06 11:23
  */

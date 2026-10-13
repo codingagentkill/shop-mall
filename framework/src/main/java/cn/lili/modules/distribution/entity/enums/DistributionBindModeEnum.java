@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销客户锁客模式
  *
- * @author pikachu
  */
 public enum DistributionBindModeEnum {
 

@@ -9,7 +9,6 @@ import lombok.*;
 /**
  * 评价查询条件
  *
- * @author Bulbasaur
  * @since 2020/11/30 14:52
  */
 @EqualsAndHashCode(callSuper = true)

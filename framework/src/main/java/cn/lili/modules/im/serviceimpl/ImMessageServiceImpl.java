@@ -26,7 +26,6 @@ import java.util.Objects;
 /**
  * Im消息 业务实现
  *
- * @author Chopper
  */
 @Service
 @Transactional(rollbackFor = Exception.class)

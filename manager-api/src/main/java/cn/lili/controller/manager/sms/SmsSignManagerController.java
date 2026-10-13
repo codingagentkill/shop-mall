@@ -17,7 +17,6 @@ import jakarta.validation.Valid;
 /**
  * 管理端,短信签名接口
  *
- * @author Chopper
  * @since 2021/1/30 4:09 下午
  */
 @RestController

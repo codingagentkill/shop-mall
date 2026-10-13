@@ -15,7 +15,6 @@ import lombok.NoArgsConstructor;
 /**
  * 店员Model
  *
- * @author wget
  * @title: Clerk
  * @projectName lilishop
  * @date 2021/12/28 7:39 下午

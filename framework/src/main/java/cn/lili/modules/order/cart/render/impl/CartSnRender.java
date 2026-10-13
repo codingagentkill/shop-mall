@@ -11,7 +11,6 @@ import org.springframework.stereotype.Service;
 /**
  * sn 生成
  *
- * @author Chopper
  * @since 2020-07-02 14:47
  */
 @Service

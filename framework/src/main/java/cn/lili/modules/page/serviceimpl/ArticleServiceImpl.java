@@ -25,7 +25,6 @@ import java.util.List;
 /**
  * 文章业务层实现
  *
- * @author Chopper
  * @since 2020/11/18 11:40 上午
  */
 @Service

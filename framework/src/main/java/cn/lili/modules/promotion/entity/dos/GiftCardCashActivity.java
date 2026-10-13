@@ -16,7 +16,6 @@ import java.util.Date;
 /**
  * 礼品卡活动实体类（库存与规则；其下可多次制卡、多次发卡/发送）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

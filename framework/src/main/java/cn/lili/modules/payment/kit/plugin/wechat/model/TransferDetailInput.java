@@ -6,7 +6,6 @@ import lombok.experimental.Accessors;
 /**
  * 转账的明细
  *
- * @author Bulbasaur
  */
 @Data
 @Accessors(chain = true)

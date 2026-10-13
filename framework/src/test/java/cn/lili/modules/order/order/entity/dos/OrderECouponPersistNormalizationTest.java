@@ -9,7 +9,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * E_COUPON 订单落库归一化单元测试。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class OrderECouponPersistNormalizationTest {
@@ -21,7 +20,7 @@ class OrderECouponPersistNormalizationTest {
         order.setDeliveryMethod(DeliveryMethodEnum.LOGISTICS.name());
         order.setFreightPrice(12D);
         order.setConsigneeName("张三");
-        order.setConsigneeMobile("13800000000");
+        order.setConsigneeMobile("");
         order.setConsigneeAddressPath("省,市,区");
         order.setConsigneeAddressIdPath("1,2,3");
         order.setConsigneeDetail("详细地址");

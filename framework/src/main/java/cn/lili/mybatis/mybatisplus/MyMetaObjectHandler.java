@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 字段填充审计
  *
- * @author lili
  */
 @Component
 public class MyMetaObjectHandler implements MetaObjectHandler {

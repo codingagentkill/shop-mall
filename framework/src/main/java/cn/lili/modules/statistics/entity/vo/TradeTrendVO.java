@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 交易趋势按日统计数据
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Data

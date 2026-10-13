@@ -57,7 +57,6 @@ import java.util.stream.Collectors;
 /**
  * 分销客户关系服务实现
  *
- * @author pikachu
  */
 @Service
 public class DistributionCustomerRelationServiceImpl

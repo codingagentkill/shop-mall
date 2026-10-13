@@ -7,7 +7,6 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 雪花分布式id获取
  *
- * @author Chopper
  */
 @Slf4j
 public class SnowFlake {

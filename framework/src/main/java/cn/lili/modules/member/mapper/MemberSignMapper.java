@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 客户签到数据处理层
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 public interface MemberSignMapper extends BaseMapper<MemberSign> {

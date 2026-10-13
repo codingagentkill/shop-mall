@@ -3,7 +3,6 @@ package cn.lili.modules.im.entity.enums;
 /**
  * 操作类型枚举
  *
- * @author liushuai
  */
 public enum OperationType {
     /**

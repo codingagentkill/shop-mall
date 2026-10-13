@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
 /**
  * 验证码sdk
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/11/17 15:43
  */

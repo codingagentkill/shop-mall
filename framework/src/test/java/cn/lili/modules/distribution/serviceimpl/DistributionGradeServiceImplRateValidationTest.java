@@ -16,7 +16,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * 分销等级佣金比例按 0～1 小数校验。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class DistributionGradeServiceImplRateValidationTest {

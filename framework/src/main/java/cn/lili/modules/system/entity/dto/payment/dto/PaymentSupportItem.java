@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 支持的支付方式属性
  *
- * @author Chopper
  * @version v1.0
  * 2021-02-27 11:21
  */

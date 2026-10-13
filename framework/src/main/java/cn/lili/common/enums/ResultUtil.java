@@ -6,7 +6,6 @@ import cn.lili.common.vo.ResultMessage;
 /**
  * 返回结果工具类
  *
- * @author lili
  */
 public class ResultUtil<T> {
 

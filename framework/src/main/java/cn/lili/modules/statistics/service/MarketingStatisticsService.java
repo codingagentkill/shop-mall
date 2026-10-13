@@ -6,7 +6,6 @@ import cn.lili.modules.statistics.entity.vo.MarketingOverviewVO;
 /**
  * 营销概况统计业务层
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 public interface MarketingStatisticsService {

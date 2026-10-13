@@ -10,7 +10,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * 全量重建专用执行器：单线程、队列容量 1、拒绝丢弃。
  *
- * @author Mike
  * @date 2026-09-03
  */
 class GoodsSearchParamRebuildConfigTest {

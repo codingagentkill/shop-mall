@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * 分包裹详情VO
  *
- * @author Chopper
  * @since 2020-08-17 20:28
  */
 @Data

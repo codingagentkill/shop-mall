@@ -33,7 +33,6 @@ import static org.mockito.Mockito.verify;
 /**
  * 分销入账提交后事件：监听器吞异常、门面单独开 REQUIRES_NEW。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class DistributionPaymentRewardsListenerTest {

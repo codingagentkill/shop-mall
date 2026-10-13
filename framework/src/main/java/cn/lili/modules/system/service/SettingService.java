@@ -9,7 +9,6 @@ import org.springframework.cache.annotation.Cacheable;
 /**
  * 配置业务层
  *
- * @author Chopper
  * @since 2020/11/17 3:46 下午
  */
 @CacheConfig(cacheNames = "{setting}")

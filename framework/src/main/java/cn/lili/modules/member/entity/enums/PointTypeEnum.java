@@ -3,7 +3,6 @@ package cn.lili.modules.member.entity.enums;
 /**
  * 积分类型枚举
  *
- * @author Chopper
  * @since 2021/3/20 10:44
  */
 

@@ -38,7 +38,6 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * 腾讯云直播工具类
  *
- * @author chc
  * @since 2022/6/2114:46
  */
 @Slf4j

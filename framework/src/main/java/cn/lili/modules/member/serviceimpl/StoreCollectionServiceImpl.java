@@ -26,7 +26,6 @@ import java.util.Optional;
 /**
  * 客户店铺收藏业务层实现
  *
- * @author Chopper
  * @since 2020/11/18 2:52 下午
  */
 @Service

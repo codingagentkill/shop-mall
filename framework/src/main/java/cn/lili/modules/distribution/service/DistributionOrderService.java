@@ -14,7 +14,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 驱动佣金冻结、结算与 V2 二级奖励计算。
  * </p>
  *
- * @author pikachu
  * @since 2020-03-15
  */
 public interface DistributionOrderService extends IService<DistributionOrder> {

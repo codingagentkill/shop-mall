@@ -14,7 +14,6 @@ import lombok.NoArgsConstructor;
 import java.util.Date;
 
 /**
- * @author Chopper
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 分类品牌VO
  *
- * @author pikachu
  * @since 2020-02-26 23:24:13
  */
 @Data

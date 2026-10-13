@@ -21,7 +21,6 @@ import static org.mockito.Mockito.when;
 /**
  * GET /distribution 清退透出脱敏对象，且不写库。
  *
- * @author Mike
  * @date 2026-09-09
  */
 @ExtendWith(MockitoExtension.class)

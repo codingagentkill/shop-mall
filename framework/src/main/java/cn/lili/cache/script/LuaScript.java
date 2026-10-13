@@ -8,7 +8,6 @@ import org.springframework.data.redis.core.script.DefaultRedisScript;
 /**
  * redis 脚本
  *
- * @author Chopper
  * @version v1.0
  * @since
  * 2020-06-16 10:40

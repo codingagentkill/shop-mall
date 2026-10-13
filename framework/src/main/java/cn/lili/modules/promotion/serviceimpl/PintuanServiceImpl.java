@@ -40,7 +40,6 @@ import java.util.List;
 /**
  * 拼团业务层实现
  *
- * @author Chopper
  * @since 2020/8/21
  */
 @Service

@@ -24,7 +24,6 @@ import org.springframework.web.bind.annotation.RestController;
  * 管理端,出入库原因接口
  * 提供按条件分页查询原因
  *
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Tag(name = "管理端,出入库原因接口")

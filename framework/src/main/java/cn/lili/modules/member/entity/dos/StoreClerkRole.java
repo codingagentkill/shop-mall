@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 /**
  * 用户角色
  *
- * @author Chopper
  * @since 2020/11/19 12:18
  */
 @Data

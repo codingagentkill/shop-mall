@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 商品相册业务层
  *
- * @author pikachu
  * 2020-03-13 16:18:56
  */
 public interface GoodsGalleryService extends IService<GoodsGallery> {

@@ -8,7 +8,6 @@ import java.util.List;
 
 /**
  * 短信任务DTO
- * @author Chopper
  * @since 2020/12/8 9:46
  */
 @Data

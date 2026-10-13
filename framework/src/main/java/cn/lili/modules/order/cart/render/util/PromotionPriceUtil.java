@@ -17,7 +17,6 @@ import java.util.concurrent.atomic.AtomicReference;
 /**
  * 促销价格计算业务层实现
  *
- * @author paulG
  * @since 2020/8/21
  **/
 @Slf4j

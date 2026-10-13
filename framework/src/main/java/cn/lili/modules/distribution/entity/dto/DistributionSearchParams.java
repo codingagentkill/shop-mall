@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 分销查询参数
  *
- * @author Chopper
  * @since 2021/3/20 10:13
  */
 @Data

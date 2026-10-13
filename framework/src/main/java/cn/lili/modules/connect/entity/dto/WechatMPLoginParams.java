@@ -5,7 +5,6 @@ import lombok.Data;
 /**
  * WechatMPLoginParams
  *
- * @author Chopper
  * @version v1.0
  * 2021-02-19 16:34
  */

@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 保存分销商品设置
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

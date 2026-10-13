@@ -11,8 +11,6 @@ import java.util.Map;
 /**
  * 物流插件接口
  *
- * @author Bulbasaur
- * @author Bulbasaur
  * @since 2023-02-16
  */
 public interface LogisticsPlugin {

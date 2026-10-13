@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 卡池状态统计
  *
- * @author Mike
  * @date 2026-07-31
  */
 @Data

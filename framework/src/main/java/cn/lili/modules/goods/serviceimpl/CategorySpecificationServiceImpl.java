@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 商品分类规格业务层实现
  *
- * @author pikachu
  * @since 2020-02-23 15:18:56
  */
 @Service

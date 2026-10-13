@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销招募加入条件类型
  *
- * @author pikachu
  */
 public enum RecruitJoinConditionTypeEnum {
 

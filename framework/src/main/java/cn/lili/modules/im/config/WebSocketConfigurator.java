@@ -8,7 +8,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * WebSocketConfigurator
  *
- * @author Chopper
  * @version v1.0
  * 2021-12-31 11:53
  */

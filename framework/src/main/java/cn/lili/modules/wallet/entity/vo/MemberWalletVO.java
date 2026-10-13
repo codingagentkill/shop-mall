@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 /**
  * 客户预存款VO
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 @Data

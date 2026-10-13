@@ -26,7 +26,6 @@ import java.util.UUID;
  * }
  * </pre>
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 public final class AppointmentFormAnswerSupport {

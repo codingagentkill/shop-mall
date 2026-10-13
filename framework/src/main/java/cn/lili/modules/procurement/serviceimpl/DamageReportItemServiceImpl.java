@@ -17,7 +17,6 @@ import java.util.List;
 /**
  * 报损单明细业务实现
  * 提供按报损单ID查询明细
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Service

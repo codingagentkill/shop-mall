@@ -9,7 +9,6 @@ import org.hibernate.validator.constraints.Length;
 /**
  * 管理端新增分销员参数
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

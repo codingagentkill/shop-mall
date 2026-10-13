@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 /**
  * 现金礼品卡过期扫描：将已到期的凭证状态批量更新为 EXPIRED。
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Slf4j

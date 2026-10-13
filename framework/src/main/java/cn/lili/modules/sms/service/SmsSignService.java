@@ -8,7 +8,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 签名申请业务层
  *
- * @author Bulbasaur
  * @since 2021/1/30 3:19 下午
  */
 public interface SmsSignService extends IService<SmsSign> {

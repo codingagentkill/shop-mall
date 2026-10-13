@@ -82,7 +82,6 @@ import java.util.stream.Collectors;
 /**
  * 商品sku业务层实现
  *
- * @author pikachu
  * @since 2020-02-23 15:18:56
  */
 @Service

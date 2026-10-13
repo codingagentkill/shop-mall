@@ -19,7 +19,6 @@ import org.springframework.stereotype.Service;
  * 客户自身业务
  * 客户登录，客户第三方登录
  *
- * @author Chopper
  * @version v1.0
  * 2022-01-11 11:08
  */

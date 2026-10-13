@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,收款日志接口
  *
- * @author Chopper
  * @since 2020/11/17 4:34 下午
  */
 @RestController

@@ -12,7 +12,6 @@ import javax.sql.DataSource;
  * 数据库检验工具
  * 适配 Spring Boot 3.x
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/12/24 19:31
  */

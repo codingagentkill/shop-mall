@@ -13,7 +13,6 @@ import org.springframework.stereotype.Component;
 /**
  * 分销基础设置读取与归一化。
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Component

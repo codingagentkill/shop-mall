@@ -27,7 +27,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 买家端会员礼品卡接口（我的礼品卡、绑定、激活等）
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @RestController

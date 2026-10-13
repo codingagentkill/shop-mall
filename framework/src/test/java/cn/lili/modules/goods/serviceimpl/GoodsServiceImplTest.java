@@ -57,7 +57,6 @@ import static org.mockito.Mockito.when;
 /**
  * params 三态契约与 getGoodsVO 参数保真。
  *
- * @author Mike
  * @date 2026-09-03
  */
 class GoodsServiceImplTest {

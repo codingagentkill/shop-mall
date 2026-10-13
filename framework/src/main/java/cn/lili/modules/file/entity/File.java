@@ -13,7 +13,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 文件系统
  *
- * @author Chopper
  * @since 2020/11/26 15:35
  */
 @Data

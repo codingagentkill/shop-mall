@@ -20,7 +20,6 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 /**
  * 买家端,APP版本
  *
- * @author Bulbasaur
  * @since 2021/5/21 11:15 上午
  */
 @RestController

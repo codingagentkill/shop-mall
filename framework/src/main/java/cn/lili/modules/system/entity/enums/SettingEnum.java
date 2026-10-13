@@ -3,7 +3,6 @@ package cn.lili.modules.system.entity.enums;
 /**
  * 系统设置常量
  *
- * @author Chopper
  * @since 2020/9/11 17:03
  */
 public enum SettingEnum {

@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 /**
  * 优惠券活动触发
  *
- * @author paulG
  * @since 2020/10/9
  **/
 @Data

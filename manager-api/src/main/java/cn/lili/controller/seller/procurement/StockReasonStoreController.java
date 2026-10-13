@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 店铺端出入库原因接口
  * 提供原因的分页列表
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Tag(name = "店铺端,出入库原因接口")

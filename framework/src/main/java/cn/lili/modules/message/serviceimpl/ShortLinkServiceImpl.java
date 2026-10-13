@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 短链接 业务实现
  *
- * @author Chopper
  */
 @Service
 public class ShortLinkServiceImpl extends ServiceImpl<ShortLinkMapper, ShortLink> implements ShortLinkService {

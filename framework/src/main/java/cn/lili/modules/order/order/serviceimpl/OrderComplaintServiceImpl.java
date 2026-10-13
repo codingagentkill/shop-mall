@@ -41,7 +41,6 @@ import java.util.Objects;
 /**
  * 交易投诉业务层实现
  *
- * @author paulG
  * @since 2020/12/5
  **/
 @Service

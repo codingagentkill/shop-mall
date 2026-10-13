@@ -29,7 +29,6 @@ import java.util.stream.Collectors;
 /**
  * 购物车视图
  *
- * @author Chopper
  * @since 2020-03-25 2:30 下午
  */
 @Data

@@ -16,7 +16,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * 验证导入模板表头与 parseImportFile（第 1 行表头、第 2 行起数据）一致。
  *
- * @author Mike
  * @date 2026-07-31
  */
 class CardKeyImportTemplateTest {

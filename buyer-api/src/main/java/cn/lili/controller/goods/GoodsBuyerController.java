@@ -38,7 +38,6 @@ import java.util.Map;
 /**
  * 买家端,商品接口
  *
- * @author Chopper
  * @since 2020/11/16 10:06 下午
  */
 @Slf4j

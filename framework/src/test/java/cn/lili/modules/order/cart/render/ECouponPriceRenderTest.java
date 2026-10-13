@@ -22,7 +22,6 @@ import static org.mockito.Mockito.when;
 /**
  * E_COUPON 专用渲染链须回填 basePrice，避免 flowPrice=0。
  *
- * @author Mike
  * @date 2026-07-31
  */
 class ECouponPriceRenderTest {

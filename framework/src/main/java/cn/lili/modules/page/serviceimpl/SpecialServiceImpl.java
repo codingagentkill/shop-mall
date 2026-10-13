@@ -13,7 +13,6 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 专题活动业务层实现
  *
- * @author Bulbasaur
  * @since 2020/12/7 11:27
  */
 @Service

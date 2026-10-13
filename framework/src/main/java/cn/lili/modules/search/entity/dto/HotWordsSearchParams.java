@@ -17,7 +17,6 @@ import java.util.Date;
 /**
  * 商品查询条件
  *
- * @author pikachu
  * @since 2020-02-24 19:27:20
  */
 @EqualsAndHashCode(callSuper = true)

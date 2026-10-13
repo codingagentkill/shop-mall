@@ -7,7 +7,6 @@ import cn.lili.modules.distribution.entity.vos.DistributionBuyerOrderPageVO;
 /**
  * 分销员推广/邀请订单查询
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionBuyerOrderService {

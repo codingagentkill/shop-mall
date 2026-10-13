@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 分销统计数据处理层
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Mapper

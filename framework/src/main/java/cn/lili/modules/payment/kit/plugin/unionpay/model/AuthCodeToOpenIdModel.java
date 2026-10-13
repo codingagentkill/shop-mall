@@ -9,7 +9,6 @@
  *
  * <p>云闪付-授权码查询 openId</p>
  *
- * @author Javen
  */
 package cn.lili.modules.payment.kit.plugin.unionpay.model;
 

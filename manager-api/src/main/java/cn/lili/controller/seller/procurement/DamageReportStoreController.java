@@ -26,7 +26,6 @@ import java.util.Objects;
 /**
  * 店铺端报损单接口
  * 提供报损单的创建、提交、审核、作废、完成等操作
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @RestController

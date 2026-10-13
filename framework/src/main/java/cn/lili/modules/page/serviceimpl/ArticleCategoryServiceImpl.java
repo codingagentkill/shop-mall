@@ -25,7 +25,6 @@ import java.util.List;
 /**
  * 文章分类业务层实现
  *
- * @author pikachu
  * @since 2020-05-5 15:10:16
  */
 @Service

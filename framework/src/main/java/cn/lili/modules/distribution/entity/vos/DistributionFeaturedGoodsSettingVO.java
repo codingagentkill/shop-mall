@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 分销商品设置详情
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

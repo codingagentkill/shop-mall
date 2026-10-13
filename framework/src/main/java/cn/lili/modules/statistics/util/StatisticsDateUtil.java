@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 统计日期工具
  *
- * @author Chopper
  * @since 2021-01-15 15:30
  */
 public class StatisticsDateUtil {
@@ -137,7 +136,6 @@ public class StatisticsDateUtil {
      *
      * @param currentDates 本期 [start, end]
      * @return 上期 [start, end]
-     * @author Bulbasaur
      * @since 2026/07/20
      */
     public static Date[] getPreviousDateArray(Date[] currentDates) {
@@ -156,7 +154,6 @@ public class StatisticsDateUtil {
      *
      * @param currentDates 本期 [start, end]
      * @return 去年同期 [start, end]
-     * @author Bulbasaur
      * @since 2026/07/20
      */
     public static Date[] getYearOnYearDateArray(Date[] currentDates) {

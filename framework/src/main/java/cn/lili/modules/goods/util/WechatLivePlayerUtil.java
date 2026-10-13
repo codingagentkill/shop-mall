@@ -20,7 +20,6 @@ import java.util.Map;
 /**
  * 微信小程序直播工具类
  *
- * @author Bulbasaur
  * @since 2021/5/17 10:16 上午
  */
 @Slf4j

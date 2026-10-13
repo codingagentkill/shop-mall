@@ -14,7 +14,6 @@ import java.util.List;
 /**
  * 联合登陆接口
  *
- * @author Chopper
  */
 public interface ConnectService extends IService<Connect> {
 

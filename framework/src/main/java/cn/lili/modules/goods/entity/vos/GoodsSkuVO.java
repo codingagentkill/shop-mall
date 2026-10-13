@@ -14,7 +14,6 @@ import java.util.Map;
 /**
  * 商品规格VO
  *
- * @author paulG
  * @since 2020-02-26 23:24:13
  */
 @Data

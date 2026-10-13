@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,分销钱包流水接口
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @RestController

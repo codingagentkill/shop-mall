@@ -12,7 +12,6 @@ import java.util.Date;
 /**
  * 采购单实体
  * 记录采购单的基础信息与状态
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

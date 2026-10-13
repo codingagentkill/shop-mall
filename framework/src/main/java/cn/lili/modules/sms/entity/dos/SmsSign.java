@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 短信签名
  *
- * @author Chopper
  * @since 2021/1/30 4:13 下午
  */
 @Data

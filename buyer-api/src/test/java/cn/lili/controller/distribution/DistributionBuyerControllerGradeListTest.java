@@ -22,7 +22,6 @@ import static org.mockito.Mockito.when;
 /**
  * GET /grades 返回包装 VO：开关与完整等级列表。
  * 
- * @author Mike
  * @date 2026-09-11
  */
 @ExtendWith(MockitoExtension.class)

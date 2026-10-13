@@ -25,7 +25,6 @@ import java.util.List;
 /**
  * 文件管理接口
  *
- * @author Chopper
  * @since 2020/11/26 15:41
  */
 @RestController

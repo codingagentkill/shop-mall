@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 买家端展示佣金按等级比例换算
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Component

@@ -24,7 +24,6 @@ import java.util.*;
 /**
  * 腾讯云短信插件
  *
- * @author Bulbasaur
  * @since 2023-02-16
  */
 @Slf4j

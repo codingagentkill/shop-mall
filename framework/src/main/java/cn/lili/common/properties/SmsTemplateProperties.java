@@ -7,7 +7,6 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 短信模版设置
  *
- * @author Chopper
  */
 @Data
 @Configuration

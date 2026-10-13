@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
  * 预约系统表单模板，对应 {@code li_appointment_system_form}。
  * 发品时把 schema 快照到商品扩展，买家按下单时表单填写。
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

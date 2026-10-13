@@ -17,7 +17,6 @@ import java.util.Date;
  * <p>
  * 可售库存 = 同 SKU 下 status=UNUSED 且 delete_flag=0 的行数；card_secret 库内明文存储。
  *
- * @author Mike
  * @date 2026-07-31
  */
 @Data

@@ -24,7 +24,6 @@ import java.util.List;
 /**
  * 营销概况统计业务层实现
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Service

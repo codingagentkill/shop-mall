@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 直播商品接口
  * 
- * @author chc
  * @since 2022/6/21 14:46
  */
 @Slf4j

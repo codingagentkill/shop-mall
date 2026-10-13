@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 商品收藏业务层
  *
- * @author Chopper
  * @since 2020/11/18 2:25 下午
  */
 public interface GoodsCollectionService extends IService<GoodsCollection> {

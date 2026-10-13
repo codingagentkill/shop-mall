@@ -10,7 +10,6 @@ import java.util.Objects;
 /**
  * 全局统一判定是否可操作某属性
  *
- * @author Chopper
  * @version v1.0
  * 2020-08-20 18:07
  */

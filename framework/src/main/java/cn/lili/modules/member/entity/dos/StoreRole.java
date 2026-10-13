@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 部门
  *
- * @author Chopper
  * @since 2020/11/19 11:57
  */
 @Data

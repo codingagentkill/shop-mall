@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 /**
  * 微信转账信息
  *
- * @author lili
  */
 @Data
 @Schema(description = "微信转账信息")

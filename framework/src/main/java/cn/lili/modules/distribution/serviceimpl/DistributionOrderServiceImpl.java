@@ -21,7 +21,6 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 分销订单接口实现
  *
- * @author pikachu
  * @since 2020-03-14 23:04:56
  */
 @Slf4j

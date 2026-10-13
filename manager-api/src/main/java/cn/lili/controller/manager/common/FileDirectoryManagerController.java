@@ -23,7 +23,6 @@ import java.util.List;
  * <p>
  * 分组按管理员维度隔离：ownerId 为当前管理员 ID，directoryType 为 MANAGER。
  *
- * @author Chopper
  * @since 2020/11/26 15:41
  */
 @RestController

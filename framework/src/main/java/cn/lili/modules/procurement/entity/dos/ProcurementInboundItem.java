@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 采购入库明细实体
  * 记录入库关联的采购子项与本次入库数量
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

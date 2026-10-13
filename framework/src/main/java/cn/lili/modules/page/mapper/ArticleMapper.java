@@ -13,7 +13,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 文章数据处理层
  *
- * @author pikachu
  * @since 2020-05-06 15:18:56
  */
 public interface ArticleMapper extends BaseMapper<Article> {

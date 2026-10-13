@@ -34,7 +34,6 @@ import java.util.concurrent.TimeUnit;
 /**
  * 商品参数倒排：写侧按 goods_id 物理删除后重建；全量重建走专用单线程执行器。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Slf4j

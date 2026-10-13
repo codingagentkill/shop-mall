@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 商品业务层
  *
- * @author pikachu
  * @since 2020-02-23 16:18:56
  */
 public interface GoodsService extends IService<Goods> {

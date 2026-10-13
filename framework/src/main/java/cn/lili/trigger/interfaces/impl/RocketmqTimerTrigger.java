@@ -19,7 +19,6 @@ import org.springframework.stereotype.Component;
 /**
  * 延时任务实现
  *
- * @author paulG
  * @since 2020/11/5
  **/
 @Component

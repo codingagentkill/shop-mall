@@ -3,7 +3,6 @@ package cn.lili.modules.store.entity.enums;
 /**
  * 结算单状态
  *
- * @author Chopper
  * @since 2020/11/17 4:27 下午
  */
 public enum BillStatusEnum {

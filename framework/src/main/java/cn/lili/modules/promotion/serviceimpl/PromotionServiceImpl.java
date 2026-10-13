@@ -21,7 +21,6 @@ import java.util.stream.Collectors;
 /**
  * 促销业务层实现
  *
- * @author Chopper
  * @since 2020/8/21
  */
 @Slf4j

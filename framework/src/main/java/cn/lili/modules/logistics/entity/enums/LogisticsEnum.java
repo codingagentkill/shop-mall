@@ -3,7 +3,6 @@ package cn.lili.modules.logistics.entity.enums;
 /**
  * LogisticsEnum
  *
- * @author Bulbasaur
  * @version v1.0
  * 2022-06-06 11:23
  */

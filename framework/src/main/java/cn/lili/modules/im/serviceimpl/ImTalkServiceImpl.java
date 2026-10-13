@@ -32,7 +32,6 @@ import java.util.stream.Collectors;
 /**
  * 聊天 业务实现
  *
- * @author Chopper
  */
 @Service
 @Transactional(rollbackFor = Exception.class)

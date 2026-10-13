@@ -16,7 +16,6 @@ import java.util.Date;
 /**
  * 退款日志
  *
- * @author Chopper
  * @since 2021/1/28 09:21
  */
 @Data

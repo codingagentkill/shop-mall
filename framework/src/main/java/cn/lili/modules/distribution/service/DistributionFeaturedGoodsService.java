@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 分销主推商品服务
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionFeaturedGoodsService {

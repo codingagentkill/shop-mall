@@ -26,7 +26,6 @@ import java.util.stream.Collectors;
 /**
  * 预约商品发品参数与持久化结构互转
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 public final class AppointmentGoodsPublishSupport {

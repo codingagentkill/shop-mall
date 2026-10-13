@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 管理端,储值分析接口
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Tag(name = "管理端,储值分析接口")

@@ -11,7 +11,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 查询分销员钱包资金变动明细，用于对账与审计。
  * </p>
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionWalletLogService extends IService<DistributionWalletLog> {

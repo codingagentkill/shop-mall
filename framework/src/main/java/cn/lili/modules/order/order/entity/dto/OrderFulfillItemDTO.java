@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 统一发货行项
  *
- * @author Mike
  * @since 2026-08-13
  */
 @Data

@@ -19,7 +19,6 @@ import java.util.*;
 /**
  * HotWordsServiceImpl
  *
- * @author Chopper
  * @version v1.0
  * 2022-04-14 09:35
  */

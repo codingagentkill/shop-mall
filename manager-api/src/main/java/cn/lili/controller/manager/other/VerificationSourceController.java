@@ -21,7 +21,6 @@ import java.util.List;
 /**
  * 管理端,验证码资源维护接口
  *
- * @author Chopper
  * @since 2020/12/7 11:33
  */
 @RestController

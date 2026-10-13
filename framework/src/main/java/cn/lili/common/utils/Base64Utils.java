@@ -6,7 +6,6 @@ import java.nio.charset.StandardCharsets;
 /**
  * Base64编码
  *
- * @author looly
  * @since 3.2.0
  */
 public class Base64Utils {

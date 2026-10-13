@@ -3,7 +3,6 @@ package cn.lili.modules.message.entity.enums;
 /**
  * 消息状态枚举
  *
- * @author pikachu
  * @since 2020/12/8 9:46
  */
 public enum MessageStatusEnum {

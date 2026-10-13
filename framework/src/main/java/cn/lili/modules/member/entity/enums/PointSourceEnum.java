@@ -3,7 +3,6 @@ package cn.lili.modules.member.entity.enums;
 /**
  * 积分发放/变动来源枚举
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 public enum PointSourceEnum {

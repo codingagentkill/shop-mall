@@ -15,7 +15,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 继承 {@link IService}，提供 {@link GoodsGroup} 的通用 CRUD 能力。
  * </p>
  *
- * @author mike
  * @date 2026-03-30
  */
 public interface GoodsGroupService extends IService<GoodsGroup> {

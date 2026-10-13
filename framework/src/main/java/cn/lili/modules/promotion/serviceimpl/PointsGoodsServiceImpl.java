@@ -30,7 +30,6 @@ import java.util.*;
 /**
  * 积分商品业务层实现
  *
- * @author paulG
  * @since 2020/8/21
  **/
 @Service

@@ -9,7 +9,6 @@ import java.io.Serializable;
 /**
  * 秒杀活动设置
  *
- * @author Bulbasaur
  * @since 2021/5/24 3:27 下午
  */
 @Data

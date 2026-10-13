@@ -20,7 +20,6 @@ import java.util.List;
 /**
  * 管理端,服务订阅消息接口
  *
- * @author Chopper
  * @since 2020/11/17 4:33 下午
  */
 @RestController

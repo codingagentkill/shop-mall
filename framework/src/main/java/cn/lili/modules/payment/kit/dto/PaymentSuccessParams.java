@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 /**
  * PaymentSuccessParams
  *
- * @author Chopper
  * @version v1.0
  * 2021-04-27 16:24
  */

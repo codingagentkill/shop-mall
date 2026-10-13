@@ -17,7 +17,6 @@ import java.util.Date;
 /**
  * 预存款日志业务层实现
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 @Service

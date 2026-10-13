@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 砍价业务层
  *
- * @author qiuqiu
  * @date 2021/7/1 9:45 上午
  */
 public interface KanjiaActivityGoodsService extends AbstractPromotionsService<KanjiaActivityGoods> {

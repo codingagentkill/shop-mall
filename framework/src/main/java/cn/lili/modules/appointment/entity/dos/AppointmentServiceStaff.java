@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 /**
  * 预约服务人员，对应 {@code li_appointment_service_staff}
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

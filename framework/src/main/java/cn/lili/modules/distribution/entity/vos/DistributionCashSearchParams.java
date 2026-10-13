@@ -10,7 +10,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 分销提现查询参数
  *
- * @author pikachu
  * @since 2020-03-26 09:04:53
  */
 @Data

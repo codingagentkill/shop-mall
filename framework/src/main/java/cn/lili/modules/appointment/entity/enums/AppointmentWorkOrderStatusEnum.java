@@ -6,7 +6,6 @@ import java.util.List;
 /**
  * 预约工单状态
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 public enum AppointmentWorkOrderStatusEnum {

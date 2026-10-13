@@ -6,7 +6,6 @@ import java.math.RoundingMode;
 /**
  * 分销佣金计算工具
  *
- * @author Bulbasaur
  * @since 2026-08-04
  */
 public final class DistributionCommissionCalculator {

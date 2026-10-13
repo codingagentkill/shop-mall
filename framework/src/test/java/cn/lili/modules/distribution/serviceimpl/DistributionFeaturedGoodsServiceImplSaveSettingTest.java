@@ -36,7 +36,6 @@ import static org.mockito.Mockito.when;
 /**
  * 自定义主推商品保存按 displayCount 硬拦截。
  *
- * @author Mike
  * @date 2026-09-13
  */
 class DistributionFeaturedGoodsServiceImplSaveSettingTest {

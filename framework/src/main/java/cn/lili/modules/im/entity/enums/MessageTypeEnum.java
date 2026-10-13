@@ -3,7 +3,6 @@ package cn.lili.modules.im.entity.enums;
 /**
  * 消息类型
  *
- * @author liushuai
  */
 public enum MessageTypeEnum {
     /**

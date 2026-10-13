@@ -5,7 +5,6 @@ import cn.hutool.core.text.CharSequenceUtil;
 /**
  * 消息编码枚举
  *
- * @author pikachu
  * @since 2020/12/8 9:46
  */
 public enum NoticeMessageNodeEnum {

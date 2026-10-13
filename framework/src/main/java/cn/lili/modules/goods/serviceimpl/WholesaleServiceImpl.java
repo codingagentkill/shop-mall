@@ -20,7 +20,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author paulG
  * @since 2022/5/24
  **/
 @Service

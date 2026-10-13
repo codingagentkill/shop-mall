@@ -10,7 +10,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 记录分销员分享商品及用户通过分享链接访问的行为，用于归因与统计。
  * </p>
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionShareEventService extends IService<DistributionShareEvent> {

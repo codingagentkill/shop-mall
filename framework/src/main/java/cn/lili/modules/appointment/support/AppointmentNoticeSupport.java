@@ -14,7 +14,6 @@ import java.util.Map;
 /**
  * 预约订单站内信通知
  *
- * @author Bulbasaur
  * @since 2026-09-18
  */
 @Slf4j

@@ -29,7 +29,6 @@ import java.util.Map;
 /**
  * 短信网管阿里云实现
  *
- * @author Chopper
  * @version v4.0
  * @since 2020/11/30 15:44
  */

@@ -3,7 +3,6 @@ package cn.lili.modules.order.trade.entity.enums;
 /**
  * 退款方式
  *
- * @author paulG
  * @since 2020/12/4
  **/
 public enum AfterSaleRefundWayEnum {

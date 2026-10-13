@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 文章业务层
  *
- * @author pikachu
  * @since 2020/11/18 11:40 上午
  */
 @CacheConfig(cacheNames = "{article}")

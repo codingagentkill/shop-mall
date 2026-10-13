@@ -9,7 +9,6 @@
  *
  * <p>云闪付-订单查询</p>
  *
- * @author Javen
  */
 package cn.lili.modules.payment.kit.plugin.unionpay.model;
 

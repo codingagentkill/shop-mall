@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 商品分类规格数据处理层
  *
- * @author pikachu
  * @since 2020-02-27 15:18:56
  */
 public interface CategorySpecificationMapper extends BaseMapper<CategorySpecification> {

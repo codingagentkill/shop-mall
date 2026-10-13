@@ -5,7 +5,6 @@ import cn.lili.modules.order.order.entity.dto.OrderMessage;
 /**
  * 订单状态改变事件
  *
- * @author Chopper
  * @since 2020/11/17 7:13 下午
  */
 public interface OrderStatusChangeEvent {

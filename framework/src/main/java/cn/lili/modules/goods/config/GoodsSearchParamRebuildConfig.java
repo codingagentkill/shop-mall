@@ -10,7 +10,6 @@ import java.util.concurrent.ThreadPoolExecutor;
  * 商品参数倒排全量重建专用执行器：单线程、队列容量 1、拒绝丢弃。
  * 锁必须在 worker 线程内获取和释放（Redisson RLock 线程绑定）。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Configuration

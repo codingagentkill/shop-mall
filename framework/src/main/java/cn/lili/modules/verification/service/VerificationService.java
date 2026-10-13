@@ -8,7 +8,6 @@ import java.util.Map;
 /**
  * 验证码模块
  *
- * @author Bulbasaur
  * @since 2021/7/9 1:42 上午
  */
 public interface VerificationService {

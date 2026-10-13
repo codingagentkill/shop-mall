@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * Im消息 业务层
  *
- * @author Chopper
  */
 public interface ImMessageService extends IService<ImMessage> {
 

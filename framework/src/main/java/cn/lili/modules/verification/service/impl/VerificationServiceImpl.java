@@ -29,7 +29,6 @@ import java.util.Random;
 /**
  * 认证处理类
  *
- * @author Chopper
  * @version v1.0
  * 2020-11-17 14:59
  */

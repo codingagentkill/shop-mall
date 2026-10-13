@@ -19,7 +19,6 @@ import jakarta.validation.Valid;
 /**
  * 管理端,文章接口
  *
- * @author pikachu
  * @since 2020-05-06 15:18:56
  */
 @RestController

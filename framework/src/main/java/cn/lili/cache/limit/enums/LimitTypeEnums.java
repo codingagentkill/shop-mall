@@ -4,7 +4,6 @@ package cn.lili.cache.limit.enums;
 /**
  * redis 限流类型
  *
- * @author Chopper
  * @since 2018年2月02日 下午4:58:52
  */
 

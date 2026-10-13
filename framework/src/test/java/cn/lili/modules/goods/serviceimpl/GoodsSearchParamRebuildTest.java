@@ -46,7 +46,6 @@ import static org.mockito.Mockito.when;
 /**
  * 全量重建：controller 只提交；锁在 worker 内 tryLock；进度写入 Redis 并重置 TTL。
  *
- * @author Mike
  * @date 2026-09-03
  */
 class GoodsSearchParamRebuildTest {

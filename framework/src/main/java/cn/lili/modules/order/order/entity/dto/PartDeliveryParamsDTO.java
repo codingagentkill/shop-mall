@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 部分发货参数封装
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @Description:
  * @since 2022/10/29 17:52

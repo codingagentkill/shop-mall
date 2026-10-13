@@ -15,7 +15,6 @@ import jakarta.servlet.http.HttpServletRequest;
 /**
  * 买家端,退款回调
  *
- * @author Chopper
  * @since 2020-12-18 16:59
  */
 @Tag(name = "买家端,退款回调")

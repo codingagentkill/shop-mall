@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 分销商品分享行为记录DTO
  *
- * @author pikachu
  */
 @Data
 public class DistributionShareEventDTO {

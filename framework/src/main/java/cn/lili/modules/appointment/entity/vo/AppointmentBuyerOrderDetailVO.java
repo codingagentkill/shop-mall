@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * 买家预约订单详情
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

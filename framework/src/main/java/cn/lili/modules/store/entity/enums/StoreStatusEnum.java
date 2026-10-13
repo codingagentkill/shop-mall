@@ -3,7 +3,6 @@ package cn.lili.modules.store.entity.enums;
 /**
  * 店铺状态枚举
  *
- * @author pikachu
  * @since 2020年3月07日 上午11:04:25
  */
 public enum StoreStatusEnum {

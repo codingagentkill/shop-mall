@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 管理端,客户消息接口
  *
- * @author Chopper
  * @since 2020-02-25 14:10:16
  */
 @RestController

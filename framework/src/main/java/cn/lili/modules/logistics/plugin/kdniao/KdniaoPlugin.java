@@ -34,7 +34,6 @@ import java.util.Map;
 /**
  * 快递鸟插件
  *
- * @author Bulbasaur
  */
 @Slf4j
 public class KdniaoPlugin implements LogisticsPlugin {

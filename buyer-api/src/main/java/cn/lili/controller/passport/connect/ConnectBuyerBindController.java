@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 买家端,第三方账户绑定
  *
- * @author Chopper
  * @since 2020-11-25 19:29
  */
 @RestController

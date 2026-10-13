@@ -27,7 +27,6 @@ import com.alipay.api.response.AlipayUserInfoShareResponse;
 /**
  * 支付宝登录
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @since 1.0.1
  */
 public class BaseAuthAlipayRequest extends BaseAuthRequest {

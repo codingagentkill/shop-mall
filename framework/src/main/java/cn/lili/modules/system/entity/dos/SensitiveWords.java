@@ -11,7 +11,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 敏感词实体
  *
- * @author Bulbasaur
  * 2020-02-25 14:10:16
  */
 @Data

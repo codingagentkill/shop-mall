@@ -2,7 +2,6 @@ package cn.lili.modules.procurement.entity.enums;
 
 /**
  * 报损单状态枚举，定义报损单生命周期各阶段
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public enum DamageReportStatusEnum {

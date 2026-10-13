@@ -56,7 +56,6 @@ import java.util.*;
 /**
  * 联合登陆接口实现
  *
- * @author Chopper
  */
 @Slf4j
 @Service

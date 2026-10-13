@@ -12,7 +12,6 @@ import java.io.Serializable;
  * IM 用户信息（跨用户展示场景）
  * 只暴露昵称/头像等公开字段，避免泄露手机号、密码散列、钱包等敏感信息
  *
- * @author Bulbasaur
  */
 @Data
 @NoArgsConstructor

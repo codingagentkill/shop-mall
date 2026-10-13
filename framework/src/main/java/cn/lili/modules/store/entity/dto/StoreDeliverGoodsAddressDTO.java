@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 店铺发货地址
  *
- * @author chc
  * @since 2022-4-12 10:14:05
  */
 @Data

@@ -9,7 +9,6 @@ import java.sql.SQLException;
 /**
  * 单例 MariaDB 10.11，对齐 all-in-one 内置库，只用于 004 补丁可执行性。
  *
- * @author Mike
  * @date 2026-09-03
  */
 final class MariaDbITSupport {

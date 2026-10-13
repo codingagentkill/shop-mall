@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 分销员列表VO
  *
- * @author pikachu
  */
 @Data
 public class DistributionMemberVO {

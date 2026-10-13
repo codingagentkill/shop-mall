@@ -23,7 +23,6 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author paulG
  * @since 2020/10/22
  **/
 @ExtendWith(SpringExtension.class)

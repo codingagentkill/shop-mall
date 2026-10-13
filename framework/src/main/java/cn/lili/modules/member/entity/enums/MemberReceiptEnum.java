@@ -3,7 +3,6 @@ package cn.lili.modules.member.entity.enums;
 /**
  * 发票类型
  *
- * @author Chopper
  * @since 2021-03-29 14:10:16
  */
 public enum MemberReceiptEnum {

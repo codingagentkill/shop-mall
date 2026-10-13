@@ -10,7 +10,6 @@ import java.util.Objects;
 /**
  * 流量数据展示VO
  *
- * @author Chopper
  * @since 2020-06-19 17:50
  */
 @Data

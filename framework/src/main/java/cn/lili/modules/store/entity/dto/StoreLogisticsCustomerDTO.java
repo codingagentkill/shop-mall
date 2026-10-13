@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 商家使用电子面单客户号DTO
  *
- * @author chc
  * @since 2022-4-13 10:00:58
  */
 @Data

@@ -37,7 +37,6 @@ import java.util.stream.Collectors;
 /**
  * 分销统计V2服务实现
  *
- * @author pikachu
  */
 @Service
 public class DistributionStatisticsV2ServiceImpl implements DistributionStatisticsV2Service {

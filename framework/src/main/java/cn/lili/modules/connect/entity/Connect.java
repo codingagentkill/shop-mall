@@ -16,7 +16,6 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 /**
- * @author Chopper
  */
 @Data
 @TableName("li_connect")

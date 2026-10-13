@@ -3,7 +3,6 @@ package cn.lili.modules.payment.kit.core.enums;
 /**
  * HTTP 请求的方法
  *
- * @author Chopper
  * @since 2021-01-25 15:10
  */
 public enum RequestMethodEnums {

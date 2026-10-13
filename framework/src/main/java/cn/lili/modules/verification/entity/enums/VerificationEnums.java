@@ -3,7 +3,6 @@ package cn.lili.modules.verification.entity.enums;
 /**
  * VerificationEnums
  *
- * @author Chopper
  * @version v1.0
  * 2020-12-22 19:11
  */

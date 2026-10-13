@@ -17,7 +17,6 @@ import static org.mockito.Mockito.when;
 /**
  * 线上招募通道：入口关闭时仅有效邀请人可放行，与总闸 22000 分开。
  * 
- * @author Mike
  * @date 2026-09-13
  */
 class DistributionRecruitServiceImplChannelTest {

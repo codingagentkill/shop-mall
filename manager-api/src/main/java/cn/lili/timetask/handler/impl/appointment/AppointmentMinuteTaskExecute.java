@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 /**
  * 预约订单每分钟定时任务：逾期未核销自动完结、服务开始前提醒
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Slf4j

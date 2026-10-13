@@ -10,7 +10,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 直播间业务层
  *
- * @author Bulbasaur
  * @since 2021/5/17 10:02 上午
  */
 public interface StudioService extends IService<Studio> {

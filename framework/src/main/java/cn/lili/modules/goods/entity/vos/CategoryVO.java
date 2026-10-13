@@ -17,7 +17,6 @@ import java.util.List;
 /**
  * 分类VO
  *
- * @author paulG
  * @since 2020/12/1
  **/
 @Data

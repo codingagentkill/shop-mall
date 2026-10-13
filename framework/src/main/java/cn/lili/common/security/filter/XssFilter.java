@@ -14,7 +14,6 @@ import java.io.IOException;
 /**
  * 防止XSS攻击过滤器
  *
- * @author Chopper
  * @version v1.0
  * 2021-06-04 10:37
  */

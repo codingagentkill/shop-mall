@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,退款日志接口
  *
- * @author Chopper
  * @since 2020/11/16 10:07 下午
  */
 @RestController

@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * RoleVO
  *
- * @author Chopper
  * @since 2020-11-22 17:42
  */
 @Data

@@ -9,7 +9,6 @@ import jakarta.servlet.http.HttpServletResponse;
 /**
  * 盘点单明细业务接口
  * 提供按盘点单分页查询明细与导出
- * @author Bulbasaur
  * @since 2025-12-18
  */
 public interface InventoryCountItemService extends IService<InventoryCountItem> {

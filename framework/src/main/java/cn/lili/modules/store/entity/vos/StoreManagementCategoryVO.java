@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 
 /**
  * 店铺经营范围
- * @author Bulbasaur
  * @since 2020/12/11 16:18
  */
 @Data

@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端,营销概况接口
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Tag(name = "管理端,营销概况接口")

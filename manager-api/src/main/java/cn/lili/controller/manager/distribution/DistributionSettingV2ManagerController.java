@@ -30,7 +30,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 管理端,分销V2设置接口
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @RestController

@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * 管理端,商品参数管理接口
  *
- * @author Bulbasaur
  * @since 2020/11/26 16:15
  */
 @RestController

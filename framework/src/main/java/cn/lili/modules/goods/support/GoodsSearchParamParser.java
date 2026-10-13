@@ -20,7 +20,6 @@ import java.util.Map;
  * {@link #parseIndexed} 再叠加索引过滤与长度守卫，供搜索与倒排写入。
  * 卖家保存时若误用 {@code parseIndexed}，非索引参数会被静默丢掉。
  *
- * @author Mike
  * @date 2026-09-03
  */
 @Slf4j

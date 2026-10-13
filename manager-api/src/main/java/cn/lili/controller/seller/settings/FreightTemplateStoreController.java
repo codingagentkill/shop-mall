@@ -19,7 +19,6 @@ import java.util.Objects;
 /**
  * 店铺端,运费模板接口
  *
- * @author paulG
  * @since 2020/8/26
  **/
 @RestController

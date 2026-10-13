@@ -11,7 +11,6 @@ import org.apache.ibatis.annotations.Select;
 /**
  * 店铺接收到消息发送数据处理层
  *
- * @author Chopper
  * @since 2021/1/30 4:17 下午
  */
 public interface StoreMessageMapper extends BaseMapper<StoreMessage> {

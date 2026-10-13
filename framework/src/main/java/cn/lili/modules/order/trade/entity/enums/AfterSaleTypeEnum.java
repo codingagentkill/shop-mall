@@ -3,7 +3,6 @@ package cn.lili.modules.order.trade.entity.enums;
 /**
  * 售后类型
  *
- * @author Chopper
  * @since 2020/8/20 15:39
  */
 

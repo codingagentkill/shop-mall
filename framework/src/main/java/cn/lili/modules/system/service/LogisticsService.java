@@ -12,7 +12,6 @@ import java.util.Map;
 /**
  * 物流公司业务层
  *
- * @author Chopper
  * @since 2020/11/17 8:02 下午
  */
 public interface LogisticsService extends IService<Logistics> {

@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 出入库原因实体
  * 用于记录店铺的自定义出入库原因
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

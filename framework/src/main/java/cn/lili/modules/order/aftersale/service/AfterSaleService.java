@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 售后业务层
  *
- * @author Chopper
  * @since 2020/11/17 7:36 下午
  */
 public interface AfterSaleService extends IService<AfterSale> {

@@ -30,7 +30,6 @@ import jakarta.validation.constraints.NotNull;
 /**
  * 管理端,分销员管理接口
  *
- * @author pikachu
  * @since 2020-03-14 23:04:56
  */
 @RestController

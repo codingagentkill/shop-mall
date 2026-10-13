@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 /**
  * 分类参数组关联
  *
- * @author pikachu
  * @since 2020-02-26 10:34:02
  */
 @Data

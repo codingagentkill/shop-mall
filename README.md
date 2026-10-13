@@ -69,7 +69,7 @@ LILISHOP 是基于 Spring Boot / Spring Cloud / Vue / Uniapp 开发的 Java 开�
     -   账号: `admin`
     -   密码: `123456`
 -   **店铺管理端**: <https://store-b2b2c.pickmall.cn>
-    -   账号: `13011111111`
+    -   账号: `demo`
     -   密码: `111111`
 -   **商城PC端**: <https://pc-b2b2c.pickmall.cn>
 -   **微信小程序**:

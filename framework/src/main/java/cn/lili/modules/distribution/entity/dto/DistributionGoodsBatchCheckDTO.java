@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 批量添加分销商品参数
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

@@ -9,7 +9,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * 招募申请拦截：仅拒绝与无记录可申请，清退不可再申请。
  *
- * @author Mike
  * @date 2026-09-09
  */
 class DistributionMemberSupportRecruitApplyTest {

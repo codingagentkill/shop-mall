@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 分销商品信息
  *
- * @author pikachu
  * @since 2020-03-26 09:04:53
  */
 @Data

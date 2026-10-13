@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 商品参数倒排数据处理层
  *
- * @author Mike
  * @date 2026-09-03
  */
 public interface GoodsSearchParamMapper extends BaseMapper<GoodsSearchParam> {

@@ -16,7 +16,6 @@ import java.util.Date;
 /**
  * 客户签到
  *
- * @author pikachu
  * @since 2020-02-25 14:10:16
  */
 @Data

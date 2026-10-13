@@ -14,7 +14,6 @@ import java.util.Date;
 /**
  * 礼品卡活动创建/编辑请求参数
  *
- * @author Bulbasaur
  * @since 2026-05-22
  */
 @Data

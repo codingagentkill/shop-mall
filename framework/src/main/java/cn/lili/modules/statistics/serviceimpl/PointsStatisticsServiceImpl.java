@@ -21,7 +21,6 @@ import java.util.Map;
 /**
  * 积分分析统计业务层实现
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Service

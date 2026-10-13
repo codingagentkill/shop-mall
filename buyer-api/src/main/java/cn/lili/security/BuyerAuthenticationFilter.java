@@ -34,7 +34,6 @@ import java.util.List;
 /**
  * 认证结果过滤器
  *
- * @author Chopper
  * @version v4.1
  * @since 2020/11/17 3:37 下午
  * @since

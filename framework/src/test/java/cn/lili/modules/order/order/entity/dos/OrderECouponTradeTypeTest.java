@@ -21,7 +21,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * E_COUPON 下单落库：orderType 与虚拟发货归一化。
  *
- * @author Mike
  * @date 2026-08-02
  */
 class OrderECouponTradeTypeTest {

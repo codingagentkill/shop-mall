@@ -19,7 +19,6 @@ import org.springframework.stereotype.Component;
 /**
  * 促销活动每日定时器
  *
- * @author Chopper
  * @since 2021/3/18 3:23 下午
  */
 @Slf4j

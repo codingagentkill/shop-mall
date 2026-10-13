@@ -13,7 +13,6 @@ import java.util.List;
  * 分销员表中存储的是等级值（1-5），而非等级主键 ID。
  * </p>
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 public interface DistributionGradeService extends IService<DistributionGrade> {

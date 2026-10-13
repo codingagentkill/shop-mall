@@ -46,7 +46,6 @@ import java.util.Objects;
 /**
  * 砍价活动参与记录业务层实现
  *
- * @author qiuqiu
  * @since 2021/7/1
  */
 @Service

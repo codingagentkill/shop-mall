@@ -16,7 +16,6 @@ import static org.assertj.core.api.Assertions.assertThatCode;
 /**
  * AUTO 模式与申请表单互斥。
  *
- * @author Mike
  * @date 2026-09-18
  */
 class DistributionRecruitSettingSupportAutoModeTest {

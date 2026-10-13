@@ -11,7 +11,6 @@ import java.util.concurrent.TimeUnit;
 /**
  * 招募邀请 pending token 缓存。关闭线上入口时，支付后自动申请需带回邀请身份。
  *
- * @author Mike
  * @date 2026-09-18
  */
 @Component

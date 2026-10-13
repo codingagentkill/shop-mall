@@ -16,7 +16,6 @@ import java.util.Date;
 /**
  * 采购单明细实体
  * 记录采购的SKU、数量、价格与税额等明细项
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

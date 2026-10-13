@@ -15,7 +15,6 @@ import org.springframework.stereotype.Component;
 /**
  * 预约订单履约：支付成功后扣时段库存、生成工单与 N 条核销码，并流转至 TAKE。
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Slf4j

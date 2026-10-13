@@ -7,7 +7,6 @@ import cn.lili.common.security.token.Token;
  * AbstractToken
  * 抽象token，定义生成token类
  *
- * @author Chopper
  * @version v1.0
  * 2020-11-13 10:13
  */

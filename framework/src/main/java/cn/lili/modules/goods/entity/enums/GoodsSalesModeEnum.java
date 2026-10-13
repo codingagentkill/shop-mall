@@ -3,7 +3,6 @@ package cn.lili.modules.goods.entity.enums;
 /**
  * 销售模式
  *
- * @author pikachu
  * @since 2020-02-26 23:24:13
  */
 public enum GoodsSalesModeEnum {

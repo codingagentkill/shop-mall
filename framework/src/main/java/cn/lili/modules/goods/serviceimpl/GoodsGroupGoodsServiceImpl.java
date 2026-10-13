@@ -21,7 +21,6 @@ import java.util.List;
  * 提供对分组与商品关联关系的批量更新能力。
  * </p>
  *
- * @author mike
  * @date 2026-03-30
  */
 @Service

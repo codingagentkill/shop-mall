@@ -4,7 +4,6 @@ package cn.lili.event;
 import cn.lili.modules.store.entity.dos.Store;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 public interface StoreSettingChangeEvent {

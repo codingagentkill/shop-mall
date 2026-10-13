@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 采购单查询参数
  * 支持按单号、状态、时间区间与商品名称过滤
- * @author Bulbasaur
  * @since 2025-12-18
  */
 @Data

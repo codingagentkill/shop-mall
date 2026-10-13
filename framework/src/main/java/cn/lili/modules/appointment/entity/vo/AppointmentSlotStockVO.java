@@ -9,7 +9,6 @@ import java.util.Date;
 /**
  * 预约时段库存
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

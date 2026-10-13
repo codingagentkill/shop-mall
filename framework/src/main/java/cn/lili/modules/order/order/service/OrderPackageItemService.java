@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 子订单业务层
  *
- * @author Chopper
  * @since 2020/11/17 7:36 下午
  */
 public interface OrderPackageItemService extends IService<OrderPackageItem> {

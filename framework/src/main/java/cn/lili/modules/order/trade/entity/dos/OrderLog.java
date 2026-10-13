@@ -20,7 +20,6 @@ import java.util.Date;
 /**
  * 订单日志
  *
- * @author Chopper
  * @since 2020-03-25 2:30 下午
  */
 @Data

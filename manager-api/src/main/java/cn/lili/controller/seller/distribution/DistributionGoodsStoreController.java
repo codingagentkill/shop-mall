@@ -24,7 +24,6 @@ import java.util.Objects;
 /**
  * 店铺端,分销商品接口
  *
- * @author Bulbasaur
  * @since 2020/11/16 10:06 下午
  */
 @RestController

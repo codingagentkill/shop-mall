@@ -5,7 +5,6 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * 通用工具
- * @author Chopper
  */
 public class CommonUtil {
 

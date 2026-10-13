@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 优惠券活动实体类
  *
- * @author Bulbasaur
  * @since 2020-03-19 10:44 上午
  */
 @EqualsAndHashCode(callSuper = true)

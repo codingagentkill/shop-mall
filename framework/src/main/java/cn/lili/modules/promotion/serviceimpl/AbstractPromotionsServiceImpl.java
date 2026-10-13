@@ -35,7 +35,6 @@ import java.util.*;
 import static cn.lili.modules.promotion.tools.PromotionTools.queryPromotionStatus;
 
 /**
- * @author paulG
  * @since 2021/11/30
  **/
 public abstract class AbstractPromotionsServiceImpl<M extends BaseMapper<T>, T extends BasePromotions> extends ServiceImpl<M, T> implements AbstractPromotionsService<T> {

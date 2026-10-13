@@ -14,7 +14,6 @@ import java.util.List;
 /**
  * 敏感词加载
  *
- * @author Chopper
  * @version v1.0
  * 2021-11-23 12:08
  */

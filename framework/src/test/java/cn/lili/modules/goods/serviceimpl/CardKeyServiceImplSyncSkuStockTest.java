@@ -18,7 +18,6 @@ import static org.mockito.Mockito.when;
 /**
  * syncSkuStock 应将卡池 COUNT 写入 SKU quantity（updateStockFromCardKeySync）。
  *
- * @author Mike
  * @date 2026-08-02
  */
 @ExtendWith(MockitoExtension.class)

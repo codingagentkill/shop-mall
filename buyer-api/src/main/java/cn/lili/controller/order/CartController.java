@@ -24,7 +24,6 @@ import jakarta.validation.constraints.NotNull;
 /**
  * 买家端，购物车接口
  *
- * @author Chopper
  * @since 2020/11/16 10:04 下午
  */
 @Slf4j

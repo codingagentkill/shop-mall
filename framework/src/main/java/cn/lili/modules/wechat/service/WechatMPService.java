@@ -1,7 +1,6 @@
 package cn.lili.modules.wechat.service;
 /**
  * 微信小程序 业务层
- * @author Chopper
  */
 public interface WechatMPService {
 

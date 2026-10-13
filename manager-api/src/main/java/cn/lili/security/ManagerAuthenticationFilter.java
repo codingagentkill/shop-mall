@@ -40,7 +40,6 @@ import cn.lili.common.properties.IgnoredUrlsProperties;
 /**
  * 管理端token过滤
  *
- * @author Chopper
  */
 @Slf4j
 public class ManagerAuthenticationFilter extends BasicAuthenticationFilter {

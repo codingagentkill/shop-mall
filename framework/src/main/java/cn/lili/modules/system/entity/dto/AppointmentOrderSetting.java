@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 预约订单平台设置（requirements §14 / §22）
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

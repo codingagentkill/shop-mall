@@ -3,7 +3,6 @@ package cn.lili.modules.wechat.entity.enums;
 /**
  * 微信模版设置变量
  *
- * @author Chopper
  * @version v1.0
  * 2020-12-10 17:47
  */

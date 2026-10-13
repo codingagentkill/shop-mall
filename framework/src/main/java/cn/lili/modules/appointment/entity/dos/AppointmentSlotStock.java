@@ -13,7 +13,6 @@ import java.util.Date;
 /**
  * 预约时段日历库存，对应 {@code li_appointment_slot_stock}
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

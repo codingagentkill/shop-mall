@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * 买家端,物流公司接口
  *
- * @author Bulbasaur
  * @since 2020-05-5 15:10:16
  */
 @RestController

@@ -20,7 +20,6 @@ import org.springframework.stereotype.Service;
  * 基于 MyBatis-Plus 的 {@link ServiceImpl} 实现通用 CRUD。
  * </p>
  *
- * @author mike
  * @date 2026-03-30
  */
 @Service

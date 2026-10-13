@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 分销员银行卡业务层
  *
- * @author Bulbasaur
  * @since 2026-08-06
  */
 public interface DistributionBankCardService extends IService<DistributionBankCard> {

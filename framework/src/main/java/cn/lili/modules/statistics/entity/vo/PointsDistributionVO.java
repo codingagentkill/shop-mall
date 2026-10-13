@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * 客户可用积分分布数据
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Data

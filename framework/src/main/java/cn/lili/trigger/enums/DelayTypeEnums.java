@@ -3,7 +3,6 @@ package cn.lili.trigger.enums;
 /**
  * 延时任务类型
  *
- * @author paulG
  * @since 2021/5/7
  */
 public enum DelayTypeEnums {

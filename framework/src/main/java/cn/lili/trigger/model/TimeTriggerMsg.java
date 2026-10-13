@@ -9,7 +9,6 @@ import java.io.Serializable;
 /**
  * 延时任务消息
  *
- * @author Chopper
  * @version v1.0
  * @since
  * 2019-02-12 下午5:46

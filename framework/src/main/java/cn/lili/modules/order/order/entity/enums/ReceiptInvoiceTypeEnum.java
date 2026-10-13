@@ -5,7 +5,6 @@ import cn.hutool.core.text.CharSequenceUtil;
 /**
  * 订单发票类型
  *
- * @author Mike
  */
 public enum ReceiptInvoiceTypeEnum {
 

@@ -13,7 +13,6 @@ import static org.mockito.Mockito.verify;
 /**
  * 分销失败且 MQ 不在时，reprocess 接口可补入账。
  *
- * @author Mike
  * @date 2026-09-07
  */
 class DistributionOrderManagerControllerReprocessTest {

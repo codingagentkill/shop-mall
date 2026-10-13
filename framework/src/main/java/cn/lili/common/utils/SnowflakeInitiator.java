@@ -10,7 +10,6 @@ import jakarta.annotation.PostConstruct;
 /**
  * SnowflakeInitiator
  *
- * @author Chopper
  * @version v1.0
  * 2022-01-14 14:04
  */

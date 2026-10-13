@@ -13,7 +13,6 @@ import org.springframework.transaction.annotation.Transactional;
  * {@code UnexpectedRollbackException} 仍会打断同阶段的订单状态 MQ。
  * </p>
  *
- * @author Mike
  * @date 2026-09-07
  */
 @Service

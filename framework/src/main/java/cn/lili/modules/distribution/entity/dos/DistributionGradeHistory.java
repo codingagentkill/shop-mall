@@ -15,7 +15,6 @@ import java.util.Date;
 /**
  * 分销等级变更历史
  *
- * @author pikachu
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

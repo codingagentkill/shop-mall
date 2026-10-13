@@ -10,7 +10,6 @@ import java.io.Serializable;
 /**
  * 查询参数
  *
- * @author Chopper
  */
 @Data
 public class PageVO implements Serializable {

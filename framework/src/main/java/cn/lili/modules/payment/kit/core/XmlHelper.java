@@ -29,7 +29,6 @@ import java.util.Map;
  *     文档地址：
  *     http://www.w3school.com.cn/xpath/index.asp
  * </pre>
- * @author L.cm
  */
 public class XmlHelper {
     private final XPath path;

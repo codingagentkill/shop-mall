@@ -3,7 +3,6 @@ package cn.lili.modules.distribution.entity.enums;
 /**
  * 分销员自购直接佣金归属模式
  *
- * @author pikachu
  */
 public enum DistributionSelfPurchaseModeEnum {
 

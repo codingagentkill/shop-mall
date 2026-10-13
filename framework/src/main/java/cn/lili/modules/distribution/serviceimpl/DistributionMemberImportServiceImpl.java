@@ -51,7 +51,6 @@ import java.util.regex.Pattern;
 /**
  * 分销员批量导入实现
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Slf4j
@@ -94,7 +93,7 @@ public class DistributionMemberImportServiceImpl
     @Override
     public void downloadTemplate(HttpServletResponse response) {
         List<List<Object>> sample = List.of(List.of(
-                "13800138000", "", "示例分销员", "", "", "1"));
+                "", "", "示例分销员", "", "", "1"));
         FinanceExportHelper.writeExcel(response, "分销员批量导入模板", writer ->
                 FinanceExportHelper.writeSheet(writer, "分销员导入", TEMPLATE_HEADERS, sample));
     }

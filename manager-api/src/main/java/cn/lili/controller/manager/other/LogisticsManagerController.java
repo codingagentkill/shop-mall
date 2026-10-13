@@ -19,7 +19,6 @@ import jakarta.validation.constraints.NotNull;
 /**
  * 管理端,物流公司接口
  *
- * @author Chopper
  * @since 2020/11/17 7:56 下午
  */
 @RestController

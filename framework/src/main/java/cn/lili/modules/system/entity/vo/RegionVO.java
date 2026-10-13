@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 地区VO
  *
- * @author Chopper
  * @since 2021-02-08 09:49
  */
 @Data

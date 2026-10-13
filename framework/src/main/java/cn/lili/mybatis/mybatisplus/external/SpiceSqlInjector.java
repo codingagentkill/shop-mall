@@ -10,7 +10,6 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * @author paulG
  * @since 2022/7/18
  **/
 @Component

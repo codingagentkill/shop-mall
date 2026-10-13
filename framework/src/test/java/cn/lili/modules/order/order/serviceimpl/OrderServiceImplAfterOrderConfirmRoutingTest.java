@@ -27,7 +27,6 @@ import static org.mockito.Mockito.when;
 /**
  * afterOrderConfirm 路由：E_COUPON 仅进入专用入口，NORMAL/VIRTUAL 不调用卡密服务。
  *
- * @author Mike
  * @date 2026-08-03
  */
 class OrderServiceImplAfterOrderConfirmRoutingTest {

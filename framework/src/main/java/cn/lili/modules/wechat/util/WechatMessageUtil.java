@@ -31,7 +31,6 @@ import java.util.*;
 /**
  * 微信消息
  *
- * @author Chopper
  * @version v1.0
  * 2020-12-10 19:12
  */

@@ -9,7 +9,6 @@ import java.io.Serializable;
 /**
  * OSS设置
  *
- * @author Chopper
  * @since 2020/11/26 15:50
  */
 

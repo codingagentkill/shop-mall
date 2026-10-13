@@ -8,7 +8,6 @@ import java.io.Serializable;
 /**
  * 分销客户关系设置
  *
- * @author pikachu
  */
 @Data
 public class DistributionCustomerSetting implements Serializable {

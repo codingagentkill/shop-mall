@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 站点基础配置获取
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @since 2022/9/22 17:49
  */

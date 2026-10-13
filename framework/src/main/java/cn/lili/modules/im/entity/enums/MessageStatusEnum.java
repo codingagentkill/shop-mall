@@ -3,7 +3,6 @@ package cn.lili.modules.im.entity.enums;
 /**
  * 消息的类型
  *
- * @author liushuai(liushuai711 @ gmail.com)
  * @version v4.0
  * @Description:
  * @since 2022/2/10 16:36

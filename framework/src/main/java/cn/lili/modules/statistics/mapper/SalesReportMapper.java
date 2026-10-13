@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 销售报表数据层
  *
- * @author Bulbasaur
  * @since 2026/07/20
  */
 public interface SalesReportMapper extends BaseMapper<StoreFlow> {

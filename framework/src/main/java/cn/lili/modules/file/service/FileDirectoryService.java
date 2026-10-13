@@ -10,7 +10,6 @@ import java.util.List;
 /**
  * 文件管理业务层
  *
- * @author Chopper
  */
 public interface FileDirectoryService extends IService<FileDirectory> {
 

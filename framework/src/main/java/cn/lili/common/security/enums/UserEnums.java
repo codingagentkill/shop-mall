@@ -3,7 +3,6 @@ package cn.lili.common.security.enums;
 /**
  * token角色类型
  *
- * @author Chopper
  * @version v1.0
  * @since 2020/8/18 15:23
  */

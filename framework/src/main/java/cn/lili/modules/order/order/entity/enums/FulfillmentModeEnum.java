@@ -3,7 +3,6 @@ package cn.lili.modules.order.order.entity.enums;
 /**
  * 商家发货履约模式
  *
- * @author Mike
  * @since 2026-08-13
  */
 public enum FulfillmentModeEnum {

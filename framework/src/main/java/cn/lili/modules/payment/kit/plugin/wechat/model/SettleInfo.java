@@ -6,7 +6,6 @@ import lombok.experimental.Accessors;
 /**
  * 统一下单-结算信息
  *
- * @author Chopper
  * @since 2020/12/17 17:58
  */
 @Data

@@ -5,7 +5,6 @@ import cn.lili.trigger.enums.DelayTypeEnums;
 /**
  * 延时任务工具类
  *
- * @author paulG
  * @since 2021/5/7
  **/
 public class DelayQueueTools {

@@ -5,7 +5,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
  * 聊天 Dao层
- * @author Chopper
  */
 public interface ImTalkMapper extends BaseMapper<ImTalk> {
 

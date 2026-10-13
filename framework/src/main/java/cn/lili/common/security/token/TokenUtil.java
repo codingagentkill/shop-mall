@@ -20,7 +20,6 @@ import java.util.concurrent.TimeUnit;
 /**
  * TokenUtil
  *
- * @author Chopper
  * @version v1.0
  * 2020-11-12 18:44
  */

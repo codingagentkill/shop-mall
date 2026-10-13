@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 交易参数
  *
- * @author paulG
  * @since 2021/2/23
  **/
 @Data

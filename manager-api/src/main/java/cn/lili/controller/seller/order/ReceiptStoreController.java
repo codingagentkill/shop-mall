@@ -24,7 +24,6 @@ import java.util.Objects;
 /**
  * 店铺端,发票接口
  *
- * @author Bulbasaur
  * @since 2020/11/28 14:09
  **/
 @RestController

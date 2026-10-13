@@ -6,7 +6,6 @@ import lombok.Data;
 /**
  * QQ联合登录具体配置
  *
- * @author Chopper
  * @since 2020/11/17 7:59 下午
  */
 @Data

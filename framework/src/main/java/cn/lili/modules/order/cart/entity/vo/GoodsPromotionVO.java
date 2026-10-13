@@ -11,7 +11,6 @@ import java.util.Date;
 /**
  * 商品促销VO
  *
- * @author Chopper
  * @since 2020-04-01 10:42 上午
  */
 @Data

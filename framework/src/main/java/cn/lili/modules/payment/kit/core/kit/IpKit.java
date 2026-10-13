@@ -6,7 +6,6 @@ package cn.lili.modules.payment.kit.core.kit;
 import jakarta.servlet.http.HttpServletRequest;
 
 /**
- * @author
  */
 public class IpKit {
     public IpKit() {

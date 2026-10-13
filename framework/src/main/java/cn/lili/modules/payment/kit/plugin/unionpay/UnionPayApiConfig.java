@@ -16,7 +16,6 @@ import java.io.Serializable;
  *
  * <p>云闪付常用配置</p>
  *
- * @author Javen
  */
 @Getter
 @Setter

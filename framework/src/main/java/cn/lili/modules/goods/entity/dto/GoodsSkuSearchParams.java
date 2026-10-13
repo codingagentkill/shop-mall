@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 规格商品查询条件
  *
- * @author paulG
  * @since 2020/12/15
  **/
 @Data

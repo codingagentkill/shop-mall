@@ -9,7 +9,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 微信小程序消息订阅
  *
- * @author Chopper
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

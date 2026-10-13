@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * 分销订单数据处理层
  *
- * @author pikachu
  * @since 2020-03-15 10:45:56
  */
 public interface DistributionOrderMapper extends BaseMapper<DistributionOrder> {

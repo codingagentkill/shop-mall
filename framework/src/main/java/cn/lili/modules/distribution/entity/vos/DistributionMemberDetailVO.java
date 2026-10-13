@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 分销员详情 VO
  *
- * @author Bulbasaur
  * @since 2026-07-28
  */
 @Data

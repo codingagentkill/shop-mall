@@ -9,7 +9,6 @@ import java.util.List;
 /**
  * 规格值
  *
- * @author Chopper
  * @since 2020-02-26 23:24:13
  */
 @Data

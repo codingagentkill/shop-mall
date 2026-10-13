@@ -9,7 +9,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * 分销佣金计算工具单元测试
  *
- * @author Bulbasaur
  * @since 2026-08-04
  */
 class DistributionCommissionCalculatorTest {

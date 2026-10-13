@@ -8,7 +8,6 @@ import java.util.Date;
 /**
  * 店铺结算日
  *
- * @author Chopper
  * @since 2021/2/20 3:24 下午
  */
 @Data

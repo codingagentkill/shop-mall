@@ -7,7 +7,6 @@ import java.util.List;
 
 /**
  * 提现
- * @author Bulbasaur
  */
 @Data
 @Accessors(chain = true)

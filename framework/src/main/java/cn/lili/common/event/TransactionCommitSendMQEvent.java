@@ -6,7 +6,6 @@ import org.springframework.context.ApplicationEvent;
 /**
  * 事务提交后发生mq事件
  *
- * @author paulG
  * @since 2022/1/19
  **/
 public class TransactionCommitSendMQEvent extends ApplicationEvent {

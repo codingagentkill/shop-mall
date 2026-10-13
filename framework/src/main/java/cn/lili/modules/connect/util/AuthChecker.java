@@ -14,7 +14,6 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * 授权配置类的校验器
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @since 1.6.1-beta
  */
 public class AuthChecker {

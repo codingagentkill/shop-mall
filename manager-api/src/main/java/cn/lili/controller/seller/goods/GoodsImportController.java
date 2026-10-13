@@ -16,7 +16,6 @@ import org.springframework.web.multipart.MultipartFile;
 import jakarta.servlet.http.HttpServletResponse;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 @Tag(name = "商品导入")

@@ -20,7 +20,6 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 /**
  * 买家端,客户发票接口
  *
- * @author paulG
  * @since 2021-03-29 14:10:16
  */
 @RestController

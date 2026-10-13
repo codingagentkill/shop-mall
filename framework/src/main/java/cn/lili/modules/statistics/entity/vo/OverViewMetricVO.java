@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 /**
  * 带环比的统计指标
  *
- * @author Bulbasaur
  * @since 2026/07/17
  */
 @Data

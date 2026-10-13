@@ -6,7 +6,6 @@ import lombok.NoArgsConstructor;
 
 /**
  * 订单统计VO
- * @author chc
  * @since 2022/6/2114:46
  */
 @Data

@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * 管理端,文章分类管理接口
  *
- * @author pikachu
  * @since 2020-05-5 15:10:16
  */
 @Slf4j

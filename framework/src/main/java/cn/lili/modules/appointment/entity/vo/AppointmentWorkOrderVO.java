@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 预约服务工单视图
  *
- * @author Bulbasaur
  * @since 2026-09-20
  */
 @Data

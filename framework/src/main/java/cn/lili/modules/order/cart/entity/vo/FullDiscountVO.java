@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * 满额活动VO
  *
- * @author Chopper
  * @since 2020-04-01 10:42 上午
  */
 @EqualsAndHashCode(callSuper = true)

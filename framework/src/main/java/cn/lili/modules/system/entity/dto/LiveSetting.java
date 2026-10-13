@@ -5,7 +5,6 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author chc
  * @since 2022/6/2114:46
  */
 @Data

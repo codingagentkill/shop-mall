@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
  * 管理端,系统设置扩展接口
  * 对一些系统设置的支持，例如动态表单等
  *
- * @author Chopper
  * @since 2020/11/26 15:53
  */
 @RestController

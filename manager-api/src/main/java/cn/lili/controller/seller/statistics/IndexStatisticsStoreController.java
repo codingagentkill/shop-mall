@@ -22,7 +22,6 @@ import java.util.Objects;
 /**
  * 店铺端,首页统计接口
  *
- * @author Bulbasaur
  * @since 2020/12/9 19:04
  */
 @Tag(name = "店铺端,首页统计接口")

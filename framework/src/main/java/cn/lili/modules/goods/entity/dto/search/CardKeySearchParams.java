@@ -8,7 +8,6 @@ import lombok.EqualsAndHashCode;
 /**
  * 卡池列表查询参数
  *
- * @author Mike
  * @date 2026-07-31
  */
 @Data

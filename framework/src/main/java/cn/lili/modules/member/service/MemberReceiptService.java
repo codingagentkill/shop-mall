@@ -12,7 +12,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 客户发票业务层
  *
- * @author Chopper
  * @since 2021-03-29 14:10:16
  */
 public interface MemberReceiptService extends IService<MemberReceipt> {

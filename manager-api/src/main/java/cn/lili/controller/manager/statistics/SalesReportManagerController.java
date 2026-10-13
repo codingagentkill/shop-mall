@@ -21,7 +21,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 管理端销售报表
  *
- * @author Bulbasaur
  * @since 2026/07/20
  */
 @Tag(name = "管理端,销售报表")

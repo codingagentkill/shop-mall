@@ -6,7 +6,6 @@ import cn.lili.common.security.enums.UserEnums;
 /**
  * 缓存前缀
  *
- * @author pikachu
  * @version 4.1
  * @since 1.0
  * 2018/3/19

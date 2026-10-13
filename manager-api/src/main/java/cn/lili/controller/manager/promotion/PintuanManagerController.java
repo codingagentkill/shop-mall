@@ -25,7 +25,6 @@ import java.util.Arrays;
 /**
  * 管理端,平台拼团接口
  *
- * @author paulG
  * @since 2020/10/9
  **/
 @RestController

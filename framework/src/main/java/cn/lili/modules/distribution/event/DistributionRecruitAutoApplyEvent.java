@@ -6,7 +6,6 @@ import org.springframework.context.ApplicationEvent;
 /**
  * 订单支付事务提交后尝试分销招募自动申请。
  *
- * @author Mike
  * @date 2026-09-18
  */
 public class DistributionRecruitAutoApplyEvent extends ApplicationEvent {

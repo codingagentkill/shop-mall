@@ -31,7 +31,6 @@ import java.util.List;
 /**
  * 消息发送
  *
- * @author paulG
  * @since 2020/12/9
  */
 @Component
